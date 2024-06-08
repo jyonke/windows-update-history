@@ -19,9 +19,9 @@
     "AvailabilityDate": "2018-11-13",
     "ReleaseType": "Standard",
     "RelaseId": "1809",
-    "Build": "17763.134",
-    "KBArticle": "KB4467708",
-    "KBUrl": "https://support.microsoft.com/help/4467708"
+    "Build": "17763.107",
+    "KBArticle": "KB4464455",
+    "KBUrl": "https://support.microsoft.com/help/4464455"
   },
   {
     "Product": "Windows Server 2019",
@@ -31,9 +31,9 @@
     "AvailabilityDate": "2018-11-13",
     "ReleaseType": "Standard",
     "RelaseId": "1809",
-    "Build": "17763.107",
-    "KBArticle": "KB4464455",
-    "KBUrl": "https://support.microsoft.com/help/4464455"
+    "Build": "17763.134",
+    "KBArticle": "KB4467708",
+    "KBUrl": "https://support.microsoft.com/help/4467708"
   },
   {
     "Product": "Windows Server 2019",

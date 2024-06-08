@@ -532,6 +532,20 @@
   {
     "Product": "Windows 10",
     "ServicingOption": [
+      "LTSB",
+      "CB",
+      "CBB"
+    ],
+    "AvailabilityDate": "2016-09-13",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.17113",
+    "KBArticle": "KB3185611",
+    "KBUrl": "https://support.microsoft.com/help/3185611"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
       "CBB",
       "CB"
     ],
@@ -541,6 +555,19 @@
     "Build": "10586.589",
     "KBArticle": "KB3185614",
     "KBUrl": "https://support.microsoft.com/help/3185614"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "CB",
+      "LTSB"
+    ],
+    "AvailabilityDate": "2016-09-13",
+    "ReleaseType": "Standard",
+    "RelaseId": "1607",
+    "Build": "14393.187",
+    "KBArticle": "KB3189866",
+    "KBUrl": "https://support.microsoft.com/help/3189866"
   },
   {
     "Product": "Windows 10",
@@ -1747,6 +1774,18 @@
   {
     "Product": "Windows 10",
     "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2018-01-31",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.17741",
+    "KBArticle": "KB4077735",
+    "KBUrl": "https://support.microsoft.com/help/4077735"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
       "Semi-Annual Channel",
       "Semi-Annual Channel (Targeted)"
     ],
@@ -1835,6 +1874,19 @@
     "Build": "14393.2097",
     "KBArticle": "KB4077525",
     "KBUrl": "https://support.microsoft.com/help/4077525"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel",
+      "CB"
+    ],
+    "AvailabilityDate": "2018-02-22",
+    "ReleaseType": "Standard",
+    "RelaseId": "1703",
+    "Build": "15063.936",
+    "KBArticle": "KB4077528",
+    "KBUrl": "https://support.microsoft.com/help/4077528"
   },
   {
     "Product": "Windows 10",
@@ -2994,9 +3046,9 @@
     "AvailabilityDate": "2018-11-13",
     "ReleaseType": "Standard",
     "RelaseId": "1809",
-    "Build": "17763.134",
-    "KBArticle": "KB4467708",
-    "KBUrl": "https://support.microsoft.com/help/4467708"
+    "Build": "17763.107",
+    "KBArticle": "KB4464455",
+    "KBUrl": "https://support.microsoft.com/help/4464455"
   },
   {
     "Product": "Windows 10",
@@ -3007,9 +3059,9 @@
     "AvailabilityDate": "2018-11-13",
     "ReleaseType": "Standard",
     "RelaseId": "1809",
-    "Build": "17763.107",
-    "KBArticle": "KB4464455",
-    "KBUrl": "https://support.microsoft.com/help/4464455"
+    "Build": "17763.134",
+    "KBArticle": "KB4467708",
+    "KBUrl": "https://support.microsoft.com/help/4467708"
   },
   {
     "Product": "Windows 10",
@@ -3794,9 +3846,9 @@
     "AvailabilityDate": "2019-04-25",
     "ReleaseType": "Standard",
     "RelaseId": "1607",
-    "Build": "14393.2941",
-    "KBArticle": "KB4493473",
-    "KBUrl": "https://support.microsoft.com/help/4493473"
+    "Build": "14393.2908",
+    "KBArticle": "KB4499418",
+    "KBUrl": "https://support.microsoft.com/help/4499418"
   },
   {
     "Product": "Windows 10",
@@ -3808,9 +3860,9 @@
     "AvailabilityDate": "2019-04-25",
     "ReleaseType": "Standard",
     "RelaseId": "1607",
-    "Build": "14393.2908",
-    "KBArticle": "KB4499418",
-    "KBUrl": "https://support.microsoft.com/help/4499418"
+    "Build": "14393.2941",
+    "KBArticle": "KB4493473",
+    "KBUrl": "https://support.microsoft.com/help/4493473"
   },
   {
     "Product": "Windows 10",
@@ -7229,11 +7281,11 @@
       "Semi-Annual Channel"
     ],
     "AvailabilityDate": "2020-11-19",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Out-of-band",
     "RelaseId": "1903",
-    "Build": "18362.1237",
-    "KBArticle": "KB4586819",
-    "KBUrl": "https://support.microsoft.com/help/4586819"
+    "Build": "18362.1199",
+    "KBArticle": "KB4594443",
+    "KBUrl": "https://support.microsoft.com/help/4594443"
   },
   {
     "Product": "Windows 10",
@@ -7241,11 +7293,11 @@
       "Semi-Annual Channel"
     ],
     "AvailabilityDate": "2020-11-19",
-    "ReleaseType": "Out-of-band",
+    "ReleaseType": "Preview",
     "RelaseId": "1903",
-    "Build": "18362.1199",
-    "KBArticle": "KB4594443",
-    "KBUrl": "https://support.microsoft.com/help/4594443"
+    "Build": "18362.1237",
+    "KBArticle": "KB4586819",
+    "KBUrl": "https://support.microsoft.com/help/4586819"
   },
   {
     "Product": "Windows 10",

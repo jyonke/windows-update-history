@@ -286,6 +286,20 @@
       "CB",
       "CBB"
     ],
+    "AvailabilityDate": "2016-09-13",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.17113",
+    "KBArticle": "KB3185611",
+    "KBUrl": "https://support.microsoft.com/help/3185611"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB",
+      "CB",
+      "CBB"
+    ],
     "AvailabilityDate": "2016-09-20",
     "ReleaseType": "Standard",
     "RelaseId": "1507",
@@ -514,6 +528,18 @@
     "Build": "10240.17741",
     "KBArticle": "KB4075199",
     "KBUrl": "https://support.microsoft.com/help/4075199"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2018-01-31",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.17741",
+    "KBArticle": "KB4077735",
+    "KBUrl": "https://support.microsoft.com/help/4077735"
   },
   {
     "Product": "Windows 10",

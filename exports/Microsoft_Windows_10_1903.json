@@ -461,11 +461,11 @@
       "Semi-Annual Channel"
     ],
     "AvailabilityDate": "2020-11-19",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Out-of-band",
     "RelaseId": "1903",
-    "Build": "18362.1237",
-    "KBArticle": "KB4586819",
-    "KBUrl": "https://support.microsoft.com/help/4586819"
+    "Build": "18362.1199",
+    "KBArticle": "KB4594443",
+    "KBUrl": "https://support.microsoft.com/help/4594443"
   },
   {
     "Product": "Windows 10",
@@ -473,11 +473,11 @@
       "Semi-Annual Channel"
     ],
     "AvailabilityDate": "2020-11-19",
-    "ReleaseType": "Out-of-band",
+    "ReleaseType": "Preview",
     "RelaseId": "1903",
-    "Build": "18362.1199",
-    "KBArticle": "KB4594443",
-    "KBUrl": "https://support.microsoft.com/help/4594443"
+    "Build": "18362.1237",
+    "KBArticle": "KB4586819",
+    "KBUrl": "https://support.microsoft.com/help/4586819"
   },
   {
     "Product": "Windows 10",

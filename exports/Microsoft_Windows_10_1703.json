@@ -246,6 +246,19 @@
       "Semi-Annual Channel",
       "CB"
     ],
+    "AvailabilityDate": "2018-02-22",
+    "ReleaseType": "Standard",
+    "RelaseId": "1703",
+    "Build": "15063.936",
+    "KBArticle": "KB4077528",
+    "KBUrl": "https://support.microsoft.com/help/4077528"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel",
+      "CB"
+    ],
     "AvailabilityDate": "2018-03-08",
     "ReleaseType": "Standard",
     "RelaseId": "1703",
