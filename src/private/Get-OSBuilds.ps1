@@ -74,7 +74,11 @@ function Get-OSBuilds {
     $matches = [regex]::Matches($htmlContent, $pattern)
 
     # Process each match and create PSCustomObject
-    $results = $matches | ForEach-Object {
+    $results = $matches | ForEach-Object -Parallel {
+        # Import private functions
+        Get-ChildItem $using:PSScriptRoot *.ps1 | ForEach-Object { . $PSItem.FullName }
+
+        $OSProduct = $using:Product
         $servicingOption = $_.Groups[1].Value -replace '<[^>]*>', '' -replace '\s{2,}', ' '
         $availabilityDate = $_.Groups[2].Value.Trim()
         $ubr = $_.Groups[3].Value.Trim()
@@ -86,20 +90,20 @@ function Get-OSBuilds {
 
         Write-Verbose "Processing: $ubr" 
         # Filter Major Builds
-        if (($Build) -and ([string]$MajorBuildNumber -ne [string]$Build)) {
-            Write-Verbose "Skipping: $ubr, Filtering $Build only"
+        if (($using:Build) -and ([string]$MajorBuildNumber -ne [string]$using:Build)) {
+            Write-Verbose "Skipping: $ubr, Filtering $using:Build only"
             return
         }
 
         # Map Releaseid
         Write-Verbose "Mapping Releaseid from Major Build: $MajorBuildNumber"
         # Server
-        if ($Product -match 'Server') {
+        if ($OSProduct -match 'Server') {
             switch ($MajorBuildNumber) {
-                "14393" { [string]$Product = 'Windows Server 2016' }
-                "17763" { [string]$Product = 'Windows Server 2019' }
-                "20348" { [string]$Product = 'Windows Server 2022' }
-                "25398" { [string]$Product = 'Windows Server' }
+                "14393" { [string]$OSProduct = 'Windows Server 2016' }
+                "17763" { [string]$OSProduct = 'Windows Server 2019' }
+                "20348" { [string]$OSProduct = 'Windows Server 2022' }
+                "25398" { [string]$OSProduct = 'Windows Server' }
                 Default {
                     return
                 }
@@ -148,17 +152,17 @@ function Get-OSBuilds {
         else {
             Write-Verbose "Missing KB URL Redirect: $KBUrl"
         }
-        if (($Preview -ne $true) -and ($type -eq 'Preview')) {
+        if (($using:Preview -ne $true) -and ($type -eq 'Preview')) {
             Write-Verbose "Skipping: $ubr is a Preview Build"
             return
         }
-        if (($OutofBand -ne $true) -and ($type -eq 'Out-of-band')) {
+        if (($using:OutofBand -ne $true) -and ($type -eq 'Out-of-band')) {
             Write-Verbose "Skipping: $ubr is an Out-of-Band Build"
             return
         }
 
         [PSCustomObject]@{
-            'Product'          = $product
+            'Product'          = $OSProduct
             'ServicingOption'  = $servicingOptionArray
             'AvailabilityDate' = $availabilityDate
             'ReleaseType'      = $type
@@ -169,10 +173,10 @@ function Get-OSBuilds {
             'MajorBuildNumber' = $MajorBuildNumber
             'MinorBuildNumber' = $MinorBuildNumber
         }
-    }
+    } -ThrottleLimit 8
 
     # Format, filter and return the results
-    $resultsf = $results | Sort-Object -Unique -Property Build | Sort-Object -Property 'AvailabilityDate', 'MajorBuildNumber' | Select-Object -Property * -ExcludeProperty 'MajorBuildNumber', 'MinorBuildNumber'
+    $resultsf = $results | Sort-Object -Property Build | Sort-Object -Property 'AvailabilityDate', 'MajorBuildNumber', 'MinorBuildNumber' | Select-Object -Property * -ExcludeProperty 'MajorBuildNumber', 'MinorBuildNumber'
     
     if ($Newest) {
         $resultsf = $resultsf | Select-Object -Last 1
