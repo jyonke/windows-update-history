@@ -1,0 +1,662 @@
+[
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2021-08-26",
+    "ReleaseType": "Preview",
+    "RelaseId": "21H2",
+    "Build": "20348.202",
+    "KBArticle": "KB5005104",
+    "KBUrl": "https://support.microsoft.com/help/5005104"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2021-09-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "21H2",
+    "Build": "20348.230",
+    "KBArticle": "KB5005575",
+    "KBUrl": "https://support.microsoft.com/help/5005575"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2021-09-27",
+    "ReleaseType": "Preview",
+    "RelaseId": "21H2",
+    "Build": "20348.261",
+    "KBArticle": "KB5005619",
+    "KBUrl": "https://support.microsoft.com/help/5005619"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2021-10-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "21H2",
+    "Build": "20348.288",
+    "KBArticle": "KB5006699",
+    "KBUrl": "https://support.microsoft.com/help/5006699"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2021-10-26",
+    "ReleaseType": "Preview",
+    "RelaseId": "21H2",
+    "Build": "20348.320",
+    "KBArticle": "KB5006745",
+    "KBUrl": "https://support.microsoft.com/help/5006745"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2021-11-09",
+    "ReleaseType": "Standard",
+    "RelaseId": "21H2",
+    "Build": "20348.350",
+    "KBArticle": "KB5007205",
+    "KBUrl": "https://support.microsoft.com/help/5007205"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2021-11-22",
+    "ReleaseType": "Preview",
+    "RelaseId": "21H2",
+    "Build": "20348.380",
+    "KBArticle": "KB5007254",
+    "KBUrl": "https://support.microsoft.com/help/5007254"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2021-12-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "21H2",
+    "Build": "20348.405",
+    "KBArticle": "KB5008223",
+    "KBUrl": "https://support.microsoft.com/help/5008223"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-01-05",
+    "ReleaseType": "Out-of-band",
+    "RelaseId": "21H2",
+    "Build": "20348.407",
+    "KBArticle": "KB5010197",
+    "KBUrl": "https://support.microsoft.com/help/5010197"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-01-11",
+    "ReleaseType": "Standard",
+    "RelaseId": "21H2",
+    "Build": "20348.469",
+    "KBArticle": "KB5009555",
+    "KBUrl": "https://support.microsoft.com/help/5009555"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-01-17",
+    "ReleaseType": "Out-of-band",
+    "RelaseId": "21H2",
+    "Build": "20348.473",
+    "KBArticle": "KB5010796",
+    "KBUrl": "https://support.microsoft.com/help/5010796"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-01-25",
+    "ReleaseType": "Preview",
+    "RelaseId": "21H2",
+    "Build": "20348.502",
+    "KBArticle": "KB5009608",
+    "KBUrl": "https://support.microsoft.com/help/5009608"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-02-08",
+    "ReleaseType": "Standard",
+    "RelaseId": "21H2",
+    "Build": "20348.524",
+    "KBArticle": "KB5010354",
+    "KBUrl": "https://support.microsoft.com/help/5010354"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-02-15",
+    "ReleaseType": "Preview",
+    "RelaseId": "21H2",
+    "Build": "20348.558",
+    "KBArticle": "KB5010421",
+    "KBUrl": "https://support.microsoft.com/help/5010421"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-03-08",
+    "ReleaseType": "Standard",
+    "RelaseId": "21H2",
+    "Build": "20348.587",
+    "KBArticle": "KB5011497",
+    "KBUrl": "https://support.microsoft.com/help/5011497"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-03-22",
+    "ReleaseType": "Preview",
+    "RelaseId": "21H2",
+    "Build": "20348.617",
+    "KBArticle": "KB5011558",
+    "KBUrl": "https://support.microsoft.com/help/5011558"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-04-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "21H2",
+    "Build": "20348.643",
+    "KBArticle": "KB5012604",
+    "KBUrl": "https://support.microsoft.com/help/5012604"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-04-25",
+    "ReleaseType": "Preview",
+    "RelaseId": "21H2",
+    "Build": "20348.681",
+    "KBArticle": "KB5012637",
+    "KBUrl": "https://support.microsoft.com/help/5012637"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-05-10",
+    "ReleaseType": "Standard",
+    "RelaseId": "21H2",
+    "Build": "20348.707",
+    "KBArticle": "KB5013944",
+    "KBUrl": "https://support.microsoft.com/help/5013944"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-05-19",
+    "ReleaseType": "Out-of-band",
+    "RelaseId": "21H2",
+    "Build": "20348.709",
+    "KBArticle": "KB5015013",
+    "KBUrl": "https://support.microsoft.com/help/5015013"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-05-24",
+    "ReleaseType": "Preview",
+    "RelaseId": "21H2",
+    "Build": "20348.740",
+    "KBArticle": "KB5014021",
+    "KBUrl": "https://support.microsoft.com/help/5014021"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-06-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "21H2",
+    "Build": "20348.768",
+    "KBArticle": "KB5014678",
+    "KBUrl": "https://support.microsoft.com/help/5014678"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-06-23",
+    "ReleaseType": "Preview",
+    "RelaseId": "21H2",
+    "Build": "20348.803",
+    "KBArticle": "KB5014665",
+    "KBUrl": "https://support.microsoft.com/help/5014665"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-07-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "21H2",
+    "Build": "20348.825",
+    "KBArticle": "KB5015827",
+    "KBUrl": "https://support.microsoft.com/help/5015827"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-07-19",
+    "ReleaseType": "Preview",
+    "RelaseId": "21H2",
+    "Build": "20348.859",
+    "KBArticle": "KB5015879",
+    "KBUrl": "https://support.microsoft.com/help/5015879"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-08-09",
+    "ReleaseType": "Standard",
+    "RelaseId": "21H2",
+    "Build": "20348.887",
+    "KBArticle": "KB5016627",
+    "KBUrl": "https://support.microsoft.com/help/5016627"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-08-16",
+    "ReleaseType": "Preview",
+    "RelaseId": "21H2",
+    "Build": "20348.946",
+    "KBArticle": "KB5016693",
+    "KBUrl": "https://support.microsoft.com/help/5016693"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-09-13",
+    "ReleaseType": "Standard",
+    "RelaseId": "21H2",
+    "Build": "20348.1006",
+    "KBArticle": "KB5017316",
+    "KBUrl": "https://support.microsoft.com/help/5017316"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-09-20",
+    "ReleaseType": "Preview",
+    "RelaseId": "21H2",
+    "Build": "20348.1070",
+    "KBArticle": "KB5017381",
+    "KBUrl": "https://support.microsoft.com/help/5017381"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-10-11",
+    "ReleaseType": "Standard",
+    "RelaseId": "21H2",
+    "Build": "20348.1129",
+    "KBArticle": "KB5018421",
+    "KBUrl": "https://support.microsoft.com/help/5018421"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-10-17",
+    "ReleaseType": "Out-of-band",
+    "RelaseId": "21H2",
+    "Build": "20348.1131",
+    "KBArticle": "KB5020436",
+    "KBUrl": "https://support.microsoft.com/help/5020436"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-10-25",
+    "ReleaseType": "Preview",
+    "RelaseId": "21H2",
+    "Build": "20348.1194",
+    "KBArticle": "KB5018485",
+    "KBUrl": "https://support.microsoft.com/help/5018485"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-11-08",
+    "ReleaseType": "Standard",
+    "RelaseId": "21H2",
+    "Build": "20348.1249",
+    "KBArticle": "KB5019081",
+    "KBUrl": "https://support.microsoft.com/help/5019081"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-11-17",
+    "ReleaseType": "Out-of-band",
+    "RelaseId": "21H2",
+    "Build": "20348.1251",
+    "KBArticle": "KB5021656",
+    "KBUrl": "https://support.microsoft.com/help/5021656"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-11-22",
+    "ReleaseType": "Preview",
+    "RelaseId": "21H2",
+    "Build": "20348.1311",
+    "KBArticle": "KB5020032",
+    "KBUrl": "https://support.microsoft.com/help/5020032"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-12-13",
+    "ReleaseType": "Standard",
+    "RelaseId": "21H2",
+    "Build": "20348.1366",
+    "KBArticle": "KB5021249",
+    "KBUrl": "https://support.microsoft.com/help/5021249"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-12-20",
+    "ReleaseType": "Out-of-band",
+    "RelaseId": "21H2",
+    "Build": "20348.1368",
+    "KBArticle": "KB5022553",
+    "KBUrl": "https://support.microsoft.com/help/5022553"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2023-01-10",
+    "ReleaseType": "Standard",
+    "RelaseId": "21H2",
+    "Build": "20348.1487",
+    "KBArticle": "KB5022291",
+    "KBUrl": "https://support.microsoft.com/help/5022291"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2023-02-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "21H2",
+    "Build": "20348.1547",
+    "KBArticle": "KB5022842",
+    "KBUrl": "https://support.microsoft.com/help/5022842"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2023-03-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "21H2",
+    "Build": "20348.1607",
+    "KBArticle": "KB5023705",
+    "KBUrl": "https://support.microsoft.com/help/5023705"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2023-04-11",
+    "ReleaseType": "Standard",
+    "RelaseId": "21H2",
+    "Build": "20348.1668",
+    "KBArticle": "KB5025230",
+    "KBUrl": "https://support.microsoft.com/help/5025230"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2023-05-09",
+    "ReleaseType": "Standard",
+    "RelaseId": "21H2",
+    "Build": "20348.1726",
+    "KBArticle": "KB5026370",
+    "KBUrl": "https://support.microsoft.com/help/5026370"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2023-06-13",
+    "ReleaseType": "Standard",
+    "RelaseId": "21H2",
+    "Build": "20348.1787",
+    "KBArticle": "KB5027225",
+    "KBUrl": "https://support.microsoft.com/help/5027225"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2023-07-11",
+    "ReleaseType": "Standard",
+    "RelaseId": "21H2",
+    "Build": "20348.1850",
+    "KBArticle": "KB5028171",
+    "KBUrl": "https://support.microsoft.com/help/5028171"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2023-08-08",
+    "ReleaseType": "Standard",
+    "RelaseId": "21H2",
+    "Build": "20348.1906",
+    "KBArticle": "KB5029250",
+    "KBUrl": "https://support.microsoft.com/help/5029250"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2023-09-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "21H2",
+    "Build": "20348.1970",
+    "KBArticle": "KB5030216",
+    "KBUrl": "https://support.microsoft.com/help/5030216"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2023-10-10",
+    "ReleaseType": "Standard",
+    "RelaseId": "21H2",
+    "Build": "20348.2031",
+    "KBArticle": "KB5031364",
+    "KBUrl": "https://support.microsoft.com/help/5031364"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2023-11-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "21H2",
+    "Build": "20348.2113",
+    "KBArticle": "KB5032198",
+    "KBUrl": "https://support.microsoft.com/help/5032198"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2023-12-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "21H2",
+    "Build": "20348.2159",
+    "KBArticle": "KB5033118",
+    "KBUrl": "https://support.microsoft.com/help/5033118"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2024-01-09",
+    "ReleaseType": "Standard",
+    "RelaseId": "21H2",
+    "Build": "20348.2227",
+    "KBArticle": "KB5034129",
+    "KBUrl": "https://support.microsoft.com/help/5034129"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2024-02-13",
+    "ReleaseType": "Standard",
+    "RelaseId": "21H2",
+    "Build": "20348.2322",
+    "KBArticle": "KB5034770",
+    "KBUrl": "https://support.microsoft.com/help/5034770"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2024-03-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "21H2",
+    "Build": "20348.2340",
+    "KBArticle": "KB5035857",
+    "KBUrl": "https://support.microsoft.com/help/5035857"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2024-03-22",
+    "ReleaseType": "Out-of-band",
+    "RelaseId": "21H2",
+    "Build": "20348.2342",
+    "KBArticle": "KB5037422",
+    "KBUrl": "https://support.microsoft.com/help/5037422"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2024-04-09",
+    "ReleaseType": "Standard",
+    "RelaseId": "21H2",
+    "Build": "20348.2402",
+    "KBArticle": "KB5036909",
+    "KBUrl": "https://support.microsoft.com/help/5036909"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2024-05-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "21H2",
+    "Build": "20348.2461",
+    "KBArticle": "KB5037782",
+    "KBUrl": "https://support.microsoft.com/help/5037782"
+  }
+]

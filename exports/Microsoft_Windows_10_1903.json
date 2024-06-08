@@ -1,0 +1,494 @@
+[
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2019-05-21",
+    "ReleaseType": "Standard",
+    "RelaseId": "1903",
+    "Build": "18362.116",
+    "KBArticle": "KB4505057",
+    "KBUrl": "https://support.microsoft.com/help/4505057"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2019-05-29",
+    "ReleaseType": "Standard",
+    "RelaseId": "1903",
+    "Build": "18362.145",
+    "KBArticle": "KB4497935",
+    "KBUrl": "https://support.microsoft.com/help/4497935"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2019-06-11",
+    "ReleaseType": "Standard",
+    "RelaseId": "1903",
+    "Build": "18362.175",
+    "KBArticle": "KB4503293",
+    "KBUrl": "https://support.microsoft.com/help/4503293"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2019-06-27",
+    "ReleaseType": "Standard",
+    "RelaseId": "1903",
+    "Build": "18362.207",
+    "KBArticle": "KB4501375",
+    "KBUrl": "https://support.microsoft.com/help/4501375"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2019-07-09",
+    "ReleaseType": "Standard",
+    "RelaseId": "1903",
+    "Build": "18362.239",
+    "KBArticle": "KB4507453",
+    "KBUrl": "https://support.microsoft.com/help/4507453"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2019-07-26",
+    "ReleaseType": "Standard",
+    "RelaseId": "1903",
+    "Build": "18362.267",
+    "KBArticle": "KB4505903",
+    "KBUrl": "https://support.microsoft.com/help/4505903"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2019-08-13",
+    "ReleaseType": "Standard",
+    "RelaseId": "1903",
+    "Build": "18362.295",
+    "KBArticle": "KB4512508",
+    "KBUrl": "https://support.microsoft.com/help/4512508"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2019-08-30",
+    "ReleaseType": "Standard",
+    "RelaseId": "1903",
+    "Build": "18362.329",
+    "KBArticle": "KB4512941",
+    "KBUrl": "https://support.microsoft.com/help/4512941"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2019-09-10",
+    "ReleaseType": "Standard",
+    "RelaseId": "1903",
+    "Build": "18362.356",
+    "KBArticle": "KB4515384",
+    "KBUrl": "https://support.microsoft.com/help/4515384"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2019-09-23",
+    "ReleaseType": "Standard",
+    "RelaseId": "1903",
+    "Build": "18362.357",
+    "KBArticle": "KB4522016",
+    "KBUrl": "https://support.microsoft.com/help/4522016"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2019-09-26",
+    "ReleaseType": "Standard",
+    "RelaseId": "1903",
+    "Build": "18362.387",
+    "KBArticle": "KB4517211",
+    "KBUrl": "https://support.microsoft.com/help/4517211"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2019-10-03",
+    "ReleaseType": "Standard",
+    "RelaseId": "1903",
+    "Build": "18362.388",
+    "KBArticle": "KB4524147",
+    "KBUrl": "https://support.microsoft.com/help/4524147"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2019-10-08",
+    "ReleaseType": "Standard",
+    "RelaseId": "1903",
+    "Build": "18362.418",
+    "KBArticle": "KB4517389",
+    "KBUrl": "https://support.microsoft.com/help/4517389"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2019-10-24",
+    "ReleaseType": "Standard",
+    "RelaseId": "1903",
+    "Build": "18362.449",
+    "KBArticle": "KB4522355",
+    "KBUrl": "https://support.microsoft.com/help/4522355"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2019-11-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "1903",
+    "Build": "18362.476",
+    "KBArticle": "KB4524570",
+    "KBUrl": "https://support.microsoft.com/help/4524570"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2019-12-10",
+    "ReleaseType": "Standard",
+    "RelaseId": "1903",
+    "Build": "18362.535",
+    "KBArticle": "KB4530684",
+    "KBUrl": "https://support.microsoft.com/help/4530684"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2020-01-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "1903",
+    "Build": "18362.592",
+    "KBArticle": "KB4528760",
+    "KBUrl": "https://support.microsoft.com/help/4528760"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2020-01-28",
+    "ReleaseType": "Standard",
+    "RelaseId": "1903",
+    "Build": "18362.628",
+    "KBArticle": "KB4532695",
+    "KBUrl": "https://support.microsoft.com/help/4532695"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2020-02-11",
+    "ReleaseType": "Standard",
+    "RelaseId": "1903",
+    "Build": "18362.657",
+    "KBArticle": "KB4532693",
+    "KBUrl": "https://support.microsoft.com/help/4532693"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2020-02-27",
+    "ReleaseType": "Standard",
+    "RelaseId": "1903",
+    "Build": "18362.693",
+    "KBArticle": "KB4535996",
+    "KBUrl": "https://support.microsoft.com/help/4535996"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2020-03-10",
+    "ReleaseType": "Standard",
+    "RelaseId": "1903",
+    "Build": "18362.719",
+    "KBArticle": "KB4540673",
+    "KBUrl": "https://support.microsoft.com/help/4540673"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2020-03-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "1903",
+    "Build": "18362.720",
+    "KBArticle": "KB4551762",
+    "KBUrl": "https://support.microsoft.com/help/4551762"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2020-03-24",
+    "ReleaseType": "Standard",
+    "RelaseId": "1903",
+    "Build": "18362.752",
+    "KBArticle": "KB4541335",
+    "KBUrl": "https://support.microsoft.com/help/4541335"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2020-03-30",
+    "ReleaseType": "Standard",
+    "RelaseId": "1903",
+    "Build": "18362.753",
+    "KBArticle": "KB4554364",
+    "KBUrl": "https://support.microsoft.com/help/4554364"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2020-04-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "1903",
+    "Build": "18362.778",
+    "KBArticle": "KB4549951",
+    "KBUrl": "https://support.microsoft.com/help/4549951"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2020-04-21",
+    "ReleaseType": "Standard",
+    "RelaseId": "1903",
+    "Build": "18362.815",
+    "KBArticle": "KB4550945",
+    "KBUrl": "https://support.microsoft.com/help/4550945"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2020-05-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "1903",
+    "Build": "18362.836",
+    "KBArticle": "KB4556799",
+    "KBUrl": "https://support.microsoft.com/help/4556799"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2020-06-09",
+    "ReleaseType": "Standard",
+    "RelaseId": "1903",
+    "Build": "18362.900",
+    "KBArticle": "KB4560960",
+    "KBUrl": "https://support.microsoft.com/help/4560960"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2020-06-16",
+    "ReleaseType": "Standard",
+    "RelaseId": "1903",
+    "Build": "18362.904",
+    "KBArticle": "KB4567512",
+    "KBUrl": "https://support.microsoft.com/help/4567512"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2020-07-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "1903",
+    "Build": "18362.959",
+    "KBArticle": "KB4565483",
+    "KBUrl": "https://support.microsoft.com/help/4565483"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2020-07-21",
+    "ReleaseType": "Preview",
+    "RelaseId": "1903",
+    "Build": "18362.997",
+    "KBArticle": "KB4559004",
+    "KBUrl": "https://support.microsoft.com/help/4559004"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2020-08-11",
+    "ReleaseType": "Standard",
+    "RelaseId": "1903",
+    "Build": "18362.1016",
+    "KBArticle": "KB4565351",
+    "KBUrl": "https://support.microsoft.com/help/4565351"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2020-08-20",
+    "ReleaseType": "Preview",
+    "RelaseId": "1903",
+    "Build": "18362.1049",
+    "KBArticle": "KB4566116",
+    "KBUrl": "https://support.microsoft.com/help/4566116"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2020-09-08",
+    "ReleaseType": "Standard",
+    "RelaseId": "1903",
+    "Build": "18362.1082",
+    "KBArticle": "KB4574727",
+    "KBUrl": "https://support.microsoft.com/help/4574727"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2020-09-16",
+    "ReleaseType": "Preview",
+    "RelaseId": "1903",
+    "Build": "18362.1110",
+    "KBArticle": "KB4577062",
+    "KBUrl": "https://support.microsoft.com/help/4577062"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2020-10-13",
+    "ReleaseType": "Standard",
+    "RelaseId": "1903",
+    "Build": "18362.1139",
+    "KBArticle": "KB4577671",
+    "KBUrl": "https://support.microsoft.com/help/4577671"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2020-10-20",
+    "ReleaseType": "Preview",
+    "RelaseId": "1903",
+    "Build": "18362.1171",
+    "KBArticle": "KB4580386",
+    "KBUrl": "https://support.microsoft.com/help/4580386"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2020-11-10",
+    "ReleaseType": "Standard",
+    "RelaseId": "1903",
+    "Build": "18362.1198",
+    "KBArticle": "KB4586786",
+    "KBUrl": "https://support.microsoft.com/help/4586786"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2020-11-19",
+    "ReleaseType": "Preview",
+    "RelaseId": "1903",
+    "Build": "18362.1237",
+    "KBArticle": "KB4586819",
+    "KBUrl": "https://support.microsoft.com/help/4586819"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2020-11-19",
+    "ReleaseType": "Out-of-band",
+    "RelaseId": "1903",
+    "Build": "18362.1199",
+    "KBArticle": "KB4594443",
+    "KBUrl": "https://support.microsoft.com/help/4594443"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2020-12-08",
+    "ReleaseType": "Standard",
+    "RelaseId": "1903",
+    "Build": "18362.1256",
+    "KBArticle": "KB4592449",
+    "KBUrl": "https://support.microsoft.com/help/4592449"
+  }
+]

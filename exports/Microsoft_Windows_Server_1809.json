@@ -1,0 +1,1574 @@
+[
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2018-10-09",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.55",
+    "KBArticle": "KB4464330",
+    "KBUrl": "https://support.microsoft.com/help/4464330"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2018-11-13",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.134",
+    "KBArticle": "KB4467708",
+    "KBUrl": "https://support.microsoft.com/help/4467708"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2018-11-13",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.107",
+    "KBArticle": "KB4464455",
+    "KBUrl": "https://support.microsoft.com/help/4464455"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2018-12-05",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.168",
+    "KBArticle": "KB4469342",
+    "KBUrl": "https://support.microsoft.com/help/4469342"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2018-12-11",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.194",
+    "KBArticle": "KB4471332",
+    "KBUrl": "https://support.microsoft.com/help/4471332"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2018-12-19",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.195",
+    "KBArticle": "KB4483235",
+    "KBUrl": "https://support.microsoft.com/help/4483235"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2019-01-08",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.253",
+    "KBArticle": "KB4480116",
+    "KBUrl": "https://support.microsoft.com/help/4480116"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2019-01-22",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.292",
+    "KBArticle": "KB4476976",
+    "KBUrl": "https://support.microsoft.com/help/4476976"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2019-02-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.316",
+    "KBArticle": "KB4487044",
+    "KBUrl": "https://support.microsoft.com/help/4487044"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2019-03-01",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.348",
+    "KBArticle": "KB4482887",
+    "KBUrl": "https://support.microsoft.com/help/4482887"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2019-03-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.379",
+    "KBArticle": "KB4489899",
+    "KBUrl": "https://support.microsoft.com/help/4489899"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2019-04-02",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.404",
+    "KBArticle": "KB4490481",
+    "KBUrl": "https://support.microsoft.com/help/4490481"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2019-04-09",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.437",
+    "KBArticle": "KB4493509",
+    "KBUrl": "https://support.microsoft.com/help/4493509"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2019-05-01",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.439",
+    "KBArticle": "KB4501835",
+    "KBUrl": "https://support.microsoft.com/help/4501835"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2019-05-03",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.475",
+    "KBArticle": "KB4495667",
+    "KBUrl": "https://support.microsoft.com/help/4495667"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2019-05-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.503",
+    "KBArticle": "KB4494441",
+    "KBUrl": "https://support.microsoft.com/help/4494441"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2019-05-19",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.504",
+    "KBArticle": "KB4505056",
+    "KBUrl": "https://support.microsoft.com/help/4505056"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2019-05-21",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.529",
+    "KBArticle": "KB4497934",
+    "KBUrl": "https://support.microsoft.com/help/4497934"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2019-06-11",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.557",
+    "KBArticle": "KB4503327",
+    "KBUrl": "https://support.microsoft.com/help/4503327"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2019-06-18",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.592",
+    "KBArticle": "KB4501371",
+    "KBUrl": "https://support.microsoft.com/help/4501371"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2019-06-26",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.593",
+    "KBArticle": "KB4509479",
+    "KBUrl": "https://support.microsoft.com/help/4509479"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2019-07-09",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.615",
+    "KBArticle": "KB4507469",
+    "KBUrl": "https://support.microsoft.com/help/4507469"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2019-07-22",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.652",
+    "KBArticle": "KB4505658",
+    "KBUrl": "https://support.microsoft.com/help/4505658"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2019-08-13",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.678",
+    "KBArticle": "KB4511553",
+    "KBUrl": "https://support.microsoft.com/help/4511553"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2019-08-17",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.720",
+    "KBArticle": "KB4512534",
+    "KBUrl": "https://support.microsoft.com/help/4512534"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2019-09-10",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.737",
+    "KBArticle": "KB4512578",
+    "KBUrl": "https://support.microsoft.com/help/4512578"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2019-09-23",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.740",
+    "KBArticle": "KB4522015",
+    "KBUrl": "https://support.microsoft.com/help/4522015"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2019-09-24",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.774",
+    "KBArticle": "KB4516077",
+    "KBUrl": "https://support.microsoft.com/help/4516077"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2019-10-03",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.775",
+    "KBArticle": "KB4524148",
+    "KBUrl": "https://support.microsoft.com/help/4524148"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2019-10-08",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.805",
+    "KBArticle": "KB4519338",
+    "KBUrl": "https://support.microsoft.com/help/4519338"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2019-10-15",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.832",
+    "KBArticle": "KB4520062",
+    "KBUrl": "https://support.microsoft.com/help/4520062"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2019-11-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.864",
+    "KBArticle": "KB4523205",
+    "KBUrl": "https://support.microsoft.com/help/4523205"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2019-12-10",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.914",
+    "KBArticle": "KB4530715",
+    "KBUrl": "https://support.microsoft.com/help/4530715"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2020-01-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.973",
+    "KBArticle": "KB4534273",
+    "KBUrl": "https://support.microsoft.com/help/4534273"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2020-01-23",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.1012",
+    "KBArticle": "KB4534321",
+    "KBUrl": "https://support.microsoft.com/help/4534321"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2020-02-11",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.1039",
+    "KBArticle": "KB4532691",
+    "KBUrl": "https://support.microsoft.com/help/4532691"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2020-02-25",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.1075",
+    "KBArticle": "KB4537818",
+    "KBUrl": "https://support.microsoft.com/help/4537818"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2020-03-10",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.1098",
+    "KBArticle": "KB4538461",
+    "KBUrl": "https://support.microsoft.com/help/4538461"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2020-03-17",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.1131",
+    "KBArticle": "KB4541331",
+    "KBUrl": "https://support.microsoft.com/help/4541331"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2020-03-30",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.1132",
+    "KBArticle": "KB4554354",
+    "KBUrl": "https://support.microsoft.com/help/4554354"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2020-04-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.1158",
+    "KBArticle": "KB4549949",
+    "KBUrl": "https://support.microsoft.com/help/4549949"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2020-04-21",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.1192",
+    "KBArticle": "KB4550969",
+    "KBUrl": "https://support.microsoft.com/help/4550969"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2020-05-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.1217",
+    "KBArticle": "KB4551853",
+    "KBUrl": "https://support.microsoft.com/help/4551853"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2020-06-09",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.1282",
+    "KBArticle": "KB4561608",
+    "KBUrl": "https://support.microsoft.com/help/4561608"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2020-06-16",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.1294",
+    "KBArticle": "KB4567513",
+    "KBUrl": "https://support.microsoft.com/help/4567513"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2020-07-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.1339",
+    "KBArticle": "KB4558998",
+    "KBUrl": "https://support.microsoft.com/help/4558998"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2020-07-21",
+    "ReleaseType": "Preview",
+    "RelaseId": "1809",
+    "Build": "17763.1369",
+    "KBArticle": "KB4559003",
+    "KBUrl": "https://support.microsoft.com/help/4559003"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2020-08-11",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.1397",
+    "KBArticle": "KB4565349",
+    "KBUrl": "https://support.microsoft.com/help/4565349"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2020-08-20",
+    "ReleaseType": "Preview",
+    "RelaseId": "1809",
+    "Build": "17763.1432",
+    "KBArticle": "KB4571748",
+    "KBUrl": "https://support.microsoft.com/help/4571748"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2020-09-08",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.1457",
+    "KBArticle": "KB4570333",
+    "KBUrl": "https://support.microsoft.com/help/4570333"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2020-09-16",
+    "ReleaseType": "Preview",
+    "RelaseId": "1809",
+    "Build": "17763.1490",
+    "KBArticle": "KB4577069",
+    "KBUrl": "https://support.microsoft.com/help/4577069"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2020-10-13",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.1518",
+    "KBArticle": "KB4577668",
+    "KBUrl": "https://support.microsoft.com/help/4577668"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2020-10-20",
+    "ReleaseType": "Preview",
+    "RelaseId": "1809",
+    "Build": "17763.1554",
+    "KBArticle": "KB4580390",
+    "KBUrl": "https://support.microsoft.com/help/4580390"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2020-11-10",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.1577",
+    "KBArticle": "KB4586793",
+    "KBUrl": "https://support.microsoft.com/help/4586793"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2020-11-17",
+    "ReleaseType": "Out-of-band",
+    "RelaseId": "1809",
+    "Build": "17763.1579",
+    "KBArticle": "KB4594442",
+    "KBUrl": "https://support.microsoft.com/help/4594442"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2020-11-19",
+    "ReleaseType": "Preview",
+    "RelaseId": "1809",
+    "Build": "17763.1613",
+    "KBArticle": "KB4586839",
+    "KBUrl": "https://support.microsoft.com/help/4586839"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2020-12-08",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.1637",
+    "KBArticle": "KB4592440",
+    "KBUrl": "https://support.microsoft.com/help/4592440"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2021-01-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.1697",
+    "KBArticle": "KB4598230",
+    "KBUrl": "https://support.microsoft.com/help/4598230"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2021-01-21",
+    "ReleaseType": "Preview",
+    "RelaseId": "1809",
+    "Build": "17763.1728",
+    "KBArticle": "KB4598296",
+    "KBUrl": "https://support.microsoft.com/help/4598296"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2021-02-09",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.1757",
+    "KBArticle": "KB4601345",
+    "KBUrl": "https://support.microsoft.com/help/4601345"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2021-02-16",
+    "ReleaseType": "Preview",
+    "RelaseId": "1809",
+    "Build": "17763.1790",
+    "KBArticle": "KB4601383",
+    "KBUrl": "https://support.microsoft.com/help/4601383"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2021-03-09",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.1817",
+    "KBArticle": "KB5000822",
+    "KBUrl": "https://support.microsoft.com/help/5000822"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2021-03-15",
+    "ReleaseType": "Out-of-band",
+    "RelaseId": "1809",
+    "Build": "17763.1821",
+    "KBArticle": "KB5001568",
+    "KBUrl": "https://support.microsoft.com/help/5001568"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2021-03-18",
+    "ReleaseType": "Out-of-band",
+    "RelaseId": "1809",
+    "Build": "17763.1823",
+    "KBArticle": "KB5001638",
+    "KBUrl": "https://support.microsoft.com/help/5001638"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2021-03-25",
+    "ReleaseType": "Preview",
+    "RelaseId": "1809",
+    "Build": "17763.1852",
+    "KBArticle": "KB5000854",
+    "KBUrl": "https://support.microsoft.com/help/5000854"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2021-04-13",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.1879",
+    "KBArticle": "KB5001342",
+    "KBUrl": "https://support.microsoft.com/help/5001342"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2021-04-22",
+    "ReleaseType": "Preview",
+    "RelaseId": "1809",
+    "Build": "17763.1911",
+    "KBArticle": "KB5001384",
+    "KBUrl": "https://support.microsoft.com/help/5001384"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2021-05-11",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.1935",
+    "KBArticle": "KB5003171",
+    "KBUrl": "https://support.microsoft.com/help/5003171"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2021-05-20",
+    "ReleaseType": "Preview",
+    "RelaseId": "1809",
+    "Build": "17763.1971",
+    "KBArticle": "KB5003217",
+    "KBUrl": "https://support.microsoft.com/help/5003217"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2021-06-08",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.1999",
+    "KBArticle": "KB5003646",
+    "KBUrl": "https://support.microsoft.com/help/5003646"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2021-06-15",
+    "ReleaseType": "Preview",
+    "RelaseId": "1809",
+    "Build": "17763.2028",
+    "KBArticle": "KB5003703",
+    "KBUrl": "https://support.microsoft.com/help/5003703"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2021-07-06",
+    "ReleaseType": "Out-of-band",
+    "RelaseId": "1809",
+    "Build": "17763.2029",
+    "KBArticle": "KB5004947",
+    "KBUrl": "https://support.microsoft.com/help/5004947"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2021-07-13",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.2061",
+    "KBArticle": "KB5004244",
+    "KBUrl": "https://support.microsoft.com/help/5004244"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2021-07-20",
+    "ReleaseType": "Preview",
+    "RelaseId": "1809",
+    "Build": "17763.2090",
+    "KBArticle": "KB5004308",
+    "KBUrl": "https://support.microsoft.com/help/5004308"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2021-07-27",
+    "ReleaseType": "Out-of-band",
+    "RelaseId": "1809",
+    "Build": "17763.2091",
+    "KBArticle": "KB5005394",
+    "KBUrl": "https://support.microsoft.com/help/5005394"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2021-08-10",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.2114",
+    "KBArticle": "KB5005030",
+    "KBUrl": "https://support.microsoft.com/help/5005030"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2021-08-26",
+    "ReleaseType": "Preview",
+    "RelaseId": "1809",
+    "Build": "17763.2145",
+    "KBArticle": "KB5005102",
+    "KBUrl": "https://support.microsoft.com/help/5005102"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2021-09-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.2183",
+    "KBArticle": "KB5005568",
+    "KBUrl": "https://support.microsoft.com/help/5005568"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2021-09-21",
+    "ReleaseType": "Preview",
+    "RelaseId": "1809",
+    "Build": "17763.2213",
+    "KBArticle": "KB5005625",
+    "KBUrl": "https://support.microsoft.com/help/5005625"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2021-10-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.2237",
+    "KBArticle": "KB5006672",
+    "KBUrl": "https://support.microsoft.com/help/5006672"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2021-10-19",
+    "ReleaseType": "Preview",
+    "RelaseId": "1809",
+    "Build": "17763.2268",
+    "KBArticle": "KB5006744",
+    "KBUrl": "https://support.microsoft.com/help/5006744"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2021-11-09",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.2300",
+    "KBArticle": "KB5007206",
+    "KBUrl": "https://support.microsoft.com/help/5007206"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2021-11-14",
+    "ReleaseType": "Out-of-band",
+    "RelaseId": "1809",
+    "Build": "17763.2305",
+    "KBArticle": "KB5008602",
+    "KBUrl": "https://support.microsoft.com/help/5008602"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2021-11-22",
+    "ReleaseType": "Preview",
+    "RelaseId": "1809",
+    "Build": "17763.2330",
+    "KBArticle": "KB5007266",
+    "KBUrl": "https://support.microsoft.com/help/5007266"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2021-12-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.2366",
+    "KBArticle": "KB5008218",
+    "KBUrl": "https://support.microsoft.com/help/5008218"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-01-04",
+    "ReleaseType": "Out-of-band",
+    "RelaseId": "1809",
+    "Build": "17763.2369",
+    "KBArticle": "KB5010196",
+    "KBUrl": "https://support.microsoft.com/help/5010196"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-01-11",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.2452",
+    "KBArticle": "KB5009557",
+    "KBUrl": "https://support.microsoft.com/help/5009557"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-01-18",
+    "ReleaseType": "Out-of-band",
+    "RelaseId": "1809",
+    "Build": "17763.2458",
+    "KBArticle": "KB5010791",
+    "KBUrl": "https://support.microsoft.com/help/5010791"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-01-25",
+    "ReleaseType": "Preview",
+    "RelaseId": "1809",
+    "Build": "17763.2510",
+    "KBArticle": "KB5009616",
+    "KBUrl": "https://support.microsoft.com/help/5009616"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-02-08",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.2565",
+    "KBArticle": "KB5010351",
+    "KBUrl": "https://support.microsoft.com/help/5010351"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-02-15",
+    "ReleaseType": "Preview",
+    "RelaseId": "1809",
+    "Build": "17763.2628",
+    "KBArticle": "KB5010427",
+    "KBUrl": "https://support.microsoft.com/help/5010427"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-03-08",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.2686",
+    "KBArticle": "KB5011503",
+    "KBUrl": "https://support.microsoft.com/help/5011503"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-03-22",
+    "ReleaseType": "Preview",
+    "RelaseId": "1809",
+    "Build": "17763.2746",
+    "KBArticle": "KB5011551",
+    "KBUrl": "https://support.microsoft.com/help/5011551"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-04-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.2803",
+    "KBArticle": "KB5012647",
+    "KBUrl": "https://support.microsoft.com/help/5012647"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-04-21",
+    "ReleaseType": "Preview",
+    "RelaseId": "1809",
+    "Build": "17763.2867",
+    "KBArticle": "KB5012636",
+    "KBUrl": "https://support.microsoft.com/help/5012636"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-05-10",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.2928",
+    "KBArticle": "KB5013941",
+    "KBUrl": "https://support.microsoft.com/help/5013941"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-05-19",
+    "ReleaseType": "Out-of-band",
+    "RelaseId": "1809",
+    "Build": "17763.2931",
+    "KBArticle": "KB5015018",
+    "KBUrl": "https://support.microsoft.com/help/5015018"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-05-24",
+    "ReleaseType": "Preview",
+    "RelaseId": "1809",
+    "Build": "17763.2989",
+    "KBArticle": "KB5014022",
+    "KBUrl": "https://support.microsoft.com/help/5014022"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-06-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.3046",
+    "KBArticle": "KB5014692",
+    "KBUrl": "https://support.microsoft.com/help/5014692"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-06-23",
+    "ReleaseType": "Preview",
+    "RelaseId": "1809",
+    "Build": "17763.3113",
+    "KBArticle": "KB5014669",
+    "KBUrl": "https://support.microsoft.com/help/5014669"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-07-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.3165",
+    "KBArticle": "KB5015811",
+    "KBUrl": "https://support.microsoft.com/help/5015811"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-07-21",
+    "ReleaseType": "Preview",
+    "RelaseId": "1809",
+    "Build": "17763.3232",
+    "KBArticle": "KB5015880",
+    "KBUrl": "https://support.microsoft.com/help/5015880"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-08-09",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.3287",
+    "KBArticle": "KB5016623",
+    "KBUrl": "https://support.microsoft.com/help/5016623"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-08-23",
+    "ReleaseType": "Preview",
+    "RelaseId": "1809",
+    "Build": "17763.3346",
+    "KBArticle": "KB5016690",
+    "KBUrl": "https://support.microsoft.com/help/5016690"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-09-13",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.3406",
+    "KBArticle": "KB5017315",
+    "KBUrl": "https://support.microsoft.com/help/5017315"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-09-20",
+    "ReleaseType": "Preview",
+    "RelaseId": "1809",
+    "Build": "17763.3469",
+    "KBArticle": "KB5017379",
+    "KBUrl": "https://support.microsoft.com/help/5017379"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-10-11",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.3532",
+    "KBArticle": "KB5018419",
+    "KBUrl": "https://support.microsoft.com/help/5018419"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-10-17",
+    "ReleaseType": "Out-of-band",
+    "RelaseId": "1809",
+    "Build": "17763.3534",
+    "KBArticle": "KB5020438",
+    "KBUrl": "https://support.microsoft.com/help/5020438"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-11-08",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.3650",
+    "KBArticle": "KB5019966",
+    "KBUrl": "https://support.microsoft.com/help/5019966"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-11-17",
+    "ReleaseType": "Out-of-band",
+    "RelaseId": "1809",
+    "Build": "17763.3653",
+    "KBArticle": "KB5021655",
+    "KBUrl": "https://support.microsoft.com/help/5021655"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-12-13",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.3770",
+    "KBArticle": "KB5021237",
+    "KBUrl": "https://support.microsoft.com/help/5021237"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2022-12-20",
+    "ReleaseType": "Out-of-band",
+    "RelaseId": "1809",
+    "Build": "17763.3772",
+    "KBArticle": "KB5022554",
+    "KBUrl": "https://support.microsoft.com/help/5022554"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2023-01-10",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.3887",
+    "KBArticle": "KB5022286",
+    "KBUrl": "https://support.microsoft.com/help/5022286"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2023-02-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.4010",
+    "KBArticle": "KB5022840",
+    "KBUrl": "https://support.microsoft.com/help/5022840"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2023-03-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.4131",
+    "KBArticle": "KB5023702",
+    "KBUrl": "https://support.microsoft.com/help/5023702"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2023-04-11",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.4252",
+    "KBArticle": "KB5025229",
+    "KBUrl": "https://support.microsoft.com/help/5025229"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2023-05-09",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.4377",
+    "KBArticle": "KB5026362",
+    "KBUrl": "https://support.microsoft.com/help/5026362"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2023-06-13",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.4499",
+    "KBArticle": "KB5027222",
+    "KBUrl": "https://support.microsoft.com/help/5027222"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2023-07-11",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.4645",
+    "KBArticle": "KB5028168",
+    "KBUrl": "https://support.microsoft.com/help/5028168"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2023-08-08",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.4737",
+    "KBArticle": "KB5029247",
+    "KBUrl": "https://support.microsoft.com/help/5029247"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2023-09-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.4851",
+    "KBArticle": "KB5030214",
+    "KBUrl": "https://support.microsoft.com/help/5030214"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2023-10-10",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.4974",
+    "KBArticle": "KB5031361",
+    "KBUrl": "https://support.microsoft.com/help/5031361"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2023-11-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.5122",
+    "KBArticle": "KB5032196",
+    "KBUrl": "https://support.microsoft.com/help/5032196"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2023-12-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.5206",
+    "KBArticle": "KB5033371",
+    "KBUrl": "https://support.microsoft.com/help/5033371"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2024-01-09",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.5329",
+    "KBArticle": "KB5034127",
+    "KBUrl": "https://support.microsoft.com/help/5034127"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2024-02-13",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.5458",
+    "KBArticle": "KB5034768",
+    "KBUrl": "https://support.microsoft.com/help/5034768"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2024-03-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.5576",
+    "KBArticle": "KB5035849",
+    "KBUrl": "https://support.microsoft.com/help/5035849"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2024-03-25",
+    "ReleaseType": "Out-of-band",
+    "RelaseId": "1809",
+    "Build": "17763.5579",
+    "KBArticle": "KB5037425",
+    "KBUrl": "https://support.microsoft.com/help/5037425"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2024-04-09",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.5696",
+    "KBArticle": "KB5036896",
+    "KBUrl": "https://support.microsoft.com/help/5036896"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2024-05-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "1809",
+    "Build": "17763.5820",
+    "KBArticle": "KB5037765",
+    "KBUrl": "https://support.microsoft.com/help/5037765"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2024-05-23",
+    "ReleaseType": "Out-of-band",
+    "RelaseId": "1809",
+    "Build": "17763.5830",
+    "KBArticle": "KB5039705",
+    "KBUrl": "https://support.microsoft.com/help/5039705"
+  }
+]

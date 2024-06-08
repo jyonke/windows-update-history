@@ -1,0 +1,1598 @@
+[
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB",
+      "CB",
+      "CBB"
+    ],
+    "AvailabilityDate": "2015-07-29",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.16405",
+    "KBArticle": "KB3074683",
+    "KBUrl": "https://support.microsoft.com/help/3074683"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB",
+      "CB",
+      "CBB"
+    ],
+    "AvailabilityDate": "2015-08-05",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.16413",
+    "KBArticle": "KB3081424",
+    "KBUrl": "https://support.microsoft.com/help/3081424"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB",
+      "CB",
+      "CBB"
+    ],
+    "AvailabilityDate": "2015-08-11",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.16430",
+    "KBArticle": "KB3081436",
+    "KBUrl": "https://support.microsoft.com/help/3081436"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB",
+      "CB",
+      "CBB"
+    ],
+    "AvailabilityDate": "2015-08-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.16433",
+    "KBArticle": "KB3081438",
+    "KBUrl": "https://support.microsoft.com/help/3081438"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB",
+      "CB",
+      "CBB"
+    ],
+    "AvailabilityDate": "2015-08-18",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.16445",
+    "KBArticle": "KB3081444",
+    "KBUrl": "https://support.microsoft.com/help/3081444"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB",
+      "CB",
+      "CBB"
+    ],
+    "AvailabilityDate": "2015-08-27",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.16463",
+    "KBArticle": "KB3081448",
+    "KBUrl": "https://support.microsoft.com/help/3081448"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB",
+      "CB",
+      "CBB"
+    ],
+    "AvailabilityDate": "2015-09-08",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.16487",
+    "KBArticle": "KB3081455",
+    "KBUrl": "https://support.microsoft.com/help/3081455"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB",
+      "CB",
+      "CBB"
+    ],
+    "AvailabilityDate": "2015-09-30",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.16520",
+    "KBArticle": "KB3093266",
+    "KBUrl": "https://support.microsoft.com/help/3093266"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB",
+      "CB",
+      "CBB"
+    ],
+    "AvailabilityDate": "2015-10-13",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.16549",
+    "KBArticle": "KB3097617",
+    "KBUrl": "https://support.microsoft.com/help/3097617"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB",
+      "CB",
+      "CBB"
+    ],
+    "AvailabilityDate": "2015-10-27",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.16566",
+    "KBArticle": "KB3105210",
+    "KBUrl": "https://support.microsoft.com/help/3105210"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB",
+      "CB",
+      "CBB"
+    ],
+    "AvailabilityDate": "2015-11-10",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.16590",
+    "KBArticle": "KB3105213",
+    "KBUrl": "https://support.microsoft.com/help/3105213"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB",
+      "CB",
+      "CBB"
+    ],
+    "AvailabilityDate": "2015-12-08",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.16601",
+    "KBArticle": "KB3116869",
+    "KBUrl": "https://support.microsoft.com/help/3116869"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB",
+      "CB",
+      "CBB"
+    ],
+    "AvailabilityDate": "2016-01-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.16644",
+    "KBArticle": "KB3124266",
+    "KBUrl": "https://support.microsoft.com/help/3124266"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB",
+      "CB",
+      "CBB"
+    ],
+    "AvailabilityDate": "2016-02-09",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.16683",
+    "KBArticle": "KB3135174",
+    "KBUrl": "https://support.microsoft.com/help/3135174"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB",
+      "CB",
+      "CBB"
+    ],
+    "AvailabilityDate": "2016-03-08",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.16725",
+    "KBArticle": "KB3140745",
+    "KBUrl": "https://support.microsoft.com/help/3140745"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB",
+      "CB",
+      "CBB"
+    ],
+    "AvailabilityDate": "2016-04-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.16771",
+    "KBArticle": "KB3147461",
+    "KBUrl": "https://support.microsoft.com/help/3147461"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB",
+      "CB",
+      "CBB"
+    ],
+    "AvailabilityDate": "2016-05-10",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.16854",
+    "KBArticle": "KB3156387",
+    "KBUrl": "https://support.microsoft.com/help/3156387"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB",
+      "CB",
+      "CBB"
+    ],
+    "AvailabilityDate": "2016-06-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.16942",
+    "KBArticle": "KB3163017",
+    "KBUrl": "https://support.microsoft.com/help/3163017"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB",
+      "CB",
+      "CBB"
+    ],
+    "AvailabilityDate": "2016-07-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.17024",
+    "KBArticle": "KB3163912",
+    "KBUrl": "https://support.microsoft.com/help/3163912"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB",
+      "CB",
+      "CBB"
+    ],
+    "AvailabilityDate": "2016-08-09",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.17071",
+    "KBArticle": "KB3176492",
+    "KBUrl": "https://support.microsoft.com/help/3176492"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB",
+      "CB",
+      "CBB"
+    ],
+    "AvailabilityDate": "2016-09-20",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.17113",
+    "KBArticle": "KB3193821",
+    "KBUrl": "https://support.microsoft.com/help/3193821"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB",
+      "CB",
+      "CBB"
+    ],
+    "AvailabilityDate": "2016-10-11",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.17146",
+    "KBArticle": "KB3192440",
+    "KBUrl": "https://support.microsoft.com/help/3192440"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB",
+      "CB",
+      "CBB"
+    ],
+    "AvailabilityDate": "2016-11-08",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.17190",
+    "KBArticle": "KB3198585",
+    "KBUrl": "https://support.microsoft.com/help/3198585"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB",
+      "CB",
+      "CBB"
+    ],
+    "AvailabilityDate": "2016-12-13",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.17202",
+    "KBArticle": "KB3205383",
+    "KBUrl": "https://support.microsoft.com/help/3205383"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB",
+      "CB",
+      "CBB"
+    ],
+    "AvailabilityDate": "2017-01-10",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.17236",
+    "KBArticle": "KB3210720",
+    "KBUrl": "https://support.microsoft.com/help/3210720"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB",
+      "CB",
+      "CBB"
+    ],
+    "AvailabilityDate": "2017-03-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.17319",
+    "KBArticle": "KB4012606",
+    "KBUrl": "https://support.microsoft.com/help/4012606"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB",
+      "CB",
+      "CBB"
+    ],
+    "AvailabilityDate": "2017-04-11",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.17354",
+    "KBArticle": "KB4015221",
+    "KBUrl": "https://support.microsoft.com/help/4015221"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB",
+      "CB",
+      "CBB"
+    ],
+    "AvailabilityDate": "2017-05-09",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.17394",
+    "KBArticle": "KB4019474",
+    "KBUrl": "https://support.microsoft.com/help/4019474"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB",
+      "CB",
+      "CBB"
+    ],
+    "AvailabilityDate": "2017-06-13",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.17443",
+    "KBArticle": "KB4022727",
+    "KBUrl": "https://support.microsoft.com/help/4022727"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB",
+      "CB",
+      "CBB"
+    ],
+    "AvailabilityDate": "2017-06-27",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.17446",
+    "KBArticle": "KB4032695",
+    "KBUrl": "https://support.microsoft.com/help/4032695"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2017-07-11",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.17488",
+    "KBArticle": "KB4025338",
+    "KBUrl": "https://support.microsoft.com/help/4025338"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2017-08-08",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.17533",
+    "KBArticle": "KB4034668",
+    "KBUrl": "https://support.microsoft.com/help/4034668"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2017-09-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.17609",
+    "KBArticle": "KB4038781",
+    "KBUrl": "https://support.microsoft.com/help/4038781"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2017-10-10",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.17643",
+    "KBArticle": "KB4042895",
+    "KBUrl": "https://support.microsoft.com/help/4042895"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2017-11-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.17673",
+    "KBArticle": "KB4048956",
+    "KBUrl": "https://support.microsoft.com/help/4048956"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2017-12-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.17709",
+    "KBArticle": "KB4053581",
+    "KBUrl": "https://support.microsoft.com/help/4053581"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2018-01-03",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.17738",
+    "KBArticle": "KB4056893",
+    "KBUrl": "https://support.microsoft.com/help/4056893"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2018-01-18",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.17741",
+    "KBArticle": "KB4075199",
+    "KBUrl": "https://support.microsoft.com/help/4075199"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2018-02-13",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.17770",
+    "KBArticle": "KB4074596",
+    "KBUrl": "https://support.microsoft.com/help/4074596"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2018-03-13",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.17797",
+    "KBArticle": "KB4088786",
+    "KBUrl": "https://support.microsoft.com/help/4088786"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2018-04-10",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.17831",
+    "KBArticle": "KB4093111",
+    "KBUrl": "https://support.microsoft.com/help/4093111"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2018-05-08",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.17861",
+    "KBArticle": "KB4103716",
+    "KBUrl": "https://support.microsoft.com/help/4103716"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2018-06-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.17889",
+    "KBArticle": "KB4284860",
+    "KBUrl": "https://support.microsoft.com/help/4284860"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2018-07-10",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.17914",
+    "KBArticle": "KB4338829",
+    "KBUrl": "https://support.microsoft.com/help/4338829"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2018-07-16",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.17918",
+    "KBArticle": "KB4345455",
+    "KBUrl": "https://support.microsoft.com/help/4345455"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2018-08-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.17946",
+    "KBArticle": "KB4343892",
+    "KBUrl": "https://support.microsoft.com/help/4343892"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2018-09-11",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.17976",
+    "KBArticle": "KB4457132",
+    "KBUrl": "https://support.microsoft.com/help/4457132"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2018-10-09",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18005",
+    "KBArticle": "KB4462922",
+    "KBUrl": "https://support.microsoft.com/help/4462922"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2018-11-13",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18036",
+    "KBArticle": "KB4467680",
+    "KBUrl": "https://support.microsoft.com/help/4467680"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2018-12-11",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18063",
+    "KBArticle": "KB4471323",
+    "KBUrl": "https://support.microsoft.com/help/4471323"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2018-12-19",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18064",
+    "KBArticle": "KB4483228",
+    "KBUrl": "https://support.microsoft.com/help/4483228"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2019-01-08",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18094",
+    "KBArticle": "KB4480962",
+    "KBUrl": "https://support.microsoft.com/help/4480962"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2019-02-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18132",
+    "KBArticle": "KB4487018",
+    "KBUrl": "https://support.microsoft.com/help/4487018"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2019-02-21",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18135",
+    "KBArticle": "KB4491101",
+    "KBUrl": "https://support.microsoft.com/help/4491101"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2019-03-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18158",
+    "KBArticle": "KB4489872",
+    "KBUrl": "https://support.microsoft.com/help/4489872"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2019-04-09",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18186",
+    "KBArticle": "KB4493475",
+    "KBUrl": "https://support.microsoft.com/help/4493475"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2019-04-25",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18187",
+    "KBArticle": "KB4498375",
+    "KBUrl": "https://support.microsoft.com/help/4498375"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2019-05-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18215",
+    "KBArticle": "KB4499154",
+    "KBUrl": "https://support.microsoft.com/help/4499154"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2019-05-19",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18218",
+    "KBArticle": "KB4505051",
+    "KBUrl": "https://support.microsoft.com/help/4505051"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2019-06-11",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18244",
+    "KBArticle": "KB4503291",
+    "KBUrl": "https://support.microsoft.com/help/4503291"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2019-07-09",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18275",
+    "KBArticle": "KB4507458",
+    "KBUrl": "https://support.microsoft.com/help/4507458"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2019-08-13",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18305",
+    "KBArticle": "KB4512497",
+    "KBUrl": "https://support.microsoft.com/help/4512497"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2019-08-17",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18308",
+    "KBArticle": "KB4517276",
+    "KBUrl": "https://support.microsoft.com/help/4517276"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2019-09-10",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18333",
+    "KBArticle": "KB4516070",
+    "KBUrl": "https://support.microsoft.com/help/4516070"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2019-09-23",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18334",
+    "KBArticle": "KB4522009",
+    "KBUrl": "https://support.microsoft.com/help/4522009"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2019-10-03",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18335",
+    "KBArticle": "KB4524153",
+    "KBUrl": "https://support.microsoft.com/help/4524153"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2019-10-08",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18368",
+    "KBArticle": "KB4520011",
+    "KBUrl": "https://support.microsoft.com/help/4520011"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2019-11-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18395",
+    "KBArticle": "KB4525232",
+    "KBUrl": "https://support.microsoft.com/help/4525232"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2019-12-10",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18427",
+    "KBArticle": "KB4530681",
+    "KBUrl": "https://support.microsoft.com/help/4530681"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2020-01-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18453",
+    "KBArticle": "KB4534306",
+    "KBUrl": "https://support.microsoft.com/help/4534306"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2020-02-11",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18486",
+    "KBArticle": "KB4537776",
+    "KBUrl": "https://support.microsoft.com/help/4537776"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2020-03-10",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18519",
+    "KBArticle": "KB4540693",
+    "KBUrl": "https://support.microsoft.com/help/4540693"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2020-04-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18545",
+    "KBArticle": "KB4550930",
+    "KBUrl": "https://support.microsoft.com/help/4550930"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2020-05-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18575",
+    "KBArticle": "KB4556826",
+    "KBUrl": "https://support.microsoft.com/help/4556826"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2020-06-09",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18608",
+    "KBArticle": "KB4561649",
+    "KBUrl": "https://support.microsoft.com/help/4561649"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2020-06-18",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18609",
+    "KBArticle": "KB4567518",
+    "KBUrl": "https://support.microsoft.com/help/4567518"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2020-07-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18638",
+    "KBArticle": "KB4565513",
+    "KBUrl": "https://support.microsoft.com/help/4565513"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2020-08-11",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18666",
+    "KBArticle": "KB4571692",
+    "KBUrl": "https://support.microsoft.com/help/4571692"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2020-09-08",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18696",
+    "KBArticle": "KB4577049",
+    "KBUrl": "https://support.microsoft.com/help/4577049"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2020-10-13",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18725",
+    "KBArticle": "KB4580327",
+    "KBUrl": "https://support.microsoft.com/help/4580327"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2020-11-10",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18756",
+    "KBArticle": "KB4586787",
+    "KBUrl": "https://support.microsoft.com/help/4586787"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2020-12-08",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18782",
+    "KBArticle": "KB4592464",
+    "KBUrl": "https://support.microsoft.com/help/4592464"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2021-01-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18818",
+    "KBArticle": "KB4598231",
+    "KBUrl": "https://support.microsoft.com/help/4598231"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2021-02-09",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18841",
+    "KBArticle": "KB4601331",
+    "KBUrl": "https://support.microsoft.com/help/4601331"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2021-03-09",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18874",
+    "KBArticle": "KB5000807",
+    "KBUrl": "https://support.microsoft.com/help/5000807"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2021-03-18",
+    "ReleaseType": "Out-of-band",
+    "RelaseId": "1507",
+    "Build": "10240.18875",
+    "KBArticle": "KB5001631",
+    "KBUrl": "https://support.microsoft.com/help/5001631"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2021-04-13",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18906",
+    "KBArticle": "KB5001340",
+    "KBUrl": "https://support.microsoft.com/help/5001340"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2021-05-11",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18932",
+    "KBArticle": "KB5003172",
+    "KBUrl": "https://support.microsoft.com/help/5003172"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2021-06-08",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.18967",
+    "KBArticle": "KB5003687",
+    "KBUrl": "https://support.microsoft.com/help/5003687"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2021-07-06",
+    "ReleaseType": "Out-of-band",
+    "RelaseId": "1507",
+    "Build": "10240.18969",
+    "KBArticle": "KB5004950",
+    "KBUrl": "https://support.microsoft.com/help/5004950"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2021-07-13",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.19003",
+    "KBArticle": "KB5004249",
+    "KBUrl": "https://support.microsoft.com/help/5004249"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2021-08-10",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.19022",
+    "KBArticle": "KB5005040",
+    "KBUrl": "https://support.microsoft.com/help/5005040"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2021-09-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.19060",
+    "KBArticle": "KB5005569",
+    "KBUrl": "https://support.microsoft.com/help/5005569"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2021-10-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.19086",
+    "KBArticle": "KB5006675",
+    "KBUrl": "https://support.microsoft.com/help/5006675"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2021-11-09",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.19119",
+    "KBArticle": "KB5007207",
+    "KBUrl": "https://support.microsoft.com/help/5007207"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2021-12-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.19145",
+    "KBArticle": "KB5008230",
+    "KBUrl": "https://support.microsoft.com/help/5008230"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2022-01-11",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.19177",
+    "KBArticle": "KB5009585",
+    "KBUrl": "https://support.microsoft.com/help/5009585"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2022-01-17",
+    "ReleaseType": "Out-of-band",
+    "RelaseId": "1507",
+    "Build": "10240.19179",
+    "KBArticle": "KB5010789",
+    "KBUrl": "https://support.microsoft.com/help/5010789"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2022-02-08",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.19204",
+    "KBArticle": "KB5010358",
+    "KBUrl": "https://support.microsoft.com/help/5010358"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2022-03-08",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.19235",
+    "KBArticle": "KB5011491",
+    "KBUrl": "https://support.microsoft.com/help/5011491"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2022-04-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.19265",
+    "KBArticle": "KB5012653",
+    "KBUrl": "https://support.microsoft.com/help/5012653"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2022-05-10",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.19297",
+    "KBArticle": "KB5013963",
+    "KBUrl": "https://support.microsoft.com/help/5013963"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2022-06-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.19325",
+    "KBArticle": "KB5014710",
+    "KBUrl": "https://support.microsoft.com/help/5014710"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2022-07-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.19360",
+    "KBArticle": "KB5015832",
+    "KBUrl": "https://support.microsoft.com/help/5015832"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2022-08-09",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.19387",
+    "KBArticle": "KB5016639",
+    "KBUrl": "https://support.microsoft.com/help/5016639"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2022-09-13",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.19444",
+    "KBArticle": "KB5017327",
+    "KBUrl": "https://support.microsoft.com/help/5017327"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2022-10-11",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.19507",
+    "KBArticle": "KB5018425",
+    "KBUrl": "https://support.microsoft.com/help/5018425"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2022-10-18",
+    "ReleaseType": "Out-of-band",
+    "RelaseId": "1507",
+    "Build": "10240.19509",
+    "KBArticle": "KB5020440",
+    "KBUrl": "https://support.microsoft.com/help/5020440"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2022-11-08",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.19567",
+    "KBArticle": "KB5019970",
+    "KBUrl": "https://support.microsoft.com/help/5019970"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2022-12-13",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.19624",
+    "KBArticle": "KB5021243",
+    "KBUrl": "https://support.microsoft.com/help/5021243"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2023-01-10",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.19685",
+    "KBArticle": "KB5022297",
+    "KBUrl": "https://support.microsoft.com/help/5022297"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2023-02-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.19747",
+    "KBArticle": "KB5022858",
+    "KBUrl": "https://support.microsoft.com/help/5022858"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2023-03-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.19805",
+    "KBArticle": "KB5023713",
+    "KBUrl": "https://support.microsoft.com/help/5023713"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2023-04-11",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.19869",
+    "KBArticle": "KB5025234",
+    "KBUrl": "https://support.microsoft.com/help/5025234"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2023-05-09",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.19926",
+    "KBArticle": "KB5026382",
+    "KBUrl": "https://support.microsoft.com/help/5026382"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2023-06-13",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.19983",
+    "KBArticle": "KB5027230",
+    "KBUrl": "https://support.microsoft.com/help/5027230"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2023-06-23",
+    "ReleaseType": "Out-of-band",
+    "RelaseId": "1507",
+    "Build": "10240.19986",
+    "KBArticle": "KB5028622",
+    "KBUrl": "https://support.microsoft.com/help/5028622"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2023-07-11",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.20048",
+    "KBArticle": "KB5028186",
+    "KBUrl": "https://support.microsoft.com/help/5028186"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2023-08-08",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.20107",
+    "KBArticle": "KB5029259",
+    "KBUrl": "https://support.microsoft.com/help/5029259"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2023-09-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.20162",
+    "KBArticle": "KB5030220",
+    "KBUrl": "https://support.microsoft.com/help/5030220"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2023-10-10",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.20232",
+    "KBArticle": "KB5031377",
+    "KBUrl": "https://support.microsoft.com/help/5031377"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2023-11-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.20308",
+    "KBArticle": "KB5032199",
+    "KBUrl": "https://support.microsoft.com/help/5032199"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2023-12-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.20345",
+    "KBArticle": "KB5033379",
+    "KBUrl": "https://support.microsoft.com/help/5033379"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2024-01-09",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.20402",
+    "KBArticle": "KB5034134",
+    "KBUrl": "https://support.microsoft.com/help/5034134"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2024-02-13",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.20469",
+    "KBArticle": "KB5034774",
+    "KBUrl": "https://support.microsoft.com/help/5034774"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2024-03-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.20526",
+    "KBArticle": "KB5035858",
+    "KBUrl": "https://support.microsoft.com/help/5035858"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2024-04-09",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.20596",
+    "KBArticle": "KB5036925",
+    "KBUrl": "https://support.microsoft.com/help/5036925"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2024-05-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "1507",
+    "Build": "10240.20651",
+    "KBArticle": "KB5037788",
+    "KBUrl": "https://support.microsoft.com/help/5037788"
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2022-11-08",
+    "ReleaseType": "Standard",
+    "RelaseId": "22H2",
+    "Build": "19045.2251",
+    "KBArticle": "KB5019959",
+    "KBUrl": "https://support.microsoft.com/help/5019959"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2022-11-15",
+    "ReleaseType": "Preview",
+    "RelaseId": "22H2",
+    "Build": "19045.2311",
+    "KBArticle": "KB5020030",
+    "KBUrl": "https://support.microsoft.com/help/5020030"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2022-12-13",
+    "ReleaseType": "Standard",
+    "RelaseId": "22H2",
+    "Build": "19045.2364",
+    "KBArticle": "KB5021233",
+    "KBUrl": "https://support.microsoft.com/help/5021233"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2023-01-10",
+    "ReleaseType": "Standard",
+    "RelaseId": "22H2",
+    "Build": "19045.2486",
+    "KBArticle": "KB5022282",
+    "KBUrl": "https://support.microsoft.com/help/5022282"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2023-01-19",
+    "ReleaseType": "Preview",
+    "RelaseId": "22H2",
+    "Build": "19045.2546",
+    "KBArticle": "KB5019275",
+    "KBUrl": "https://support.microsoft.com/help/5019275"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2023-02-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "22H2",
+    "Build": "19045.2604",
+    "KBArticle": "KB5022834",
+    "KBUrl": "https://support.microsoft.com/help/5022834"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2023-02-21",
+    "ReleaseType": "Preview",
+    "RelaseId": "22H2",
+    "Build": "19045.2673",
+    "KBArticle": "KB5022906",
+    "KBUrl": "https://support.microsoft.com/help/5022906"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2023-03-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "22H2",
+    "Build": "19045.2728",
+    "KBArticle": "KB5023696",
+    "KBUrl": "https://support.microsoft.com/help/5023696"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2023-03-21",
+    "ReleaseType": "Preview",
+    "RelaseId": "22H2",
+    "Build": "19045.2788",
+    "KBArticle": "KB5023773",
+    "KBUrl": "https://support.microsoft.com/help/5023773"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2023-04-11",
+    "ReleaseType": "Standard",
+    "RelaseId": "22H2",
+    "Build": "19045.2846",
+    "KBArticle": "KB5025221",
+    "KBUrl": "https://support.microsoft.com/help/5025221"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2023-04-25",
+    "ReleaseType": "Preview",
+    "RelaseId": "22H2",
+    "Build": "19045.2913",
+    "KBArticle": "KB5025297",
+    "KBUrl": "https://support.microsoft.com/help/5025297"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2023-05-09",
+    "ReleaseType": "Standard",
+    "RelaseId": "22H2",
+    "Build": "19045.2965",
+    "KBArticle": "KB5026361",
+    "KBUrl": "https://support.microsoft.com/help/5026361"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2023-05-23",
+    "ReleaseType": "Preview",
+    "RelaseId": "22H2",
+    "Build": "19045.3031",
+    "KBArticle": "KB5026435",
+    "KBUrl": "https://support.microsoft.com/help/5026435"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2023-06-13",
+    "ReleaseType": "Standard",
+    "RelaseId": "22H2",
+    "Build": "19045.3086",
+    "KBArticle": "KB5027215",
+    "KBUrl": "https://support.microsoft.com/help/5027215"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2023-06-27",
+    "ReleaseType": "Preview",
+    "RelaseId": "22H2",
+    "Build": "19045.3155",
+    "KBArticle": "KB5027293",
+    "KBUrl": "https://support.microsoft.com/help/5027293"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2023-07-11",
+    "ReleaseType": "Standard",
+    "RelaseId": "22H2",
+    "Build": "19045.3208",
+    "KBArticle": "KB5028166",
+    "KBUrl": "https://support.microsoft.com/help/5028166"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2023-07-25",
+    "ReleaseType": "Preview",
+    "RelaseId": "22H2",
+    "Build": "19045.3271",
+    "KBArticle": "KB5028244",
+    "KBUrl": "https://support.microsoft.com/help/5028244"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2023-08-08",
+    "ReleaseType": "Standard",
+    "RelaseId": "22H2",
+    "Build": "19045.3324",
+    "KBArticle": "KB5029244",
+    "KBUrl": "https://support.microsoft.com/help/5029244"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2023-08-22",
+    "ReleaseType": "Preview",
+    "RelaseId": "22H2",
+    "Build": "19045.3393",
+    "KBArticle": "KB5029331",
+    "KBUrl": "https://support.microsoft.com/help/5029331"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2023-09-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "22H2",
+    "Build": "19045.3448",
+    "KBArticle": "KB5030211",
+    "KBUrl": "https://support.microsoft.com/help/5030211"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2023-09-26",
+    "ReleaseType": "Preview",
+    "RelaseId": "22H2",
+    "Build": "19045.3516",
+    "KBArticle": "KB5030300",
+    "KBUrl": "https://support.microsoft.com/help/5030300"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2023-10-10",
+    "ReleaseType": "Standard",
+    "RelaseId": "22H2",
+    "Build": "19045.3570",
+    "KBArticle": "KB5031356",
+    "KBUrl": "https://support.microsoft.com/help/5031356"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2023-10-26",
+    "ReleaseType": "Preview",
+    "RelaseId": "22H2",
+    "Build": "19045.3636",
+    "KBArticle": "KB5031445",
+    "KBUrl": "https://support.microsoft.com/help/5031445"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2023-11-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "22H2",
+    "Build": "19045.3693",
+    "KBArticle": "KB5032189",
+    "KBUrl": "https://support.microsoft.com/help/5032189"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2023-11-30",
+    "ReleaseType": "Preview",
+    "RelaseId": "22H2",
+    "Build": "19045.3758",
+    "KBArticle": "KB5032278",
+    "KBUrl": "https://support.microsoft.com/help/5032278"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2023-12-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "22H2",
+    "Build": "19045.3803",
+    "KBArticle": "KB5033372",
+    "KBUrl": "https://support.microsoft.com/help/5033372"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2024-01-09",
+    "ReleaseType": "Standard",
+    "RelaseId": "22H2",
+    "Build": "19045.3930",
+    "KBArticle": "KB5034122",
+    "KBUrl": "https://support.microsoft.com/help/5034122"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2024-01-23",
+    "ReleaseType": "Preview",
+    "RelaseId": "22H2",
+    "Build": "19045.3996",
+    "KBArticle": "KB5034203",
+    "KBUrl": "https://support.microsoft.com/help/5034203"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2024-02-13",
+    "ReleaseType": "Standard",
+    "RelaseId": "22H2",
+    "Build": "19045.4046",
+    "KBArticle": "KB5034763",
+    "KBUrl": "https://support.microsoft.com/help/5034763"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2024-02-29",
+    "ReleaseType": "Preview",
+    "RelaseId": "22H2",
+    "Build": "19045.4123",
+    "KBArticle": "KB5034843",
+    "KBUrl": "https://support.microsoft.com/help/5034843"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2024-03-12",
+    "ReleaseType": "Standard",
+    "RelaseId": "22H2",
+    "Build": "19045.4170",
+    "KBArticle": "KB5035845",
+    "KBUrl": "https://support.microsoft.com/help/5035845"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2024-03-26",
+    "ReleaseType": "Preview",
+    "RelaseId": "22H2",
+    "Build": "19045.4239",
+    "KBArticle": "KB5035941",
+    "KBUrl": "https://support.microsoft.com/help/5035941"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2024-04-09",
+    "ReleaseType": "Standard",
+    "RelaseId": "22H2",
+    "Build": "19045.4291",
+    "KBArticle": "KB5036892",
+    "KBUrl": "https://support.microsoft.com/help/5036892"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2024-04-23",
+    "ReleaseType": "Preview",
+    "RelaseId": "22H2",
+    "Build": "19045.4355",
+    "KBArticle": "KB5036979",
+    "KBUrl": "https://support.microsoft.com/help/5036979"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2024-05-14",
+    "ReleaseType": "Standard",
+    "RelaseId": "22H2",
+    "Build": "19045.4412",
+    "KBArticle": "KB5037768",
+    "KBUrl": "https://support.microsoft.com/help/5037768"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2024-05-29",
+    "ReleaseType": "Preview",
+    "RelaseId": "22H2",
+    "Build": "19045.4474",
+    "KBArticle": "KB5037849",
+    "KBUrl": "https://support.microsoft.com/help/5037849"
+  }
+]
