@@ -1,0 +1,39 @@
+name: Run PowerShell Script and Validate JSON
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Run PowerShell Script
+        run: pwsh ./src/main.ps1
+        shell: pwsh
+
+      - name: Validate JSON output
+        id: validate_json
+        run: pwsh ./tests/Test-Exports.ps1
+        shell: pwsh
+
+      - name: Commit JSON file
+        if: ${{ success() }}
+        env:
+          PAT: ${{ secrets.PAT }}
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          Get-ChildItem -Path (Join-Path . 'exports') *.json | ForEach-Object {
+              git add $_.Fullname
+          }
+          git remote set-url origin https://x-access-token:${PAT}@github.com/${{ github.repository }}
+          git commit -m "Add valid JSON output"
+          git push
+        shell: pwsh
