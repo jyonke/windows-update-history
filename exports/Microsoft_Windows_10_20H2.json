@@ -305,7 +305,7 @@
       "Semi-Annual Channel"
     ],
     "AvailabilityDate": "2021-09-01",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Preview",
     "RelaseId": "20H2",
     "Build": "19042.1202",
     "KBArticle": "KB5005101",
@@ -677,7 +677,7 @@
       "Semi-Annual Channel"
     ],
     "AvailabilityDate": "2022-10-25",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Preview",
     "RelaseId": "20H2",
     "Build": "19042.2193",
     "KBArticle": "KB5018482",
@@ -749,7 +749,7 @@
       "Semi-Annual Channel"
     ],
     "AvailabilityDate": "2023-01-19",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Preview",
     "RelaseId": "20H2",
     "Build": "19042.2546",
     "KBArticle": "KB5019275",
@@ -773,7 +773,7 @@
       "Semi-Annual Channel"
     ],
     "AvailabilityDate": "2023-02-21",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Preview",
     "RelaseId": "20H2",
     "Build": "19042.2673",
     "KBArticle": "KB5022906",

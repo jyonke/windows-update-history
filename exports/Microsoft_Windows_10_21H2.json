@@ -162,7 +162,7 @@
       "General Availability Channel"
     ],
     "AvailabilityDate": "2022-05-19",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Out-of-band",
     "RelaseId": "21H2",
     "Build": "19044.1708",
     "KBArticle": "KB5015020",
@@ -370,7 +370,7 @@
       "General Availability Channel"
     ],
     "AvailabilityDate": "2022-11-15",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "21H2",
     "Build": "19044.2311",
     "KBArticle": "KB5020030",
