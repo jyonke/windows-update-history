@@ -641,7 +641,7 @@
       "Semi-Annual Channel"
     ],
     "AvailabilityDate": "2022-01-17",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Out-of-band",
     "RelaseId": "1909",
     "Build": "18363.2039",
     "KBArticle": "KB5010792",
