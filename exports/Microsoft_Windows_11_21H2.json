@@ -17,7 +17,7 @@
       "General Availability Channel"
     ],
     "AvailabilityDate": "2021-10-21",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Preview",
     "RelaseId": "21H2",
     "Build": "22000.282",
     "KBArticle": "KB5006746",
@@ -41,7 +41,7 @@
       "General Availability Channel"
     ],
     "AvailabilityDate": "2021-11-22",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Preview",
     "RelaseId": "21H2",
     "Build": "22000.348",
     "KBArticle": "KB5007262",
