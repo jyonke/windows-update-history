@@ -2201,5 +2201,19 @@
     "Build": "14393.6981",
     "KBArticle": "KB5037763",
     "KBUrl": "https://support.microsoft.com/help/5037763"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "CBB",
+      "CB",
+      "LTSB"
+    ],
+    "AvailabilityDate": "2024-06-11",
+    "ReleaseType": "Standard",
+    "RelaseId": "1607",
+    "Build": "14393.7070",
+    "KBArticle": "KB5039214",
+    "KBUrl": "https://support.microsoft.com/help/5039214"
   }
 ]
