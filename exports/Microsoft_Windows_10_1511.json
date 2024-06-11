@@ -152,7 +152,7 @@
       "CB"
     ],
     "AvailabilityDate": "2016-05-10",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Preview",
     "RelaseId": "1511",
     "Build": "10586.318",
     "KBArticle": "KB3156421",
@@ -165,7 +165,7 @@
       "CB"
     ],
     "AvailabilityDate": "2016-06-14",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Preview",
     "RelaseId": "1511",
     "Build": "10586.420",
     "KBArticle": "KB3163018",
@@ -178,7 +178,7 @@
       "CB"
     ],
     "AvailabilityDate": "2016-07-12",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Preview",
     "RelaseId": "1511",
     "Build": "10586.494",
     "KBArticle": "KB3172985",
