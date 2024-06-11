@@ -390,7 +390,7 @@
       "CB"
     ],
     "AvailabilityDate": "2016-05-10",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "1511",
     "Build": "10586.318",
     "KBArticle": "KB3156421",
@@ -417,7 +417,7 @@
       "CB"
     ],
     "AvailabilityDate": "2016-06-14",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "1511",
     "Build": "10586.420",
     "KBArticle": "KB3163018",
@@ -444,7 +444,7 @@
       "CB"
     ],
     "AvailabilityDate": "2016-07-12",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "1511",
     "Build": "10586.494",
     "KBArticle": "KB3172985",
@@ -6622,7 +6622,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2020-07-21",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.1369",
     "KBArticle": "KB4559003",
@@ -6774,7 +6774,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2020-08-20",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.1432",
     "KBArticle": "KB4571748",
@@ -6926,7 +6926,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2020-09-16",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.1490",
     "KBArticle": "KB4577069",
@@ -7078,7 +7078,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2020-10-20",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.1554",
     "KBArticle": "KB4580390",
@@ -7241,7 +7241,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2020-11-17",
-    "ReleaseType": "Out-of-band",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.1579",
     "KBArticle": "KB4594442",
@@ -7255,7 +7255,7 @@
       "LTSB"
     ],
     "AvailabilityDate": "2020-11-19",
-    "ReleaseType": "Out-of-band",
+    "ReleaseType": "Standard",
     "RelaseId": "1607",
     "Build": "14393.4048",
     "KBArticle": "KB4594441",
@@ -7269,7 +7269,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2020-11-19",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.1613",
     "KBArticle": "KB4586839",
@@ -7569,7 +7569,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2021-01-21",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.1728",
     "KBArticle": "KB4598296",
@@ -7720,7 +7720,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2021-02-16",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.1790",
     "KBArticle": "KB4601383",
@@ -7858,7 +7858,7 @@
       "Semi-Annual Channel (Targeted)"
     ],
     "AvailabilityDate": "2021-03-15",
-    "ReleaseType": "Out-of-band",
+    "ReleaseType": "Standard",
     "RelaseId": "1803",
     "Build": "17134.2088",
     "KBArticle": "KB5001565",
@@ -7872,7 +7872,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2021-03-15",
-    "ReleaseType": "Out-of-band",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.1821",
     "KBArticle": "KB5001568",
@@ -7934,7 +7934,7 @@
       "LTSB"
     ],
     "AvailabilityDate": "2021-03-18",
-    "ReleaseType": "Out-of-band",
+    "ReleaseType": "Standard",
     "RelaseId": "1607",
     "Build": "14393.4288",
     "KBArticle": "KB5001633",
@@ -7947,7 +7947,7 @@
       "Semi-Annual Channel (Targeted)"
     ],
     "AvailabilityDate": "2021-03-18",
-    "ReleaseType": "Out-of-band",
+    "ReleaseType": "Standard",
     "RelaseId": "1803",
     "Build": "17134.2090",
     "KBArticle": "KB5001634",
@@ -7961,7 +7961,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2021-03-18",
-    "ReleaseType": "Out-of-band",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.1823",
     "KBArticle": "KB5001638",
@@ -8011,7 +8011,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2021-03-25",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.1852",
     "KBArticle": "KB5000854",
@@ -8150,7 +8150,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2021-04-22",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.1911",
     "KBArticle": "KB5001384",
@@ -8299,7 +8299,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2021-05-20",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.1971",
     "KBArticle": "KB5003217",
@@ -8481,7 +8481,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2021-06-15",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.2028",
     "KBArticle": "KB5003703",
@@ -8589,7 +8589,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2021-07-06",
-    "ReleaseType": "Out-of-band",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.2029",
     "KBArticle": "KB5004947",
@@ -8651,7 +8651,7 @@
       "LTSB"
     ],
     "AvailabilityDate": "2021-07-07",
-    "ReleaseType": "Out-of-band",
+    "ReleaseType": "Standard",
     "RelaseId": "1607",
     "Build": "14393.4470",
     "KBArticle": "KB5004948",
@@ -8749,7 +8749,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2021-07-20",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.2090",
     "KBArticle": "KB5004308",
@@ -8761,7 +8761,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2021-07-27",
-    "ReleaseType": "Out-of-band",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.2091",
     "KBArticle": "KB5005394",
@@ -8775,7 +8775,7 @@
       "LTSB"
     ],
     "AvailabilityDate": "2021-07-29",
-    "ReleaseType": "Out-of-band",
+    "ReleaseType": "Standard",
     "RelaseId": "1607",
     "Build": "14393.4532",
     "KBArticle": "KB5005393",
@@ -8921,7 +8921,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2021-08-26",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.2145",
     "KBArticle": "KB5005102",
@@ -9067,7 +9067,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2021-09-21",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.2213",
     "KBArticle": "KB5005625",
@@ -9213,7 +9213,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2021-10-19",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.2268",
     "KBArticle": "KB5006744",
@@ -9349,7 +9349,7 @@
       "LTSB"
     ],
     "AvailabilityDate": "2021-11-14",
-    "ReleaseType": "Out-of-band",
+    "ReleaseType": "Standard",
     "RelaseId": "1607",
     "Build": "14393.4771",
     "KBArticle": "KB5008601",
@@ -9361,7 +9361,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2021-11-14",
-    "ReleaseType": "Out-of-band",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.2305",
     "KBArticle": "KB5008602",
@@ -9373,7 +9373,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2021-11-22",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.2330",
     "KBArticle": "KB5007266",
@@ -9533,7 +9533,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2022-01-04",
-    "ReleaseType": "Out-of-band",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.2369",
     "KBArticle": "KB5010196",
@@ -9547,7 +9547,7 @@
       "LTSB"
     ],
     "AvailabilityDate": "2022-01-05",
-    "ReleaseType": "Out-of-band",
+    "ReleaseType": "Standard",
     "RelaseId": "1607",
     "Build": "14393.4827",
     "KBArticle": "KB5010195",
@@ -9660,7 +9660,7 @@
       "LTSB"
     ],
     "AvailabilityDate": "2022-01-17",
-    "ReleaseType": "Out-of-band",
+    "ReleaseType": "Standard",
     "RelaseId": "1607",
     "Build": "14393.4889",
     "KBArticle": "KB5010790",
@@ -9721,7 +9721,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2022-01-18",
-    "ReleaseType": "Out-of-band",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.2458",
     "KBArticle": "KB5010791",
@@ -9733,7 +9733,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2022-01-25",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.2510",
     "KBArticle": "KB5009616",
@@ -9869,7 +9869,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2022-02-15",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.2628",
     "KBArticle": "KB5010427",
@@ -10005,7 +10005,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2022-03-22",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.2746",
     "KBArticle": "KB5011551",
@@ -10141,7 +10141,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2022-04-21",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.2867",
     "KBArticle": "KB5012636",
@@ -10279,7 +10279,7 @@
       "LTSB"
     ],
     "AvailabilityDate": "2022-05-19",
-    "ReleaseType": "Out-of-band",
+    "ReleaseType": "Standard",
     "RelaseId": "1607",
     "Build": "14393.5127",
     "KBArticle": "KB5015019",
@@ -10291,7 +10291,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2022-05-19",
-    "ReleaseType": "Out-of-band",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.2931",
     "KBArticle": "KB5015018",
@@ -10340,7 +10340,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2022-05-24",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.2989",
     "KBArticle": "KB5014022",
@@ -10501,7 +10501,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2022-06-23",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.3113",
     "KBArticle": "KB5014669",
@@ -10625,7 +10625,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2022-07-21",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.3232",
     "KBArticle": "KB5015880",
@@ -10749,7 +10749,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2022-08-23",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.3346",
     "KBArticle": "KB5016690",
@@ -10873,7 +10873,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2022-09-20",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.3469",
     "KBArticle": "KB5017379",
@@ -10997,7 +10997,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2022-10-17",
-    "ReleaseType": "Out-of-band",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.3534",
     "KBArticle": "KB5020438",
@@ -11060,7 +11060,7 @@
       "LTSB"
     ],
     "AvailabilityDate": "2022-10-18",
-    "ReleaseType": "Out-of-band",
+    "ReleaseType": "Standard",
     "RelaseId": "1607",
     "Build": "14393.5429",
     "KBArticle": "KB5020439",
@@ -11284,7 +11284,7 @@
       "LTSB"
     ],
     "AvailabilityDate": "2022-11-17",
-    "ReleaseType": "Out-of-band",
+    "ReleaseType": "Standard",
     "RelaseId": "1607",
     "Build": "14393.5502",
     "KBArticle": "KB5021654",
@@ -11994,7 +11994,7 @@
       "LTSB"
     ],
     "AvailabilityDate": "2023-06-23",
-    "ReleaseType": "Out-of-band",
+    "ReleaseType": "Standard",
     "RelaseId": "1607",
     "Build": "14393.5996",
     "KBArticle": "KB5028623",
@@ -12671,7 +12671,7 @@
       "LTSB"
     ],
     "AvailabilityDate": "2024-03-22",
-    "ReleaseType": "Out-of-band",
+    "ReleaseType": "Standard",
     "RelaseId": "1607",
     "Build": "14393.6800",
     "KBArticle": "KB5037423",
