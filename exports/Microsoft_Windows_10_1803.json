@@ -859,7 +859,7 @@
       "Semi-Annual Channel (Targeted)"
     ],
     "AvailabilityDate": "2021-03-15",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Out-of-band",
     "RelaseId": "1803",
     "Build": "17134.2088",
     "KBArticle": "KB5001565",
@@ -872,7 +872,7 @@
       "Semi-Annual Channel (Targeted)"
     ],
     "AvailabilityDate": "2021-03-18",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Out-of-band",
     "RelaseId": "1803",
     "Build": "17134.2090",
     "KBArticle": "KB5001634",
