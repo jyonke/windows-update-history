@@ -917,7 +917,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2021-08-26",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.2145",
     "KBArticle": "KB5005102",
@@ -965,7 +965,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2021-10-19",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.2268",
     "KBArticle": "KB5006744",
