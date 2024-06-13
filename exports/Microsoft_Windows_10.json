@@ -9067,7 +9067,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2021-09-21",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.2213",
     "KBArticle": "KB5005625",
@@ -9213,7 +9213,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2021-10-19",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.2268",
     "KBArticle": "KB5006744",
@@ -12695,7 +12695,7 @@
       "General Availability Channel"
     ],
     "AvailabilityDate": "2024-03-26",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Preview",
     "RelaseId": "22H2",
     "Build": "19045.4239",
     "KBArticle": "KB5035941",
