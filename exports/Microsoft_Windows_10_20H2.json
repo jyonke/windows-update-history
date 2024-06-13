@@ -281,7 +281,7 @@
       "Semi-Annual Channel"
     ],
     "AvailabilityDate": "2021-07-29",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Preview",
     "RelaseId": "20H2",
     "Build": "19042.1151",
     "KBArticle": "KB5004296",
@@ -305,7 +305,7 @@
       "Semi-Annual Channel"
     ],
     "AvailabilityDate": "2021-09-01",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Preview",
     "RelaseId": "20H2",
     "Build": "19042.1202",
     "KBArticle": "KB5005101",
