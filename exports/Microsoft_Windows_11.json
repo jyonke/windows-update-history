@@ -1277,7 +1277,7 @@
       "General Availability Channel"
     ],
     "AvailabilityDate": "2024-04-23",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Preview",
     "RelaseId": "23H2",
     "Build": "22631.3527",
     "KBArticle": "KB5036980",
