@@ -113,7 +113,7 @@
       "General Availability Channel"
     ],
     "AvailabilityDate": "2023-01-26",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Preview",
     "RelaseId": "22H2",
     "Build": "22621.1194",
     "KBArticle": "KB5022360",
@@ -137,7 +137,7 @@
       "General Availability Channel"
     ],
     "AvailabilityDate": "2023-02-28",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Preview",
     "RelaseId": "22H2",
     "Build": "22621.1344",
     "KBArticle": "KB5022913",
@@ -185,7 +185,7 @@
       "General Availability Channel"
     ],
     "AvailabilityDate": "2023-04-25",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Preview",
     "RelaseId": "22H2",
     "Build": "22621.1635",
     "KBArticle": "KB5025305",
