@@ -10786,7 +10786,7 @@
       "General Availability Channel"
     ],
     "AvailabilityDate": "2022-08-26",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "21H2",
     "Build": "19044.1949",
     "KBArticle": "KB5016688",
@@ -12695,7 +12695,7 @@
       "General Availability Channel"
     ],
     "AvailabilityDate": "2024-03-26",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "22H2",
     "Build": "19045.4239",
     "KBArticle": "KB5035941",
