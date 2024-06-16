@@ -29,7 +29,7 @@
       "Semi-Annual Channel"
     ],
     "AvailabilityDate": "2020-11-19",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Out-of-band",
     "RelaseId": "20H2",
     "Build": "19042.631",
     "KBArticle": "KB4594440",
