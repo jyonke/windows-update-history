@@ -761,7 +761,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2021-03-18",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Out-of-band",
     "RelaseId": "1809",
     "Build": "17763.1823",
     "KBArticle": "KB5001638",
@@ -773,7 +773,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2021-03-25",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Preview",
     "RelaseId": "1809",
     "Build": "17763.1852",
     "KBArticle": "KB5000854",
