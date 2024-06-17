@@ -1253,7 +1253,7 @@
       "LTSB"
     ],
     "AvailabilityDate": "2020-11-19",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Out-of-band",
     "RelaseId": "1607",
     "Build": "14393.4048",
     "KBArticle": "KB4594441",
