@@ -1985,7 +1985,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2021-01-21",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.1728",
     "KBArticle": "KB4598296",
@@ -2021,7 +2021,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2021-02-16",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "1809",
     "Build": "17763.1790",
     "KBArticle": "KB4601383",
