@@ -5,7 +5,7 @@
       "General Availability Channel"
     ],
     "AvailabilityDate": "2023-10-31",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Preview",
     "RelaseId": "23H2",
     "Build": "22631.2506",
     "KBArticle": "KB5031455",
@@ -29,7 +29,7 @@
       "General Availability Channel"
     ],
     "AvailabilityDate": "2023-12-04",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Preview",
     "RelaseId": "23H2",
     "Build": "22631.2792",
     "KBArticle": "KB5032288",
