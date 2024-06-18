@@ -77,7 +77,7 @@
       "General Availability Channel"
     ],
     "AvailabilityDate": "2022-11-29",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Preview",
     "RelaseId": "22H2",
     "Build": "22621.900",
     "KBArticle": "KB5020044",
@@ -113,7 +113,7 @@
       "General Availability Channel"
     ],
     "AvailabilityDate": "2023-01-26",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Preview",
     "RelaseId": "22H2",
     "Build": "22621.1194",
     "KBArticle": "KB5022360",
