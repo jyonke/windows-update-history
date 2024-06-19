@@ -2501,7 +2501,7 @@
       "LTSB"
     ],
     "AvailabilityDate": "2021-11-14",
-    "ReleaseType": "Out-of-band",
+    "ReleaseType": "Standard",
     "RelaseId": "1607",
     "Build": "14393.4771",
     "KBArticle": "KB5008601",
@@ -4025,7 +4025,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2024-03-22",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Out-of-band",
     "RelaseId": "21H2",
     "Build": "20348.2342",
     "KBArticle": "KB5037422",
