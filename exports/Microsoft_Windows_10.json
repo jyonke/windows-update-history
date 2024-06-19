@@ -9547,7 +9547,7 @@
       "LTSB"
     ],
     "AvailabilityDate": "2022-01-05",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Out-of-band",
     "RelaseId": "1607",
     "Build": "14393.4827",
     "KBArticle": "KB5010195",
@@ -9660,7 +9660,7 @@
       "LTSB"
     ],
     "AvailabilityDate": "2022-01-17",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Out-of-band",
     "RelaseId": "1607",
     "Build": "14393.4889",
     "KBArticle": "KB5010790",
@@ -12594,7 +12594,7 @@
       "General Availability Channel"
     ],
     "AvailabilityDate": "2024-02-29",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Preview",
     "RelaseId": "22H2",
     "Build": "19045.4123",
     "KBArticle": "KB5034843",
@@ -12857,7 +12857,7 @@
       "General Availability Channel"
     ],
     "AvailabilityDate": "2024-05-29",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "22H2",
     "Build": "19045.4474",
     "KBArticle": "KB5037849",
