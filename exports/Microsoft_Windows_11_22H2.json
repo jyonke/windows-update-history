@@ -5,7 +5,7 @@
       "General Availability Channel"
     ],
     "AvailabilityDate": "2022-09-27",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Out-of-band",
     "RelaseId": "22H2",
     "Build": "22621.525",
     "KBArticle": "KB5019311",
@@ -17,7 +17,7 @@
       "General Availability Channel"
     ],
     "AvailabilityDate": "2022-09-30",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Preview",
     "RelaseId": "22H2",
     "Build": "22621.608",
     "KBArticle": "KB5017389",
