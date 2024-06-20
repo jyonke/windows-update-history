@@ -7329,7 +7329,7 @@
       "Semi-Annual Channel"
     ],
     "AvailabilityDate": "2020-11-19",
-    "ReleaseType": "Out-of-band",
+    "ReleaseType": "Standard",
     "RelaseId": "2004",
     "Build": "19041.631",
     "KBArticle": "KB4594440",
@@ -7353,7 +7353,7 @@
       "Semi-Annual Channel"
     ],
     "AvailabilityDate": "2020-11-30",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "2004",
     "Build": "19041.662",
     "KBArticle": "KB4586853",
@@ -12594,7 +12594,7 @@
       "General Availability Channel"
     ],
     "AvailabilityDate": "2024-02-29",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Preview",
     "RelaseId": "22H2",
     "Build": "19045.4123",
     "KBArticle": "KB5034843",
