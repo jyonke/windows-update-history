@@ -161,7 +161,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2022-02-15",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Preview",
     "RelaseId": "21H2",
     "Build": "20348.558",
     "KBArticle": "KB5010421",
@@ -185,7 +185,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2022-03-22",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Preview",
     "RelaseId": "21H2",
     "Build": "20348.617",
     "KBArticle": "KB5011558",
