@@ -329,7 +329,7 @@
       "General Availability Channel"
     ],
     "AvailabilityDate": "2023-10-26",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Preview",
     "RelaseId": "22H2",
     "Build": "22621.2506",
     "KBArticle": "KB5031455",
