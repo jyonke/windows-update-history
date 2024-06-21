@@ -989,7 +989,7 @@
       "General Availability Channel"
     ],
     "AvailabilityDate": "2023-12-04",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Preview",
     "RelaseId": "22H2",
     "Build": "22621.2792",
     "KBArticle": "KB5032288",
