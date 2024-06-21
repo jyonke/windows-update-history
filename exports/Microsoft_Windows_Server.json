@@ -4169,7 +4169,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2024-06-20",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Out-of-band",
     "RelaseId": "21H2",
     "Build": "20348.2529",
     "KBArticle": "KB5041054",
