@@ -257,7 +257,7 @@
       "Semi-Annual Channel"
     ],
     "AvailabilityDate": "2021-07-06",
-    "ReleaseType": "Out-of-band",
+    "ReleaseType": "Standard",
     "RelaseId": "20H2",
     "Build": "19042.1083",
     "KBArticle": "KB5004945",
@@ -281,7 +281,7 @@
       "Semi-Annual Channel"
     ],
     "AvailabilityDate": "2021-07-29",
-    "ReleaseType": "Preview",
+    "ReleaseType": "Standard",
     "RelaseId": "20H2",
     "Build": "19042.1151",
     "KBArticle": "KB5004296",
