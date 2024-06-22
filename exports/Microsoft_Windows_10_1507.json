@@ -1255,7 +1255,7 @@
       "LTSB"
     ],
     "AvailabilityDate": "2022-01-17",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Out-of-band",
     "RelaseId": "1507",
     "Build": "10240.19179",
     "KBArticle": "KB5010789",
