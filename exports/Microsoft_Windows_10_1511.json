@@ -5,7 +5,7 @@
       "CB"
     ],
     "AvailabilityDate": "2015-11-10",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Unknown",
     "RelaseId": "1511",
     "Build": "10586.3",
     "KBArticle": "KB3105211",
@@ -17,7 +17,7 @@
       "CB"
     ],
     "AvailabilityDate": "2015-11-18",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Unknown",
     "RelaseId": "1511",
     "Build": "10586.11",
     "KBArticle": "KB3118754",
@@ -29,7 +29,7 @@
       "CB"
     ],
     "AvailabilityDate": "2015-11-24",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Unknown",
     "RelaseId": "1511",
     "Build": "10586.14",
     "KBArticle": "KB3120677",
@@ -41,7 +41,7 @@
       "CB"
     ],
     "AvailabilityDate": "2015-12-02",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Unknown",
     "RelaseId": "1511",
     "Build": "10586.17",
     "KBArticle": "KB3116908",
@@ -53,7 +53,7 @@
       "CB"
     ],
     "AvailabilityDate": "2015-12-08",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Unknown",
     "RelaseId": "1511",
     "Build": "10586.29",
     "KBArticle": "KB3116900",
@@ -65,7 +65,7 @@
       "CB"
     ],
     "AvailabilityDate": "2015-12-17",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Unknown",
     "RelaseId": "1511",
     "Build": "10586.36",
     "KBArticle": "KB3124200",
@@ -77,7 +77,7 @@
       "CB"
     ],
     "AvailabilityDate": "2016-01-12",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Unknown",
     "RelaseId": "1511",
     "Build": "10586.63",
     "KBArticle": "KB3124263",
@@ -89,7 +89,7 @@
       "CB"
     ],
     "AvailabilityDate": "2016-01-27",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Unknown",
     "RelaseId": "1511",
     "Build": "10586.71",
     "KBArticle": "KB3124262",
