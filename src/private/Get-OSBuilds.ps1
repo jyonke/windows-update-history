@@ -55,18 +55,45 @@ function Get-OSBuilds {
     switch -Wildcard ($Product) {
         'Windows 10' {
             $uri = 'https://learn.microsoft.com/en-us/windows/release-health/release-information'
+            $uriUpdateHistory = @(
+                'https://support.microsoft.com/en-us/topic/windows-10-update-history-8127c2c6-6edf-4fdf-8b9f-0f7be1ef3562'
+                'https://support.microsoft.com/en-us/topic/windows-10-update-history-93345c32-4ae1-6d1c-f885-6c0b718adf3b'
+                'https://support.microsoft.com/en-us/topic/windows-10-update-history-2ad7900f-882c-1dfc-f9d7-82b7ca162010'
+                'https://support.microsoft.com/en-us/topic/windows-10-and-windows-server-2016-update-history-4acfbc84-a290-1b54-536a-1c0430e9f3fd'
+                'https://support.microsoft.com/en-us/topic/windows-10-update-history-83aa43c0-82e0-92d8-1580-10642c9ed612'
+                'https://support.microsoft.com/en-us/topic/windows-10-and-windows-server-update-history-8e779ac1-e840-d3b8-524e-91037bf7645a'
+                'https://support.microsoft.com/en-us/topic/windows-10-update-history-0d8c2da6-3dba-66e4-2ef2-059192bf7869'
+                'https://support.microsoft.com/en-us/topic/windows-10-and-windows-server-2019-update-history-725fc2e1-4443-6831-a5ca-51ff5cbcb059'
+                'https://support.microsoft.com/en-us/topic/windows-10-update-history-e6058e7c-4116-38f1-b984-4fcacfba5e5d'
+                'https://support.microsoft.com/en-us/topic/windows-10-update-history-53c270dc-954f-41f7-7ced-488578904dfe'
+                'https://support.microsoft.com/en-us/topic/windows-10-update-history-24ea91f4-36e7-d8fd-0ddb-d79d9d0cdbda'
+                'https://support.microsoft.com/en-us/topic/windows-10-update-history-7dd3071a-3906-fa2c-c342-f7f86728a6e3'
+            )  
         }
         'Windows 11' {
             $uri = 'https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information'
+            $uriUpdateHistory = @(
+                'https://support.microsoft.com/en-us/topic/windows-11-version-23h2-update-history-59875222-b990-4bd9-932f-91a5954de434'
+                'https://support.microsoft.com/en-us/topic/windows-11-version-21h2-update-history-a19cd327-b57f-44b9-84e0-26ced7109ba9'
+            ) 
         }
         'Windows Server*' {
             $uri = 'https://learn.microsoft.com/en-us/windows/release-health/windows-server-release-info'
+            $uriUpdateHistory = @(
+                'https://support.microsoft.com/en-us/topic/windows-server-version-23h2-update-history-68c851ff-825a-4dbc-857b-51c5aa0ab248'
+                'https://support.microsoft.com/en-us/topic/windows-10-and-windows-server-2019-update-history-725fc2e1-4443-6831-a5ca-51ff5cbcb059'
+                'https://support.microsoft.com/en-us/topic/windows-10-and-windows-server-2016-update-history-4acfbc84-a290-1b54-536a-1c0430e9f3fd'
+                'https://support.microsoft.com/en-us/topic/windows-10-update-history-e6058e7c-4116-38f1-b984-4fcacfba5e5d'
+                'https://support.microsoft.com/en-us/topic/windows-10-update-history-53c270dc-954f-41f7-7ced-488578904dfe'
+                'https://support.microsoft.com/en-us/topic/windows-10-update-history-24ea91f4-36e7-d8fd-0ddb-d79d9d0cdbda'
+                'https://support.microsoft.com/en-us/topic/windows-10-update-history-7dd3071a-3906-fa2c-c342-f7f86728a6e3'
+            )
         }
 
         Default {}
     }
     $htmlContent = Invoke-RestMethod $uri -ErrorAction Stop 
-
+    $updateHistory = $uriUpdateHistory | ForEach-Object { Invoke-WebRequest -Uri $_ -UseBasicParsing -ErrorAction stop; Start-Sleep -Milliseconds 500 }
     # Define the regex pattern to match table rows
     $pattern = '<tr>\s*<td>(.*?)</td>\s*<td>(.*?)</td>\s*<td>(.*?)</td>\s*<td><a href="(.*?)"[^>]*>(.*?)</a></td>\s*</tr>'
 
@@ -139,19 +166,30 @@ function Get-OSBuilds {
         }
                         
         # Determine Build Type and Filter
-        $KBUrlRedirect = Get-RedirectedUrl $kbUrl
-        if ($KBUrlRedirect) {
-            Write-Verbose "Found KB URL Redirect: $KBUrlRedirect"
-            switch -Wildcard ($KBUrlRedirect) {
-                '*preview*' { $type = 'Preview' }
-                '*out-of-band*' { $type = 'Out-of-band' }
-                Default { $type = 'Standard' }
+        # Initialize the update type
+        $type = "Standard"
+
+        try {
+            # Find the matching link based on the build number
+            $matchingLink = $using:updateHistory.Links | Where-Object { $_.outerHTML -match $kbArticle } | Select-Object -First 1 -ExpandProperty outerHTML
+
+            # Check the update type based on the link text
+            if ($matchingLink -match "(?i)preview") {
+                $type = "Preview"
             }
-            Write-Verbose "Update Type: $type"
+            elseif ($matchingLink -match "(?i)out-of-band") {
+                $type = "Out-of-band"
+            }
+            if ([string]::IsNullOrEmpty($matchingLink)) {
+                $type = "Unknown"
+            }
         }
-        else {
-            Write-Verbose "Missing KB URL Redirect: $KBUrl"
+        catch {
+            Write-Error "Failed to parse the update type: $_"
+            exit
         }
+        Write-Verbose "Update Type: $type"
+        
         if (($using:Preview -ne $true) -and ($type -eq 'Preview')) {
             Write-Verbose "Skipping: $ubr is a Preview Build"
             return
@@ -160,7 +198,7 @@ function Get-OSBuilds {
             Write-Verbose "Skipping: $ubr is an Out-of-Band Build"
             return
         }
-
+        
         [PSCustomObject]@{
             'Product'          = $OSProduct
             'ServicingOption'  = $servicingOptionArray
