@@ -11,7 +11,8 @@ Get-ChildItem (Join-Path $PSScriptRoot 'private') *.ps1 | ForEach-Object { . $PS
 # Windows10
 $TimeStamp = Get-Date -Format 'yyyy-MM-dd hh:mm:ss'
 Write-Output "$TimeStamp`: Gathering Windows 10 Build Details"
-$OSBuilds = Get-OSBuilds -Product 'Windows 10' -Preview -OutofBand 
+$W10StaticDataFile = Join-Path $PSScriptRoot '\private\Microsoft_Windows_10_Static_Builds.json'
+$OSBuilds = Get-OSBuilds -Product 'Windows 10' -Preview -OutofBand -StaticDataFile $W10StaticDataFile
 $OSBuilds | Group-Object -Property RelaseId | ForEach-Object {
     $FileName = "Microsoft_Windows_10_$($_.Name).json"
     $_.Group | ConvertTo-Json | Set-Content -Path (Join-Path $ExportFolder $FileName) -Force
@@ -21,7 +22,8 @@ $OSBuilds |  ConvertTo-Json | Set-Content -Path (Join-Path $ExportFolder 'Micros
 # Windows11
 $TimeStamp = Get-Date -Format 'yyyy-MM-dd hh:mm:ss'
 Write-Output "$TimeStamp`: Gathering Windows 11 Build Details"
-$OSBuilds = Get-OSBuilds -Product 'Windows 11' -Preview -OutofBand 
+$W11StaticDataFile = Join-Path $PSScriptRoot '\private\Microsoft_Windows_11_Static_Builds.json'
+$OSBuilds = Get-OSBuilds -Product 'Windows 11' -Preview -OutofBand -StaticDataFile $W11StaticDataFile
 $OSBuilds | Group-Object -Property RelaseId | ForEach-Object {
     $FileName = "Microsoft_Windows_11_$($_.Name).json"
     $_.Group | ConvertTo-Json | Set-Content -Path (Join-Path $ExportFolder $FileName) -Force
@@ -31,7 +33,8 @@ $OSBuilds |  ConvertTo-Json | Set-Content -Path (Join-Path $ExportFolder 'Micros
 # Windows Server
 $TimeStamp = Get-Date -Format 'yyyy-MM-dd hh:mm:ss'
 Write-Output "$TimeStamp`: Gathering Windows Server Build Details"
-$OSBuilds = Get-OSBuilds -Product 'Windows Server' -Preview -OutofBand 
+$ServerStaticDataFile = Join-Path $PSScriptRoot '\private\Microsoft_Windows_Server_Static_Builds.json'
+$OSBuilds = Get-OSBuilds -Product 'Windows Server' -Preview -OutofBand -StaticDataFile $ServerStaticDataFile
 $OSBuilds | Group-Object -Property RelaseId | ForEach-Object {
     $FileName = "Microsoft_Windows_Server_$($_.Name).json"
     $_.Group | ConvertTo-Json | Set-Content -Path (Join-Path $ExportFolder $FileName) -Force

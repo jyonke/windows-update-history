@@ -1,0 +1,26 @@
+[
+  {
+    "Product": "Windows Server 2016",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2019-04-25",
+    "ReleaseType": "Standard",
+    "RelaseId": "1607",
+    "Build": "14393.2908",
+    "KBArticle": "KB4499418",
+    "KBUrl": "https://support.microsoft.com/help/4499418"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2021-08-26",
+    "ReleaseType": "Preview",
+    "RelaseId": "21H2",
+    "Build": "20348.202",
+    "KBArticle": "KB5005104",
+    "KBUrl": "https://support.microsoft.com/help/5005104"
+  }
+]

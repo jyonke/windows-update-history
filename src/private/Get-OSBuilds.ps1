@@ -49,7 +49,10 @@ function Get-OSBuilds {
         $Preview,
         [Parameter()]
         [switch]
-        $OutofBand
+        $OutofBand,
+        [Parameter()]
+        [string]
+        $StaticDataFile
     )
 
     switch -Wildcard ($Product) {
@@ -215,6 +218,24 @@ function Get-OSBuilds {
 
     # Format, filter and return the results
     $resultsf = $results | Sort-Object -Property Build | Sort-Object -Property 'AvailabilityDate', 'MajorBuildNumber', 'MinorBuildNumber' | Select-Object -Property * -ExcludeProperty 'MajorBuildNumber', 'MinorBuildNumber'
+    # Import static release data for builds that are not mapped properly
+    if (Test-Path $StaticDataFile) {
+        $StaticData = Get-Content -Path $StaticDataFile | ConvertFrom-Json -ErrorAction Stop
+        # Map static data
+        $resultsf = $resultsf | ForEach-Object { 
+            $Item = $_
+            $MappedData = $StaticData | Where-Object { $_.Build -eq $Item.Build }
+            if ($MappedData.Count -eq 1) {
+                return $MappedData
+            }
+            if ($MappedData.Count -eq 0) {
+                return $Item
+            }
+            if ($MappedData.Count -gt 1) {
+                throw "Invalid mapped data set"
+            }
+        }  
+    }
     
     if ($Newest) {
         $resultsf = $resultsf | Select-Object -Last 1
