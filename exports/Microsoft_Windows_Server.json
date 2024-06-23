@@ -977,7 +977,7 @@
       "LTSB"
     ],
     "AvailabilityDate": "2019-04-25",
-    "ReleaseType": "Unknown",
+    "ReleaseType": "Standard",
     "RelaseId": "1607",
     "Build": "14393.2908",
     "KBArticle": "KB4499418",
@@ -2333,7 +2333,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2021-08-26",
-    "ReleaseType": "Unknown",
+    "ReleaseType": "Preview",
     "RelaseId": "21H2",
     "Build": "20348.202",
     "KBArticle": "KB5005104",

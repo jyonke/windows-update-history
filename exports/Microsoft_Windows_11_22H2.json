@@ -5,7 +5,7 @@
       "General Availability Channel"
     ],
     "AvailabilityDate": "2022-09-27",
-    "ReleaseType": "Unknown",
+    "ReleaseType": "Out-of-band",
     "RelaseId": "22H2",
     "Build": "22621.525",
     "KBArticle": "KB5019311",
