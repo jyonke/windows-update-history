@@ -178,5 +178,17 @@
     "Build": "22631.3737",
     "KBArticle": "KB5039212",
     "KBUrl": "https://support.microsoft.com/help/5039212"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2024-06-25",
+    "ReleaseType": "Preview",
+    "RelaseId": "23H2",
+    "Build": "22631.3810",
+    "KBArticle": "KB5039302",
+    "KBUrl": "https://support.microsoft.com/help/5039302"
   }
 ]
