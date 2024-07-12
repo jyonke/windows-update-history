@@ -207,7 +207,7 @@ function Get-OSBuilds {
             'ServicingOption'  = $servicingOptionArray
             'AvailabilityDate' = $availabilityDate
             'ReleaseType'      = $type
-            'RelaseId'         = $ReleaseId
+            'ReleaseId'         = $ReleaseId
             'Build'            = $ubr
             'KBArticle'        = $kbArticle
             'KBUrl'            = $kbUrl    

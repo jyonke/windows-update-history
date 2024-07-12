@@ -8,7 +8,7 @@
         ],
         "AvailabilityDate": "2015-07-29",
         "ReleaseType": "Standard",
-        "RelaseId": "1507",
+        "ReleaseId": "1507",
         "Build": "10240.16405",
         "KBArticle": "KB3074683",
         "KBUrl": "https://support.microsoft.com/help/3074683"
@@ -22,7 +22,7 @@
         ],
         "AvailabilityDate": "2015-08-05",
         "ReleaseType": "Standard",
-        "RelaseId": "1507",
+        "ReleaseId": "1507",
         "Build": "10240.16413",
         "KBArticle": "KB3081424",
         "KBUrl": "https://support.microsoft.com/help/3081424"
@@ -36,7 +36,7 @@
         ],
         "AvailabilityDate": "2015-08-11",
         "ReleaseType": "Standard",
-        "RelaseId": "1507",
+        "ReleaseId": "1507",
         "Build": "10240.16430",
         "KBArticle": "KB3081436",
         "KBUrl": "https://support.microsoft.com/help/3081436"
@@ -50,7 +50,7 @@
         ],
         "AvailabilityDate": "2015-08-14",
         "ReleaseType": "Standard",
-        "RelaseId": "1507",
+        "ReleaseId": "1507",
         "Build": "10240.16433",
         "KBArticle": "KB3081438",
         "KBUrl": "https://support.microsoft.com/help/3081438"
@@ -64,7 +64,7 @@
         ],
         "AvailabilityDate": "2015-08-18",
         "ReleaseType": "Standard",
-        "RelaseId": "1507",
+        "ReleaseId": "1507",
         "Build": "10240.16445",
         "KBArticle": "KB3081444",
         "KBUrl": "https://support.microsoft.com/help/3081444"
@@ -78,7 +78,7 @@
         ],
         "AvailabilityDate": "2015-08-27",
         "ReleaseType": "Standard",
-        "RelaseId": "1507",
+        "ReleaseId": "1507",
         "Build": "10240.16463",
         "KBArticle": "KB3081448",
         "KBUrl": "https://support.microsoft.com/help/3081448"
@@ -92,7 +92,7 @@
         ],
         "AvailabilityDate": "2015-09-08",
         "ReleaseType": "Standard",
-        "RelaseId": "1507",
+        "ReleaseId": "1507",
         "Build": "10240.16487",
         "KBArticle": "KB3081455",
         "KBUrl": "https://support.microsoft.com/help/3081455"
@@ -106,7 +106,7 @@
         ],
         "AvailabilityDate": "2015-09-30",
         "ReleaseType": "Standard",
-        "RelaseId": "1507",
+        "ReleaseId": "1507",
         "Build": "10240.16520",
         "KBArticle": "KB3093266",
         "KBUrl": "https://support.microsoft.com/help/3093266"
@@ -120,7 +120,7 @@
         ],
         "AvailabilityDate": "2015-10-13",
         "ReleaseType": "Standard",
-        "RelaseId": "1507",
+        "ReleaseId": "1507",
         "Build": "10240.16549",
         "KBArticle": "KB3097617",
         "KBUrl": "https://support.microsoft.com/help/3097617"
@@ -134,7 +134,7 @@
         ],
         "AvailabilityDate": "2015-10-27",
         "ReleaseType": "Standard",
-        "RelaseId": "1507",
+        "ReleaseId": "1507",
         "Build": "10240.16566",
         "KBArticle": "KB3105210",
         "KBUrl": "https://support.microsoft.com/help/3105210"
@@ -148,7 +148,7 @@
         ],
         "AvailabilityDate": "2015-11-10",
         "ReleaseType": "Standard",
-        "RelaseId": "1507",
+        "ReleaseId": "1507",
         "Build": "10240.16590",
         "KBArticle": "KB3105213",
         "KBUrl": "https://support.microsoft.com/help/3105213"
@@ -160,7 +160,7 @@
         ],
         "AvailabilityDate": "2015-11-10",
         "ReleaseType": "Standard",
-        "RelaseId": "1511",
+        "ReleaseId": "1511",
         "Build": "10586.3",
         "KBArticle": "KB3105211",
         "KBUrl": "https://support.microsoft.com/help/3105211"
@@ -172,7 +172,7 @@
         ],
         "AvailabilityDate": "2015-11-18",
         "ReleaseType": "Standard",
-        "RelaseId": "1511",
+        "ReleaseId": "1511",
         "Build": "10586.11",
         "KBArticle": "KB3118754",
         "KBUrl": "https://support.microsoft.com/help/3118754"
@@ -184,7 +184,7 @@
         ],
         "AvailabilityDate": "2015-11-24",
         "ReleaseType": "Standard",
-        "RelaseId": "1511",
+        "ReleaseId": "1511",
         "Build": "10586.14",
         "KBArticle": "KB3120677",
         "KBUrl": "https://support.microsoft.com/help/3120677"
@@ -196,7 +196,7 @@
         ],
         "AvailabilityDate": "2015-12-02",
         "ReleaseType": "Standard",
-        "RelaseId": "1511",
+        "ReleaseId": "1511",
         "Build": "10586.17",
         "KBArticle": "KB3116908",
         "KBUrl": "https://support.microsoft.com/help/3116908"
@@ -210,7 +210,7 @@
         ],
         "AvailabilityDate": "2015-12-08",
         "ReleaseType": "Standard",
-        "RelaseId": "1507",
+        "ReleaseId": "1507",
         "Build": "10240.16601",
         "KBArticle": "KB3116869",
         "KBUrl": "https://support.microsoft.com/help/3116869"
@@ -222,7 +222,7 @@
         ],
         "AvailabilityDate": "2015-12-08",
         "ReleaseType": "Standard",
-        "RelaseId": "1511",
+        "ReleaseId": "1511",
         "Build": "10586.29",
         "KBArticle": "KB3116900",
         "KBUrl": "https://support.microsoft.com/help/3116900"
@@ -234,7 +234,7 @@
         ],
         "AvailabilityDate": "2015-12-17",
         "ReleaseType": "Standard",
-        "RelaseId": "1511",
+        "ReleaseId": "1511",
         "Build": "10586.36",
         "KBArticle": "KB3124200",
         "KBUrl": "https://support.microsoft.com/help/3124200"
@@ -248,7 +248,7 @@
         ],
         "AvailabilityDate": "2016-01-12",
         "ReleaseType": "Standard",
-        "RelaseId": "1507",
+        "ReleaseId": "1507",
         "Build": "10240.16644",
         "KBArticle": "KB3124266",
         "KBUrl": "https://support.microsoft.com/help/3124266"
@@ -260,7 +260,7 @@
         ],
         "AvailabilityDate": "2016-01-12",
         "ReleaseType": "Standard",
-        "RelaseId": "1511",
+        "ReleaseId": "1511",
         "Build": "10586.63",
         "KBArticle": "KB3124263",
         "KBUrl": "https://support.microsoft.com/help/3124263"
@@ -272,7 +272,7 @@
         ],
         "AvailabilityDate": "2016-01-27",
         "ReleaseType": "Standard",
-        "RelaseId": "1511",
+        "ReleaseId": "1511",
         "Build": "10586.71",
         "KBArticle": "KB3124262",
         "KBUrl": "https://support.microsoft.com/help/3124262"
@@ -285,7 +285,7 @@
         ],
         "AvailabilityDate": "2018-01-17",
         "ReleaseType": "Standard",
-        "RelaseId": "1709",
+        "ReleaseId": "1709",
         "Build": "16299.194",
         "KBArticle": "KB4073290",
         "KBUrl": "https://support.microsoft.com/help/4073290"
@@ -299,7 +299,7 @@
         ],
         "AvailabilityDate": "2019-04-25",
         "ReleaseType": "Standard",
-        "RelaseId": "1607",
+        "ReleaseId": "1607",
         "Build": "14393.2908",
         "KBArticle": "KB4499418",
         "KBUrl": "https://support.microsoft.com/help/4499418"
@@ -311,7 +311,7 @@
         ],
         "AvailabilityDate": "2019-05-21",
         "ReleaseType": "Standard",
-        "RelaseId": "1903",
+        "ReleaseId": "1903",
         "Build": "18362.116",
         "KBArticle": "KB4505057",
         "KBUrl": "https://support.microsoft.com/help/4505057"

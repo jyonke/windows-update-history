@@ -13,7 +13,7 @@ $TimeStamp = Get-Date -Format 'yyyy-MM-dd hh:mm:ss'
 Write-Output "$TimeStamp`: Gathering Windows 10 Build Details"
 $W10StaticDataFile = Join-Path $PSScriptRoot '\private\Microsoft_Windows_10_Static_Builds.json'
 $OSBuilds = Get-OSBuilds -Product 'Windows 10' -Preview -OutofBand -StaticDataFile $W10StaticDataFile
-$OSBuilds | Group-Object -Property RelaseId | ForEach-Object {
+$OSBuilds | Group-Object -Property ReleaseId | ForEach-Object {
     $FileName = "Microsoft_Windows_10_$($_.Name).json"
     $_.Group | ConvertTo-Json | Set-Content -Path (Join-Path $ExportFolder $FileName) -Force
 } 
@@ -24,7 +24,7 @@ $TimeStamp = Get-Date -Format 'yyyy-MM-dd hh:mm:ss'
 Write-Output "$TimeStamp`: Gathering Windows 11 Build Details"
 $W11StaticDataFile = Join-Path $PSScriptRoot '\private\Microsoft_Windows_11_Static_Builds.json'
 $OSBuilds = Get-OSBuilds -Product 'Windows 11' -Preview -OutofBand -StaticDataFile $W11StaticDataFile
-$OSBuilds | Group-Object -Property RelaseId | ForEach-Object {
+$OSBuilds | Group-Object -Property ReleaseId | ForEach-Object {
     $FileName = "Microsoft_Windows_11_$($_.Name).json"
     $_.Group | ConvertTo-Json | Set-Content -Path (Join-Path $ExportFolder $FileName) -Force
 } 
@@ -35,7 +35,7 @@ $TimeStamp = Get-Date -Format 'yyyy-MM-dd hh:mm:ss'
 Write-Output "$TimeStamp`: Gathering Windows Server Build Details"
 $ServerStaticDataFile = Join-Path $PSScriptRoot '\private\Microsoft_Windows_Server_Static_Builds.json'
 $OSBuilds = Get-OSBuilds -Product 'Windows Server' -Preview -OutofBand -StaticDataFile $ServerStaticDataFile
-$OSBuilds | Group-Object -Property RelaseId | ForEach-Object {
+$OSBuilds | Group-Object -Property ReleaseId | ForEach-Object {
     $FileName = "Microsoft_Windows_Server_$($_.Name).json"
     $_.Group | ConvertTo-Json | Set-Content -Path (Join-Path $ExportFolder $FileName) -Force
 } 
