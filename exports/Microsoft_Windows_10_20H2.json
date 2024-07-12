@@ -6,7 +6,7 @@
     ],
     "AvailabilityDate": "2020-10-29",
     "ReleaseType": "Preview",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.610",
     "KBArticle": "KB4580364",
     "KBUrl": "https://support.microsoft.com/help/4580364"
@@ -18,7 +18,7 @@
     ],
     "AvailabilityDate": "2020-11-10",
     "ReleaseType": "Standard",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.630",
     "KBArticle": "KB4586781",
     "KBUrl": "https://support.microsoft.com/help/4586781"
@@ -30,7 +30,7 @@
     ],
     "AvailabilityDate": "2020-11-19",
     "ReleaseType": "Out-of-band",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.631",
     "KBArticle": "KB4594440",
     "KBUrl": "https://support.microsoft.com/help/4594440"
@@ -42,7 +42,7 @@
     ],
     "AvailabilityDate": "2020-11-30",
     "ReleaseType": "Preview",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.662",
     "KBArticle": "KB4586853",
     "KBUrl": "https://support.microsoft.com/help/4586853"
@@ -54,7 +54,7 @@
     ],
     "AvailabilityDate": "2020-12-08",
     "ReleaseType": "Standard",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.685",
     "KBArticle": "KB4592438",
     "KBUrl": "https://support.microsoft.com/help/4592438"
@@ -66,7 +66,7 @@
     ],
     "AvailabilityDate": "2021-01-12",
     "ReleaseType": "Standard",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.746",
     "KBArticle": "KB4598242",
     "KBUrl": "https://support.microsoft.com/help/4598242"
@@ -78,7 +78,7 @@
     ],
     "AvailabilityDate": "2021-02-02",
     "ReleaseType": "Preview",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.789",
     "KBArticle": "KB4598291",
     "KBUrl": "https://support.microsoft.com/help/4598291"
@@ -90,7 +90,7 @@
     ],
     "AvailabilityDate": "2021-02-09",
     "ReleaseType": "Standard",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.804",
     "KBArticle": "KB4601319",
     "KBUrl": "https://support.microsoft.com/help/4601319"
@@ -102,7 +102,7 @@
     ],
     "AvailabilityDate": "2021-02-24",
     "ReleaseType": "Preview",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.844",
     "KBArticle": "KB4601382",
     "KBUrl": "https://support.microsoft.com/help/4601382"
@@ -114,7 +114,7 @@
     ],
     "AvailabilityDate": "2021-03-09",
     "ReleaseType": "Standard",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.867",
     "KBArticle": "KB5000802",
     "KBUrl": "https://support.microsoft.com/help/5000802"
@@ -126,7 +126,7 @@
     ],
     "AvailabilityDate": "2021-03-15",
     "ReleaseType": "Out-of-band",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.868",
     "KBArticle": "KB5001567",
     "KBUrl": "https://support.microsoft.com/help/5001567"
@@ -138,7 +138,7 @@
     ],
     "AvailabilityDate": "2021-03-18",
     "ReleaseType": "Out-of-band",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.870",
     "KBArticle": "KB5001649",
     "KBUrl": "https://support.microsoft.com/help/5001649"
@@ -150,7 +150,7 @@
     ],
     "AvailabilityDate": "2021-03-29",
     "ReleaseType": "Preview",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.906",
     "KBArticle": "KB5000842",
     "KBUrl": "https://support.microsoft.com/help/5000842"
@@ -162,7 +162,7 @@
     ],
     "AvailabilityDate": "2021-04-13",
     "ReleaseType": "Standard",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.928",
     "KBArticle": "KB5001330",
     "KBUrl": "https://support.microsoft.com/help/5001330"
@@ -174,7 +174,7 @@
     ],
     "AvailabilityDate": "2021-04-28",
     "ReleaseType": "Preview",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.964",
     "KBArticle": "KB5001391",
     "KBUrl": "https://support.microsoft.com/help/5001391"
@@ -186,7 +186,7 @@
     ],
     "AvailabilityDate": "2021-05-11",
     "ReleaseType": "Standard",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.985",
     "KBArticle": "KB5003173",
     "KBUrl": "https://support.microsoft.com/help/5003173"
@@ -198,7 +198,7 @@
     ],
     "AvailabilityDate": "2021-05-25",
     "ReleaseType": "Preview",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.1023",
     "KBArticle": "KB5003214",
     "KBUrl": "https://support.microsoft.com/help/5003214"
@@ -210,7 +210,7 @@
     ],
     "AvailabilityDate": "2021-06-08",
     "ReleaseType": "Standard",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.1052",
     "KBArticle": "KB5003637",
     "KBUrl": "https://support.microsoft.com/help/5003637"
@@ -222,7 +222,7 @@
     ],
     "AvailabilityDate": "2021-06-11",
     "ReleaseType": "Out-of-band",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.1055",
     "KBArticle": "KB5004476",
     "KBUrl": "https://support.microsoft.com/help/5004476"
@@ -234,7 +234,7 @@
     ],
     "AvailabilityDate": "2021-06-21",
     "ReleaseType": "Preview",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.1081",
     "KBArticle": "KB5003690",
     "KBUrl": "https://support.microsoft.com/help/5003690"
@@ -246,7 +246,7 @@
     ],
     "AvailabilityDate": "2021-06-29",
     "ReleaseType": "Out-of-band",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.1082",
     "KBArticle": "KB5004760",
     "KBUrl": "https://support.microsoft.com/help/5004760"
@@ -258,7 +258,7 @@
     ],
     "AvailabilityDate": "2021-07-06",
     "ReleaseType": "Out-of-band",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.1083",
     "KBArticle": "KB5004945",
     "KBUrl": "https://support.microsoft.com/help/5004945"
@@ -270,7 +270,7 @@
     ],
     "AvailabilityDate": "2021-07-13",
     "ReleaseType": "Standard",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.1110",
     "KBArticle": "KB5004237",
     "KBUrl": "https://support.microsoft.com/help/5004237"
@@ -282,7 +282,7 @@
     ],
     "AvailabilityDate": "2021-07-29",
     "ReleaseType": "Preview",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.1151",
     "KBArticle": "KB5004296",
     "KBUrl": "https://support.microsoft.com/help/5004296"
@@ -294,7 +294,7 @@
     ],
     "AvailabilityDate": "2021-08-10",
     "ReleaseType": "Standard",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.1165",
     "KBArticle": "KB5005033",
     "KBUrl": "https://support.microsoft.com/help/5005033"
@@ -306,7 +306,7 @@
     ],
     "AvailabilityDate": "2021-09-01",
     "ReleaseType": "Preview",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.1202",
     "KBArticle": "KB5005101",
     "KBUrl": "https://support.microsoft.com/help/5005101"
@@ -318,7 +318,7 @@
     ],
     "AvailabilityDate": "2021-09-14",
     "ReleaseType": "Standard",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.1237",
     "KBArticle": "KB5005565",
     "KBUrl": "https://support.microsoft.com/help/5005565"
@@ -330,7 +330,7 @@
     ],
     "AvailabilityDate": "2021-09-30",
     "ReleaseType": "Preview",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.1266",
     "KBArticle": "KB5005611",
     "KBUrl": "https://support.microsoft.com/help/5005611"
@@ -342,7 +342,7 @@
     ],
     "AvailabilityDate": "2021-10-12",
     "ReleaseType": "Standard",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.1288",
     "KBArticle": "KB5006670",
     "KBUrl": "https://support.microsoft.com/help/5006670"
@@ -354,7 +354,7 @@
     ],
     "AvailabilityDate": "2021-10-26",
     "ReleaseType": "Preview",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.1320",
     "KBArticle": "KB5006738",
     "KBUrl": "https://support.microsoft.com/help/5006738"
@@ -366,7 +366,7 @@
     ],
     "AvailabilityDate": "2021-11-09",
     "ReleaseType": "Standard",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.1348",
     "KBArticle": "KB5007186",
     "KBUrl": "https://support.microsoft.com/help/5007186"
@@ -378,7 +378,7 @@
     ],
     "AvailabilityDate": "2021-11-22",
     "ReleaseType": "Preview",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.1387",
     "KBArticle": "KB5007253",
     "KBUrl": "https://support.microsoft.com/help/5007253"
@@ -390,7 +390,7 @@
     ],
     "AvailabilityDate": "2021-12-14",
     "ReleaseType": "Standard",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.1415",
     "KBArticle": "KB5008212",
     "KBUrl": "https://support.microsoft.com/help/5008212"
@@ -402,7 +402,7 @@
     ],
     "AvailabilityDate": "2022-01-11",
     "ReleaseType": "Standard",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.1466",
     "KBArticle": "KB5009543",
     "KBUrl": "https://support.microsoft.com/help/5009543"
@@ -414,7 +414,7 @@
     ],
     "AvailabilityDate": "2022-01-17",
     "ReleaseType": "Out-of-band",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.1469",
     "KBArticle": "KB5010793",
     "KBUrl": "https://support.microsoft.com/help/5010793"
@@ -426,7 +426,7 @@
     ],
     "AvailabilityDate": "2022-01-25",
     "ReleaseType": "Preview",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.1503",
     "KBArticle": "KB5009596",
     "KBUrl": "https://support.microsoft.com/help/5009596"
@@ -438,7 +438,7 @@
     ],
     "AvailabilityDate": "2022-02-08",
     "ReleaseType": "Standard",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.1526",
     "KBArticle": "KB5010342",
     "KBUrl": "https://support.microsoft.com/help/5010342"
@@ -450,7 +450,7 @@
     ],
     "AvailabilityDate": "2022-02-15",
     "ReleaseType": "Preview",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.1566",
     "KBArticle": "KB5010415",
     "KBUrl": "https://support.microsoft.com/help/5010415"
@@ -462,7 +462,7 @@
     ],
     "AvailabilityDate": "2022-03-08",
     "ReleaseType": "Standard",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.1586",
     "KBArticle": "KB5011487",
     "KBUrl": "https://support.microsoft.com/help/5011487"
@@ -474,7 +474,7 @@
     ],
     "AvailabilityDate": "2022-03-22",
     "ReleaseType": "Preview",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.1620",
     "KBArticle": "KB5011543",
     "KBUrl": "https://support.microsoft.com/help/5011543"
@@ -486,7 +486,7 @@
     ],
     "AvailabilityDate": "2022-04-12",
     "ReleaseType": "Standard",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.1645",
     "KBArticle": "KB5012599",
     "KBUrl": "https://support.microsoft.com/help/5012599"
@@ -498,7 +498,7 @@
     ],
     "AvailabilityDate": "2022-04-25",
     "ReleaseType": "Preview",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.1682",
     "KBArticle": "KB5011831",
     "KBUrl": "https://support.microsoft.com/help/5011831"
@@ -510,7 +510,7 @@
     ],
     "AvailabilityDate": "2022-05-10",
     "ReleaseType": "Standard",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.1706",
     "KBArticle": "KB5013942",
     "KBUrl": "https://support.microsoft.com/help/5013942"
@@ -522,7 +522,7 @@
     ],
     "AvailabilityDate": "2022-05-19",
     "ReleaseType": "Out-of-band",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.1708",
     "KBArticle": "KB5015020",
     "KBUrl": "https://support.microsoft.com/help/5015020"
@@ -534,7 +534,7 @@
     ],
     "AvailabilityDate": "2022-06-02",
     "ReleaseType": "Preview",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.1741",
     "KBArticle": "KB5014023",
     "KBUrl": "https://support.microsoft.com/help/5014023"
@@ -546,7 +546,7 @@
     ],
     "AvailabilityDate": "2022-06-14",
     "ReleaseType": "Standard",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.1766",
     "KBArticle": "KB5014699",
     "KBUrl": "https://support.microsoft.com/help/5014699"
@@ -558,7 +558,7 @@
     ],
     "AvailabilityDate": "2022-06-20",
     "ReleaseType": "Out-of-band",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.1767",
     "KBArticle": "KB5016139",
     "KBUrl": "https://support.microsoft.com/help/5016139"
@@ -570,7 +570,7 @@
     ],
     "AvailabilityDate": "2022-06-28",
     "ReleaseType": "Preview",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.1806",
     "KBArticle": "KB5014666",
     "KBUrl": "https://support.microsoft.com/help/5014666"
@@ -582,7 +582,7 @@
     ],
     "AvailabilityDate": "2022-07-12",
     "ReleaseType": "Standard",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.1826",
     "KBArticle": "KB5015807",
     "KBUrl": "https://support.microsoft.com/help/5015807"
@@ -594,7 +594,7 @@
     ],
     "AvailabilityDate": "2022-07-26",
     "ReleaseType": "Preview",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.1865",
     "KBArticle": "KB5015878",
     "KBUrl": "https://support.microsoft.com/help/5015878"
@@ -606,7 +606,7 @@
     ],
     "AvailabilityDate": "2022-08-09",
     "ReleaseType": "Standard",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.1889",
     "KBArticle": "KB5016616",
     "KBUrl": "https://support.microsoft.com/help/5016616"
@@ -618,7 +618,7 @@
     ],
     "AvailabilityDate": "2022-08-26",
     "ReleaseType": "Preview",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.1949",
     "KBArticle": "KB5016688",
     "KBUrl": "https://support.microsoft.com/help/5016688"
@@ -630,7 +630,7 @@
     ],
     "AvailabilityDate": "2022-09-13",
     "ReleaseType": "Standard",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.2006",
     "KBArticle": "KB5017308",
     "KBUrl": "https://support.microsoft.com/help/5017308"
@@ -642,7 +642,7 @@
     ],
     "AvailabilityDate": "2022-09-20",
     "ReleaseType": "Preview",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.2075",
     "KBArticle": "KB5017380",
     "KBUrl": "https://support.microsoft.com/help/5017380"
@@ -654,7 +654,7 @@
     ],
     "AvailabilityDate": "2022-10-11",
     "ReleaseType": "Standard",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.2130",
     "KBArticle": "KB5018410",
     "KBUrl": "https://support.microsoft.com/help/5018410"
@@ -666,7 +666,7 @@
     ],
     "AvailabilityDate": "2022-10-17",
     "ReleaseType": "Out-of-band",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.2132",
     "KBArticle": "KB5020435",
     "KBUrl": "https://support.microsoft.com/help/5020435"
@@ -678,7 +678,7 @@
     ],
     "AvailabilityDate": "2022-10-25",
     "ReleaseType": "Preview",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.2193",
     "KBArticle": "KB5018482",
     "KBUrl": "https://support.microsoft.com/help/5018482"
@@ -690,7 +690,7 @@
     ],
     "AvailabilityDate": "2022-10-28",
     "ReleaseType": "Out-of-band",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.2194",
     "KBArticle": "KB5020953",
     "KBUrl": "https://support.microsoft.com/help/5020953"
@@ -702,7 +702,7 @@
     ],
     "AvailabilityDate": "2022-11-08",
     "ReleaseType": "Standard",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.2251",
     "KBArticle": "KB5019959",
     "KBUrl": "https://support.microsoft.com/help/5019959"
@@ -714,7 +714,7 @@
     ],
     "AvailabilityDate": "2022-11-15",
     "ReleaseType": "Preview",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.2311",
     "KBArticle": "KB5020030",
     "KBUrl": "https://support.microsoft.com/help/5020030"
@@ -726,7 +726,7 @@
     ],
     "AvailabilityDate": "2022-12-13",
     "ReleaseType": "Standard",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.2364",
     "KBArticle": "KB5021233",
     "KBUrl": "https://support.microsoft.com/help/5021233"
@@ -738,7 +738,7 @@
     ],
     "AvailabilityDate": "2023-01-10",
     "ReleaseType": "Standard",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.2486",
     "KBArticle": "KB5022282",
     "KBUrl": "https://support.microsoft.com/help/5022282"
@@ -750,7 +750,7 @@
     ],
     "AvailabilityDate": "2023-01-19",
     "ReleaseType": "Preview",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.2546",
     "KBArticle": "KB5019275",
     "KBUrl": "https://support.microsoft.com/help/5019275"
@@ -762,7 +762,7 @@
     ],
     "AvailabilityDate": "2023-02-14",
     "ReleaseType": "Standard",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.2604",
     "KBArticle": "KB5022834",
     "KBUrl": "https://support.microsoft.com/help/5022834"
@@ -774,7 +774,7 @@
     ],
     "AvailabilityDate": "2023-02-21",
     "ReleaseType": "Preview",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.2673",
     "KBArticle": "KB5022906",
     "KBUrl": "https://support.microsoft.com/help/5022906"
@@ -786,7 +786,7 @@
     ],
     "AvailabilityDate": "2023-03-14",
     "ReleaseType": "Standard",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.2728",
     "KBArticle": "KB5023696",
     "KBUrl": "https://support.microsoft.com/help/5023696"
@@ -798,7 +798,7 @@
     ],
     "AvailabilityDate": "2023-03-21",
     "ReleaseType": "Preview",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.2788",
     "KBArticle": "KB5023773",
     "KBUrl": "https://support.microsoft.com/help/5023773"
@@ -810,7 +810,7 @@
     ],
     "AvailabilityDate": "2023-04-11",
     "ReleaseType": "Standard",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.2846",
     "KBArticle": "KB5025221",
     "KBUrl": "https://support.microsoft.com/help/5025221"
@@ -822,7 +822,7 @@
     ],
     "AvailabilityDate": "2023-05-09",
     "ReleaseType": "Standard",
-    "RelaseId": "20H2",
+    "ReleaseId": "20H2",
     "Build": "19042.2965",
     "KBArticle": "KB5026361",
     "KBUrl": "https://support.microsoft.com/help/5026361"
