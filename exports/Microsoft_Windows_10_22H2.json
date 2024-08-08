@@ -466,17 +466,5 @@
     "Build": "19045.4651",
     "KBArticle": "KB5040427",
     "KBUrl": "https://support.microsoft.com/help/5040427"
-  },
-  {
-    "Product": "Windows 10",
-    "ServicingOption": [
-      "General Availability Channel"
-    ],
-    "AvailabilityDate": "2024-07-23",
-    "ReleaseType": "Preview",
-    "ReleaseId": "22H2",
-    "Build": "19045.4717",
-    "KBArticle": "KB5040525",
-    "KBUrl": "https://support.microsoft.com/help/5040525"
   }
 ]

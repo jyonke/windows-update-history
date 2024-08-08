@@ -526,17 +526,5 @@
     "Build": "22621.3880",
     "KBArticle": "KB5040442",
     "KBUrl": "https://support.microsoft.com/help/5040442"
-  },
-  {
-    "Product": "Windows 11",
-    "ServicingOption": [
-      "General Availability Channel"
-    ],
-    "AvailabilityDate": "2024-07-25",
-    "ReleaseType": "Preview",
-    "ReleaseId": "22H2",
-    "Build": "22621.3958",
-    "KBArticle": "KB5040527",
-    "KBUrl": "https://support.microsoft.com/help/5040527"
   }
 ]
