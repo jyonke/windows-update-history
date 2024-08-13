@@ -1644,5 +1644,17 @@
     "Build": "10240.20710",
     "KBArticle": "KB5040448",
     "KBUrl": "https://support.microsoft.com/help/5040448"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2024-08-13",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1507",
+    "Build": "10240.20751",
+    "KBArticle": "KB5041782",
+    "KBUrl": "https://support.microsoft.com/help/5041782"
   }
 ]
