@@ -226,5 +226,17 @@
     "Build": "22631.4037",
     "KBArticle": "KB5041585",
     "KBUrl": "https://support.microsoft.com/help/5041585"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2024-08-27",
+    "ReleaseType": "Preview",
+    "ReleaseId": "23H2",
+    "Build": "22631.4112",
+    "KBArticle": "KB5041587",
+    "KBUrl": "https://support.microsoft.com/help/5041587"
   }
 ]
