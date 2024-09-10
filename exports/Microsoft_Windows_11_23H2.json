@@ -238,5 +238,17 @@
     "Build": "22631.4112",
     "KBArticle": "KB5041587",
     "KBUrl": "https://support.microsoft.com/help/5041587"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2024-09-10",
+    "ReleaseType": "Standard",
+    "ReleaseId": "23H2",
+    "Build": "22631.4169",
+    "KBArticle": "KB5043076",
+    "KBUrl": "https://support.microsoft.com/help/5043076"
   }
 ]
