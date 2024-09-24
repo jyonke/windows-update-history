@@ -13147,5 +13147,17 @@
     "Build": "19045.4894",
     "KBArticle": "KB5043064",
     "KBUrl": "https://support.microsoft.com/help/5043064"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2024-09-24",
+    "ReleaseType": "Preview",
+    "ReleaseId": "22H2",
+    "Build": "19045.4957",
+    "KBArticle": "KB5043131",
+    "KBUrl": "https://support.microsoft.com/help/5043131"
   }
 ]
