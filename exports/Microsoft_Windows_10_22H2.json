@@ -526,5 +526,17 @@
     "Build": "19045.4957",
     "KBArticle": "KB5043131",
     "KBUrl": "https://support.microsoft.com/help/5043131"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2024-10-08",
+    "ReleaseType": "Standard",
+    "ReleaseId": "22H2",
+    "Build": "19045.5011",
+    "KBArticle": "KB5044273",
+    "KBUrl": "https://support.microsoft.com/help/5044273"
   }
 ]

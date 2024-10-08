@@ -1,0 +1,13 @@
+{
+  "Product": "Windows 11",
+  "ServicingOption": [
+    "LTSC",
+    "General Availability Channel"
+  ],
+  "AvailabilityDate": "2024-10-08",
+  "ReleaseType": "Standard",
+  "ReleaseId": "24H2",
+  "Build": "26100.2033",
+  "KBArticle": "KB5044284",
+  "KBUrl": "https://support.microsoft.com/help/5044284"
+}

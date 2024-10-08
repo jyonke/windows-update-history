@@ -730,5 +730,17 @@
     "Build": "22000.3197",
     "KBArticle": "KB5043067",
     "KBUrl": "https://support.microsoft.com/help/5043067"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2024-10-08",
+    "ReleaseType": "Standard",
+    "ReleaseId": "21H2",
+    "Build": "22000.3260",
+    "KBArticle": "KB5044280",
+    "KBUrl": "https://support.microsoft.com/help/5044280"
   }
 ]

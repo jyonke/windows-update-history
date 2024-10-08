@@ -1618,5 +1618,17 @@
     "Build": "17763.6293",
     "KBArticle": "KB5043050",
     "KBUrl": "https://support.microsoft.com/help/5043050"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2024-10-08",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1809",
+    "Build": "17763.6414",
+    "KBArticle": "KB5044277",
+    "KBUrl": "https://support.microsoft.com/help/5044277"
   }
 ]
