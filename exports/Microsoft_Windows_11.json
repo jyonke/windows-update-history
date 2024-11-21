@@ -1712,7 +1712,7 @@
       "General Availability Channel"
     ],
     "AvailabilityDate": "2024-11-21",
-    "ReleaseType": "Unknown",
+    "ReleaseType": "Preview",
     "ReleaseId": "22H2",
     "Build": "22621.4541",
     "KBArticle": "KB5046732",
@@ -1724,7 +1724,7 @@
       "General Availability Channel"
     ],
     "AvailabilityDate": "2024-11-21",
-    "ReleaseType": "Unknown",
+    "ReleaseType": "Preview",
     "ReleaseId": "23H2",
     "Build": "22631.4541",
     "KBArticle": "KB5046732",
@@ -1737,7 +1737,7 @@
       "General Availability Channel"
     ],
     "AvailabilityDate": "2024-11-21",
-    "ReleaseType": "Unknown",
+    "ReleaseType": "Preview",
     "ReleaseId": "24H2",
     "Build": "26100.2454",
     "KBArticle": "KB5046740",
