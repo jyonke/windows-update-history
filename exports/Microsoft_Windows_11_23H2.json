@@ -298,5 +298,17 @@
     "Build": "22631.4460",
     "KBArticle": "KB5046633",
     "KBUrl": "https://support.microsoft.com/help/5046633"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2024-11-21",
+    "ReleaseType": "Unknown",
+    "ReleaseId": "23H2",
+    "Build": "22631.4541",
+    "KBArticle": "KB5046732",
+    "KBUrl": "https://support.microsoft.com/help/5046732"
   }
 ]

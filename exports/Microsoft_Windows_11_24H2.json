@@ -37,5 +37,18 @@
     "Build": "26100.2314",
     "KBArticle": "KB5046617",
     "KBUrl": "https://support.microsoft.com/help/5046617"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2024-11-21",
+    "ReleaseType": "Unknown",
+    "ReleaseId": "24H2",
+    "Build": "26100.2454",
+    "KBArticle": "KB5046740",
+    "KBUrl": "https://support.microsoft.com/help/5046740"
   }
 ]
