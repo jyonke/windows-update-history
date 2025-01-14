@@ -63,5 +63,18 @@
     "Build": "26100.2605",
     "KBArticle": "KB5048667",
     "KBUrl": "https://support.microsoft.com/help/5048667"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2025-01-14",
+    "ReleaseType": "Standard",
+    "ReleaseId": "24H2",
+    "Build": "26100.2894",
+    "KBArticle": "KB5050009",
+    "KBUrl": "https://support.microsoft.com/help/5050009"
   }
 ]

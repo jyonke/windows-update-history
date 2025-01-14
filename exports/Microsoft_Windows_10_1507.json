@@ -1704,5 +1704,17 @@
     "Build": "10240.20857",
     "KBArticle": "KB5048703",
     "KBUrl": "https://support.microsoft.com/help/5048703"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2025-01-14",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1507",
+    "Build": "10240.20890",
+    "KBArticle": "KB5050013",
+    "KBUrl": "https://support.microsoft.com/help/5050013"
   }
 ]

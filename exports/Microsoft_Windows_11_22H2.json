@@ -646,5 +646,17 @@
     "Build": "22621.4602",
     "KBArticle": "KB5048685",
     "KBUrl": "https://support.microsoft.com/help/5048685"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2025-01-14",
+    "ReleaseType": "Standard",
+    "ReleaseId": "22H2",
+    "Build": "22621.4751",
+    "KBArticle": "KB5050021",
+    "KBUrl": "https://support.microsoft.com/help/5050021"
   }
 ]
