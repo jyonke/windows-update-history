@@ -745,5 +745,17 @@
     "Build": "19044.5371",
     "KBArticle": "KB5049981",
     "KBUrl": "https://support.microsoft.com/help/5049981"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2025-02-11",
+    "ReleaseType": "Standard",
+    "ReleaseId": "21H2",
+    "Build": "19044.5487",
+    "KBArticle": "KB5051974",
+    "KBUrl": "https://support.microsoft.com/help/5051974"
   }
 ]

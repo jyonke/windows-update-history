@@ -89,5 +89,18 @@
     "Build": "26100.3037",
     "KBArticle": "KB5050094",
     "KBUrl": "https://support.microsoft.com/help/5050094"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2025-02-11",
+    "ReleaseType": "Standard",
+    "ReleaseId": "24H2",
+    "Build": "26100.3194",
+    "KBArticle": "KB5051987",
+    "KBUrl": "https://support.microsoft.com/help/5051987"
   }
 ]
