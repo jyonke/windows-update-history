@@ -97,26 +97,73 @@ function Get-OSBuilds {
     }
     $htmlContent = Invoke-RestMethod $uri -ErrorAction Stop 
     $updateHistory = $uriUpdateHistory | ForEach-Object { Invoke-WebRequest -Uri $_ -UseBasicParsing -ErrorAction stop; Start-Sleep -Milliseconds 500 }
-    # Define the regex pattern to match table rows
-    $pattern = '<tr>\s*<td>(.*?)</td>\s*<td>(.*?)</td>\s*<td>(.*?)</td>\s*<td><a href="(.*?)"[^>]*>(.*?)</a></td>\s*</tr>'
+   
+    # Match all <table class="cells-centered">
+    $tablePattern = '<table[^>]*class="cells-centered"[^>]*?>(.*?)</table>'
+    $tableMatches = [regex]::Matches($htmlContent, $tablePattern, 'Singleline')
 
-    # Extract rows from the HTML content using regex
-    $matches = [regex]::Matches($htmlContent, $pattern)
+    $data = @()
+
+    foreach ($tableMatch in $tableMatches) {
+        $tableHtml = $tableMatch.Groups[1].Value
+
+        # Match all <tr> rows
+        $rowPattern = '<tr>(.*?)</tr>'
+        $rows = [regex]::Matches($tableHtml, $rowPattern, 'Singleline')
+
+        # Process each row (skip header)
+        for ($i = 1; $i -lt $rows.Count; $i++) {
+            $row = $rows[$i].Groups[1].Value
+
+            # Match <td> cells
+            $colMatches = [regex]::Matches($row, '<td.*?>(.*?)</td>', 'Singleline')
+        
+            # Skip rows that don't have 5 columns
+            if ($colMatches.Count -ne 5) { continue }
+
+            # Extract column values (remove HTML)
+            $columns = foreach ($match in $colMatches) {
+            ($match.Groups[1].Value -replace '<.*?>', '').Trim()
+            }
+
+            # Extract the href from the raw HTML of the last <td>
+            $kbTdRaw = $colMatches[4].Groups[1].Value
+            $kbUrlMatch = [regex]::Match($kbTdRaw, 'href="(.*?)"', 'IgnoreCase')
+            $kbUrl = if ($kbUrlMatch.Success) { $kbUrlMatch.Groups[1].Value } else { $null }
+
+            # Extract the KB code itself (e.g., KB5055523)
+            $kbCodeMatch = [regex]::Match($kbTdRaw, '>(KB\d+)', 'IgnoreCase')
+            $kb = if ($kbCodeMatch.Success) { $kbCodeMatch.Groups[1].Value } else { "" }
+            #$kbUrl = $kb -replace 'KB', 'https://support.microsoft.com/help/'
+
+            # Build object
+            $entry = [PSCustomObject]@{
+                ServicingOption  = $columns[0]
+                UpdateType       = $columns[1]
+                AvailabilityDate = $columns[2]
+                Build            = $columns[3]
+                KB               = $kb
+                KBUrl            = $kbUrl
+            }
+
+            $data += $entry
+        }
+    }
 
     # Process each match and create PSCustomObject
-    $results = $matches | ForEach-Object -Parallel {
+    $results = $data | ForEach-Object -Parallel {
         # Import private functions
         Get-ChildItem $using:PSScriptRoot *.ps1 | ForEach-Object { . $PSItem.FullName }
 
-        $OSProduct = $using:Product
-        $servicingOption = $_.Groups[1].Value -replace '<[^>]*>', '' -replace '\s{2,}', ' '
-        $availabilityDate = $_.Groups[2].Value.Trim()
-        $ubr = $_.Groups[3].Value.Trim()
-        $kbUrl = $_.Groups[4].Value.Trim()
-        $kbArticle = $_.Groups[5].Value.Trim() 
-        $servicingOptionArray = $servicingOption -split ' • '    
-        $MajorBuildNumber = ([version]$ubr).Major
-        $MinorBuildNumber = ([version]$ubr).Minor
+        [string]$OSProduct = $using:Product
+        [string]$servicingOption = $_.ServicingOption
+        [string]$availabilityDate = $_.AvailabilityDate
+        [string]$ubr = $_.Build
+        [string]$kbUrl = $_.KBUrl
+        [string]$kbArticle = $_.KB
+        [array]$servicingOptionArray = ($servicingOption -split ' • ' ).Trim()
+        [int]$MajorBuildNumber = ([version]$ubr).Major
+        [int]$MinorBuildNumber = ([version]$ubr).Minor
 
         Write-Verbose "Processing: $ubr" 
         # Filter Major Builds
@@ -207,7 +254,7 @@ function Get-OSBuilds {
             'ServicingOption'  = $servicingOptionArray
             'AvailabilityDate' = $availabilityDate
             'ReleaseType'      = $type
-            'ReleaseId'         = $ReleaseId
+            'ReleaseId'        = $ReleaseId
             'Build'            = $ubr
             'KBArticle'        = $kbArticle
             'KBUrl'            = $kbUrl    
