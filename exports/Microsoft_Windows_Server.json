@@ -648,6 +648,18 @@
     "KBUrl": "https://support.microsoft.com/help/4457127"
   },
   {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2018-10-02",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1809",
+    "Build": "17763.1",
+    "KBArticle": "",
+    "KBUrl": ""
+  },
+  {
     "Product": "Windows Server 2016",
     "ServicingOption": [
       "LTSB"
@@ -4474,5 +4486,77 @@
     "Build": "20348.3207",
     "KBArticle": "KB5051979",
     "KBUrl": "https://support.microsoft.com/help/5051979"
+  },
+  {
+    "Product": "Windows Server 2016",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2025-03-11",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1607",
+    "Build": "14393.7876",
+    "KBArticle": "KB5053594",
+    "KBUrl": "https://support.microsoft.com/help/5053594"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2025-03-11",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1809",
+    "Build": "17763.7009",
+    "KBArticle": "KB5053596",
+    "KBUrl": "https://support.microsoft.com/help/5053596"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2025-03-11",
+    "ReleaseType": "Standard",
+    "ReleaseId": "21H2",
+    "Build": "20348.3328",
+    "KBArticle": "KB5053603",
+    "KBUrl": "https://support.microsoft.com/help/5053603"
+  },
+  {
+    "Product": "Windows Server 2016",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2025-04-08",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1607",
+    "Build": "14393.7969",
+    "KBArticle": "KB5055521",
+    "KBUrl": "https://support.microsoft.com/help/5055521"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2025-04-08",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1809",
+    "Build": "17763.7136",
+    "KBArticle": "KB5055519",
+    "KBUrl": "https://support.microsoft.com/help/5055519"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2025-04-08",
+    "ReleaseType": "Standard",
+    "ReleaseId": "21H2",
+    "Build": "20348.3453",
+    "KBArticle": "KB5055526",
+    "KBUrl": "https://support.microsoft.com/help/5055526"
   }
 ]

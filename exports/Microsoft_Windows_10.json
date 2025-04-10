@@ -2844,6 +2844,19 @@
   {
     "Product": "Windows 10",
     "ServicingOption": [
+      "Semi-Annual Channel (Targeted)",
+      "LTSC"
+    ],
+    "AvailabilityDate": "2018-10-02",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1809",
+    "Build": "17763.1",
+    "KBArticle": "",
+    "KBUrl": ""
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
       "LTSB"
     ],
     "AvailabilityDate": "2018-10-09",
@@ -6311,6 +6324,18 @@
   {
     "Product": "Windows 10",
     "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2020-05-27",
+    "ReleaseType": "Standard",
+    "ReleaseId": "2004",
+    "Build": "19041.264",
+    "KBArticle": "",
+    "KBUrl": ""
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
       "LTSB"
     ],
     "AvailabilityDate": "2020-06-09",
@@ -7107,6 +7132,18 @@
     "Build": "18363.1171",
     "KBArticle": "KB4580386",
     "KBUrl": "https://support.microsoft.com/help/4580386"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
+    "AvailabilityDate": "2020-10-20",
+    "ReleaseType": "Standard",
+    "ReleaseId": "20H2",
+    "Build": "19042.572",
+    "KBArticle": "",
+    "KBUrl": ""
   },
   {
     "Product": "Windows 10",
@@ -9370,6 +9407,19 @@
   {
     "Product": "Windows 10",
     "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2021-11-16",
+    "ReleaseType": "Standard",
+    "ReleaseId": "21H2",
+    "Build": "19044.1288",
+    "KBArticle": "",
+    "KBUrl": ""
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
       "LTSC"
     ],
     "AvailabilityDate": "2021-11-22",
@@ -11065,6 +11115,18 @@
     "Build": "14393.5429",
     "KBArticle": "KB5020439",
     "KBUrl": "https://support.microsoft.com/help/5020439"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2022-10-18",
+    "ReleaseType": "Standard",
+    "ReleaseId": "22H2",
+    "Build": "19045.2130",
+    "KBArticle": "",
+    "KBUrl": ""
   },
   {
     "Product": "Windows 10",
@@ -13505,5 +13567,153 @@
     "Build": "19045.5487",
     "KBArticle": "KB5051974",
     "KBUrl": "https://support.microsoft.com/help/5051974"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2025-02-25",
+    "ReleaseType": "Preview",
+    "ReleaseId": "22H2",
+    "Build": "19045.5555",
+    "KBArticle": "KB5052077",
+    "KBUrl": "https://support.microsoft.com/help/5052077"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2025-03-11",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1507",
+    "Build": "10240.20947",
+    "KBArticle": "KB5053618",
+    "KBUrl": "https://support.microsoft.com/help/5053618"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "CBB",
+      "CB",
+      "LTSB"
+    ],
+    "AvailabilityDate": "2025-03-11",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1607",
+    "Build": "14393.7876",
+    "KBArticle": "KB5053594",
+    "KBUrl": "https://support.microsoft.com/help/5053594"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2025-03-11",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1809",
+    "Build": "17763.7009",
+    "KBArticle": "KB5053596",
+    "KBUrl": "https://support.microsoft.com/help/5053596"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2025-03-11",
+    "ReleaseType": "Standard",
+    "ReleaseId": "21H2",
+    "Build": "19044.5608",
+    "KBArticle": "KB5053606",
+    "KBUrl": "https://support.microsoft.com/help/5053606"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2025-03-11",
+    "ReleaseType": "Standard",
+    "ReleaseId": "22H2",
+    "Build": "19045.5608",
+    "KBArticle": "KB5053606",
+    "KBUrl": "https://support.microsoft.com/help/5053606"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2025-03-25",
+    "ReleaseType": "Preview",
+    "ReleaseId": "22H2",
+    "Build": "19045.5679",
+    "KBArticle": "KB5053643",
+    "KBUrl": "https://support.microsoft.com/help/5053643"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "CBB",
+      "CB",
+      "LTSB"
+    ],
+    "AvailabilityDate": "2025-04-08",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1607",
+    "Build": "14393.7969",
+    "KBArticle": "KB5055521",
+    "KBUrl": "https://support.microsoft.com/help/5055521"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2025-04-08",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1809",
+    "Build": "17763.7136",
+    "KBArticle": "KB5055519",
+    "KBUrl": "https://support.microsoft.com/help/5055519"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2025-04-08",
+    "ReleaseType": "Standard",
+    "ReleaseId": "21H2",
+    "Build": "19044.5737",
+    "KBArticle": "KB5055518",
+    "KBUrl": "https://support.microsoft.com/help/5055518"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2025-04-08",
+    "ReleaseType": "Standard",
+    "ReleaseId": "22H2",
+    "Build": "19045.5737",
+    "KBArticle": "KB5055518",
+    "KBUrl": "https://support.microsoft.com/help/5055518"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2025-04-09",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1507",
+    "Build": "10240.20979",
+    "KBArticle": "KB5055547",
+    "KBUrl": "https://support.microsoft.com/help/5055547"
   }
 ]

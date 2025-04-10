@@ -4,6 +4,18 @@
     "ServicingOption": [
       "General Availability Channel"
     ],
+    "AvailabilityDate": "2021-10-04",
+    "ReleaseType": "Standard",
+    "ReleaseId": "21H2",
+    "Build": "22000.194",
+    "KBArticle": "",
+    "KBUrl": ""
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
     "AvailabilityDate": "2021-10-12",
     "ReleaseType": "Standard",
     "ReleaseId": "21H2",

@@ -2002,5 +2002,29 @@
     "Build": "14393.7785",
     "KBArticle": "KB5052006",
     "KBUrl": "https://support.microsoft.com/help/5052006"
+  },
+  {
+    "Product": "Windows Server 2016",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2025-03-11",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1607",
+    "Build": "14393.7876",
+    "KBArticle": "KB5053594",
+    "KBUrl": "https://support.microsoft.com/help/5053594"
+  },
+  {
+    "Product": "Windows Server 2016",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2025-04-08",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1607",
+    "Build": "14393.7969",
+    "KBArticle": "KB5055521",
+    "KBUrl": "https://support.microsoft.com/help/5055521"
   }
 ]

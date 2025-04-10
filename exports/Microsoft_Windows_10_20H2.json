@@ -4,6 +4,18 @@
     "ServicingOption": [
       "Semi-Annual Channel"
     ],
+    "AvailabilityDate": "2020-10-20",
+    "ReleaseType": "Standard",
+    "ReleaseId": "20H2",
+    "Build": "19042.572",
+    "KBArticle": "",
+    "KBUrl": ""
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "Semi-Annual Channel"
+    ],
     "AvailabilityDate": "2020-10-29",
     "ReleaseType": "Preview",
     "ReleaseId": "20H2",

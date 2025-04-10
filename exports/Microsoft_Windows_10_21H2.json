@@ -5,6 +5,19 @@
       "LTSC",
       "General Availability Channel"
     ],
+    "AvailabilityDate": "2021-11-16",
+    "ReleaseType": "Standard",
+    "ReleaseId": "21H2",
+    "Build": "19044.1288",
+    "KBArticle": "",
+    "KBUrl": ""
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
     "AvailabilityDate": "2021-11-22",
     "ReleaseType": "Preview",
     "ReleaseId": "21H2",
@@ -757,5 +770,29 @@
     "Build": "19044.5487",
     "KBArticle": "KB5051974",
     "KBUrl": "https://support.microsoft.com/help/5051974"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2025-03-11",
+    "ReleaseType": "Standard",
+    "ReleaseId": "21H2",
+    "Build": "19044.5608",
+    "KBArticle": "KB5053606",
+    "KBUrl": "https://support.microsoft.com/help/5053606"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2025-04-08",
+    "ReleaseType": "Standard",
+    "ReleaseId": "21H2",
+    "Build": "19044.5737",
+    "KBArticle": "KB5055518",
+    "KBUrl": "https://support.microsoft.com/help/5055518"
   }
 ]
