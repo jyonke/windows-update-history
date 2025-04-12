@@ -418,5 +418,17 @@
     "Build": "22631.5189",
     "KBArticle": "KB5055528",
     "KBUrl": "https://support.microsoft.com/help/5055528"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2025-04-11",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "23H2",
+    "Build": "22631.5192",
+    "KBArticle": "KB5058919",
+    "KBUrl": "https://support.microsoft.com/help/5058919"
   }
 ]
