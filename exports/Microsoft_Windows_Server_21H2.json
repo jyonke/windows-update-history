@@ -826,5 +826,17 @@
     "Build": "20348.3561",
     "KBArticle": "KB5058920",
     "KBUrl": "https://support.microsoft.com/help/5058920"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2025-04-16",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "21H2",
+    "Build": "20348.3566",
+    "KBArticle": "KB5059092",
+    "KBUrl": "https://support.microsoft.com/help/5059092"
   }
 ]
