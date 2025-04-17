@@ -2111,5 +2111,18 @@
     "Build": "22631.5192",
     "KBArticle": "KB5058919",
     "KBUrl": "https://support.microsoft.com/help/5058919"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2025-04-16",
+    "ReleaseType": "Unknown",
+    "ReleaseId": "24H2",
+    "Build": "26100.3781",
+    "KBArticle": "KB5059087",
+    "KBUrl": "https://support.microsoft.com/help/5059087"
   }
 ]
