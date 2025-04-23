@@ -2124,5 +2124,29 @@
     "Build": "26100.3781",
     "KBArticle": "KB5059087",
     "KBUrl": "https://support.microsoft.com/help/5059087"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2025-04-22",
+    "ReleaseType": "Preview",
+    "ReleaseId": "22H2",
+    "Build": "22621.5262",
+    "KBArticle": "KB5055629",
+    "KBUrl": "https://support.microsoft.com/help/5055629"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2025-04-22",
+    "ReleaseType": "Preview",
+    "ReleaseId": "23H2",
+    "Build": "22631.5262",
+    "KBArticle": "KB5055629",
+    "KBUrl": "https://support.microsoft.com/help/5055629"
   }
 ]
