@@ -180,5 +180,18 @@
     "Build": "26100.3781",
     "KBArticle": "KB5059087",
     "KBUrl": "https://support.microsoft.com/help/5059087"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2025-04-25",
+    "ReleaseType": "Preview",
+    "ReleaseId": "24H2",
+    "Build": "26100.3915",
+    "KBArticle": "KB5055627",
+    "KBUrl": "https://support.microsoft.com/help/5055627"
   }
 ]
