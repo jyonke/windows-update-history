@@ -810,7 +810,7 @@
   {
     "Product": "Windows 10",
     "ServicingOption": [
-      "General Availability Channel"
+      "LTSC"
     ],
     "AvailabilityDate": "2025-05-19",
     "ReleaseType": "Out-of-band",
@@ -822,7 +822,7 @@
   {
     "Product": "Windows 10",
     "ServicingOption": [
-      "LTSC"
+      "General Availability Channel"
     ],
     "AvailabilityDate": "2025-05-19",
     "ReleaseType": "Out-of-band",
