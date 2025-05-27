@@ -454,5 +454,17 @@
     "Build": "22631.5335",
     "KBArticle": "KB5058405",
     "KBUrl": "https://support.microsoft.com/help/5058405"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2025-05-27",
+    "ReleaseType": "Preview",
+    "ReleaseId": "23H2",
+    "Build": "22631.5413",
+    "KBArticle": "KB5058502",
+    "KBUrl": "https://support.microsoft.com/help/5058502"
   }
 ]
