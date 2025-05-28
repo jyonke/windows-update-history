@@ -818,5 +818,17 @@
     "Build": "19044.5856",
     "KBArticle": "KB5061768",
     "KBUrl": "https://support.microsoft.com/help/5061768"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2025-05-27",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "21H2",
+    "Build": "19044.5859",
+    "KBArticle": "KB5061979",
+    "KBUrl": "https://support.microsoft.com/help/5061979"
   }
 ]

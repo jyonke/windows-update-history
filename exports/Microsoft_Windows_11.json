@@ -2209,5 +2209,18 @@
     "Build": "22631.5413",
     "KBArticle": "KB5058502",
     "KBUrl": "https://support.microsoft.com/help/5058502"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2025-05-27",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "24H2",
+    "Build": "26100.4066",
+    "KBArticle": "KB5061977",
+    "KBUrl": "https://support.microsoft.com/help/5061977"
   }
 ]

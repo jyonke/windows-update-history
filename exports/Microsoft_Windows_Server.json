@@ -4666,5 +4666,17 @@
     "Build": "20348.3695",
     "KBArticle": "KB5061906",
     "KBUrl": "https://support.microsoft.com/help/5061906"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2025-05-27",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "1809",
+    "Build": "17763.7322",
+    "KBArticle": "KB5061978",
+    "KBUrl": "https://support.microsoft.com/help/5061978"
   }
 ]
