@@ -466,5 +466,17 @@
     "Build": "22631.5413",
     "KBArticle": "KB5058502",
     "KBUrl": "https://support.microsoft.com/help/5058502"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2025-05-31",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "23H2",
+    "Build": "22631.5415",
+    "KBArticle": "KB5062170",
+    "KBUrl": "https://support.microsoft.com/help/5062170"
   }
 ]
