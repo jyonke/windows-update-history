@@ -1889,5 +1889,17 @@
     "Build": "17763.7322",
     "KBArticle": "KB5061978",
     "KBUrl": "https://support.microsoft.com/help/5061978"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2025-06-10",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1809",
+    "Build": "17763.7434",
+    "KBArticle": "KB5060531",
+    "KBUrl": "https://support.microsoft.com/help/5060531"
   }
 ]

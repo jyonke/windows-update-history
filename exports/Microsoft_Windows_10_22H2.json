@@ -737,10 +737,22 @@
       "General Availability Channel"
     ],
     "AvailabilityDate": "2025-05-28",
-    "ReleaseType": "Unknown",
+    "ReleaseType": "Preview",
     "ReleaseId": "22H2",
     "Build": "19045.5917",
     "KBArticle": "KB5058481",
     "KBUrl": "https://support.microsoft.com/help/5058481"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2025-06-10",
+    "ReleaseType": "Standard",
+    "ReleaseId": "22H2",
+    "Build": "19045.5965",
+    "KBArticle": "KB5060533",
+    "KBUrl": "https://support.microsoft.com/help/5060533"
   }
 ]
