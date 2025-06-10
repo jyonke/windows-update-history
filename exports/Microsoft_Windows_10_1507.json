@@ -1764,5 +1764,17 @@
     "Build": "10240.21014",
     "KBArticle": "KB5058387",
     "KBUrl": "https://support.microsoft.com/help/5058387"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2025-06-10",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1507",
+    "Build": "10240.21034",
+    "KBArticle": "KB5060998",
+    "KBUrl": "https://support.microsoft.com/help/5060998"
   }
 ]
