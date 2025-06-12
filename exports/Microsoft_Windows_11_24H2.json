@@ -232,5 +232,18 @@
     "Build": "26100.4349",
     "KBArticle": "KB5060842",
     "KBUrl": "https://support.microsoft.com/help/5060842"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2025-06-11",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "24H2",
+    "Build": "26100.4351",
+    "KBArticle": "KB5063060",
+    "KBUrl": "https://support.microsoft.com/help/5063060"
   }
 ]
