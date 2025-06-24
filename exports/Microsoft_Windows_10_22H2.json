@@ -754,5 +754,29 @@
     "Build": "19045.5965",
     "KBArticle": "KB5060533",
     "KBUrl": "https://support.microsoft.com/help/5060533"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2025-06-16",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "22H2",
+    "Build": "19045.5968",
+    "KBArticle": "KB5063159",
+    "KBUrl": "https://support.microsoft.com/help/5063159"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2025-06-24",
+    "ReleaseType": "Preview",
+    "ReleaseId": "22H2",
+    "Build": "19045.6036",
+    "KBArticle": "KB5061087",
+    "KBUrl": "https://support.microsoft.com/help/5061087"
   }
 ]
