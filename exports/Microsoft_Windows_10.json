@@ -13985,5 +13985,29 @@
     "Build": "19045.6036",
     "KBArticle": "KB5061087",
     "KBUrl": "https://support.microsoft.com/help/5061087"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2025-07-08",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1507",
+    "Build": "10240.21073",
+    "KBArticle": "KB5062561",
+    "KBUrl": "https://support.microsoft.com/help/5062561"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2025-07-08",
+    "ReleaseType": "Standard",
+    "ReleaseId": "22H2",
+    "Build": "19045.6093",
+    "KBArticle": "KB5062554",
+    "KBUrl": "https://support.microsoft.com/help/5062554"
   }
 ]
