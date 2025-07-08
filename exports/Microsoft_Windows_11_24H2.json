@@ -258,5 +258,18 @@
     "Build": "26100.4484",
     "KBArticle": "KB5060829",
     "KBUrl": "https://support.microsoft.com/help/5060829"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2025-07-08",
+    "ReleaseType": "Standard",
+    "ReleaseId": "24H2",
+    "Build": "26100.4652",
+    "KBArticle": "KB5062553",
+    "KBUrl": "https://support.microsoft.com/help/5062553"
   }
 ]
