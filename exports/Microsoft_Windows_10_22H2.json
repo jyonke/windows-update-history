@@ -790,5 +790,17 @@
     "Build": "19045.6093",
     "KBArticle": "KB5062554",
     "KBUrl": "https://support.microsoft.com/help/5062554"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2025-07-22",
+    "ReleaseType": "Preview",
+    "ReleaseId": "22H2",
+    "Build": "19045.6159",
+    "KBArticle": "KB5062649",
+    "KBUrl": "https://support.microsoft.com/help/5062649"
   }
 ]
