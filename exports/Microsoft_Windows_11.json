@@ -2421,5 +2421,42 @@
     "Build": "26100.4770",
     "KBArticle": "KB5062660",
     "KBUrl": "https://support.microsoft.com/help/5062660"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2025-08-12",
+    "ReleaseType": "Standard",
+    "ReleaseId": "22H2",
+    "Build": "22621.5768",
+    "KBArticle": "KB5063875",
+    "KBUrl": "https://support.microsoft.com/help/5063875"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2025-08-12",
+    "ReleaseType": "Standard",
+    "ReleaseId": "23H2",
+    "Build": "22631.5768",
+    "KBArticle": "KB5063875",
+    "KBUrl": "https://support.microsoft.com/help/5063875"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2025-08-12",
+    "ReleaseType": "Standard",
+    "ReleaseId": "24H2",
+    "Build": "26100.4946",
+    "KBArticle": "KB5063878",
+    "KBUrl": "https://support.microsoft.com/help/5063878"
   }
 ]

@@ -802,5 +802,17 @@
     "Build": "19045.6159",
     "KBArticle": "KB5062649",
     "KBUrl": "https://support.microsoft.com/help/5062649"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2025-08-12",
+    "ReleaseType": "Standard",
+    "ReleaseId": "22H2",
+    "Build": "19045.6216",
+    "KBArticle": "KB5063709",
+    "KBUrl": "https://support.microsoft.com/help/5063709"
   }
 ]
