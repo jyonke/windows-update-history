@@ -2458,5 +2458,29 @@
     "Build": "26100.4946",
     "KBArticle": "KB5063878",
     "KBUrl": "https://support.microsoft.com/help/5063878"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2025-08-19",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "22H2",
+    "Build": "22621.5771",
+    "KBArticle": "KB5066189",
+    "KBUrl": "https://support.microsoft.com/help/5066189"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2025-08-19",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "23H2",
+    "Build": "22631.5771",
+    "KBArticle": "KB5066189",
+    "KBUrl": "https://support.microsoft.com/help/5066189"
   }
 ]
