@@ -14145,5 +14145,17 @@
     "Build": "19045.6218",
     "KBArticle": "KB5066188",
     "KBUrl": "https://support.microsoft.com/help/5066188"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2025-08-26",
+    "ReleaseType": "Preview",
+    "ReleaseId": "22H2",
+    "Build": "19045.6282",
+    "KBArticle": "KB5063842",
+    "KBUrl": "https://support.microsoft.com/help/5063842"
   }
 ]
