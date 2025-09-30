@@ -1,0 +1,12 @@
+{
+  "Product": "Windows 11",
+  "ServicingOption": [
+    "General Availability Channel"
+  ],
+  "AvailabilityDate": "2025-09-30",
+  "ReleaseType": "Standard",
+  "ReleaseId": null,
+  "Build": "26200.6584",
+  "KBArticle": "",
+  "KBUrl": ""
+}
