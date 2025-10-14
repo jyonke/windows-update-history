@@ -862,5 +862,17 @@
     "Build": "19045.6396",
     "KBArticle": "KB5066198",
     "KBUrl": "https://support.microsoft.com/help/5066198"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2025-10-14",
+    "ReleaseType": "Standard",
+    "ReleaseId": "22H2",
+    "Build": "19045.6456",
+    "KBArticle": "KB5066791",
+    "KBUrl": "https://support.microsoft.com/help/5066791"
   }
 ]

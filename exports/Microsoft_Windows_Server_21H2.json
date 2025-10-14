@@ -910,5 +910,17 @@
     "Build": "20348.4171",
     "KBArticle": "KB5065432",
     "KBUrl": "https://support.microsoft.com/help/5065432"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2025-10-14",
+    "ReleaseType": "Standard",
+    "ReleaseId": "21H2",
+    "Build": "20348.4294",
+    "KBArticle": "KB5066782",
+    "KBUrl": "https://support.microsoft.com/help/5066782"
   }
 ]

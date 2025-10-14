@@ -2439,5 +2439,19 @@
     "Build": "14393.8422",
     "KBArticle": "KB5065427",
     "KBUrl": "https://support.microsoft.com/help/5065427"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "CBB",
+      "CB",
+      "LTSB"
+    ],
+    "AvailabilityDate": "2025-10-14",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1607",
+    "Build": "14393.8519",
+    "KBArticle": "KB5066836",
+    "KBUrl": "https://support.microsoft.com/help/5066836"
   }
 ]
