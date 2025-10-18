@@ -1,0 +1,206 @@
+[
+  {
+    "Product": "Windows Server 2025",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2024-11-01",
+    "ReleaseType": "Standard",
+    "ReleaseId": "24H2",
+    "Build": "26100.1742",
+    "KBArticle": "",
+    "KBUrl": ""
+  },
+  {
+    "Product": "Windows Server 2025",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2024-11-12",
+    "ReleaseType": "Standard",
+    "ReleaseId": "24H2",
+    "Build": "26100.2314",
+    "KBArticle": "KB5046617",
+    "KBUrl": "https://support.microsoft.com/topic/november-12-2024-kb5046617-os-build-26100-2314-701f76d0-1127-43f5-a554-f562a940bc17"
+  },
+  {
+    "Product": "Windows Server 2025",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2024-12-10",
+    "ReleaseType": "Standard",
+    "ReleaseId": "24H2",
+    "Build": "26100.2605",
+    "KBArticle": "KB5048667",
+    "KBUrl": "https://support.microsoft.com/topic/december-10-2024-kb5048667-os-build-26100-2605-eb529853-d3a2-4c8d-bd0b-5fc6becb629c"
+  },
+  {
+    "Product": "Windows Server 2025",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2025-01-14",
+    "ReleaseType": "Standard",
+    "ReleaseId": "24H2",
+    "Build": "26100.2894",
+    "KBArticle": "KB5050009",
+    "KBUrl": "https://support.microsoft.com/topic/january-14-2025-kb5050009-os-build-26100-2894-d78f27bc-6405-461f-a525-2d1dc4e45759"
+  },
+  {
+    "Product": "Windows Server 2025",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2025-02-11",
+    "ReleaseType": "Standard",
+    "ReleaseId": "24H2",
+    "Build": "26100.3194",
+    "KBArticle": "KB5051987",
+    "KBUrl": "https://support.microsoft.com/topic/february-11-2025-kb5051987-os-build-26100-3194-6cc1a435-9c1a-42b8-8c4d-b34253784452"
+  },
+  {
+    "Product": "Windows Server 2025",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2025-03-11",
+    "ReleaseType": "Standard",
+    "ReleaseId": "24H2",
+    "Build": "26100.3476",
+    "KBArticle": "KB5053598",
+    "KBUrl": "https://support.microsoft.com/topic/march-11-2025-kb5053598-os-build-26100-3476-183947b8-4a0c-429a-8c6a-3f0d1b4f02f3"
+  },
+  {
+    "Product": "Windows Server 2025",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2025-04-08",
+    "ReleaseType": "Standard",
+    "ReleaseId": "24H2",
+    "Build": "26100.3775",
+    "KBArticle": "KB5055523",
+    "KBUrl": "https://support.microsoft.com/topic/april-8-2025-kb5055523-os-build-26100-3775-348facce-4988-4c6a-8cb9-50cab59fd385"
+  },
+  {
+    "Product": "Windows Server 2025",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2025-04-16",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "24H2",
+    "Build": "26100.3781",
+    "KBArticle": "KB5059087",
+    "KBUrl": "https://support.microsoft.com/topic/april-16-2025-kb5059087-os-build-26100-3781-out-of-band-28af76fc-36e5-49bc-9447-201cfadd9d97"
+  },
+  {
+    "Product": "Windows Server 2025",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2025-05-13",
+    "ReleaseType": "Standard",
+    "ReleaseId": "24H2",
+    "Build": "26100.4061",
+    "KBArticle": "KB5058411",
+    "KBUrl": "https://support.microsoft.com/topic/may-13-2025-kb5058411-os-build-26100-4061-57181688-a692-49e5-b6cd-6e3919da12ca"
+  },
+  {
+    "Product": "Windows Server 2025",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2025-05-27",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "24H2",
+    "Build": "26100.4066",
+    "KBArticle": "KB5061977",
+    "KBUrl": "https://support.microsoft.com/topic/may-27-2025-kb5061977-os-build-26100-4066-out-of-band-80725b43-c0a1-48a4-9b82-058efffb6228"
+  },
+  {
+    "Product": "Windows Server 2025",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2025-06-10",
+    "ReleaseType": "Standard",
+    "ReleaseId": "24H2",
+    "Build": "26100.4349",
+    "KBArticle": "KB5060842",
+    "KBUrl": "https://support.microsoft.com/topic/june-10-2025-kb5060842-os-build-26100-4349-d7d4793c-bb41-4e4a-bfbd-a0dbdb2f6055"
+  },
+  {
+    "Product": "Windows Server 2025",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2025-07-08",
+    "ReleaseType": "Standard",
+    "ReleaseId": "24H2",
+    "Build": "26100.4652",
+    "KBArticle": "KB5062553",
+    "KBUrl": "https://support.microsoft.com/topic/july-8-2025-kb5062553-os-build-26100-4652-0e8c636a-7712-4936-9c76-ece21a38cf9a"
+  },
+  {
+    "Product": "Windows Server 2025",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2025-07-13",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "24H2",
+    "Build": "26100.4656",
+    "KBArticle": "KB5064489",
+    "KBUrl": "https://support.microsoft.com/topic/july-13-2025-kb5064489-os-build-26100-4656-out-of-band-6d701323-0247-482a-98ae-6b23032fa45f"
+  },
+  {
+    "Product": "Windows Server 2025",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2025-08-12",
+    "ReleaseType": "Standard",
+    "ReleaseId": "24H2",
+    "Build": "26100.4946",
+    "KBArticle": "KB5063878",
+    "KBUrl": "https://support.microsoft.com/en-us/topic/august-12-2025-kb5063878-update-for-windows-server-2025-os-build-26100-4946-69b2de20-e07d-404a-a19f-fd8c4ae27e0f"
+  },
+  {
+    "Product": "Windows Server 2025",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2025-09-09",
+    "ReleaseType": "Standard",
+    "ReleaseId": "24H2",
+    "Build": "26100.6584",
+    "KBArticle": "KB5065426",
+    "KBUrl": "https://support.microsoft.com/topic/september-9-2025-kb5065426-update-for-windows-server-2025-os-build-26100-6584-6a59dc6a-1ff2-48f4-b375-81e93deee5dd"
+  },
+  {
+    "Product": "Windows Server 2025",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2025-09-22",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "24H2",
+    "Build": "26100.6588",
+    "KBArticle": "KB5068221",
+    "KBUrl": "https://support.microsoft.com/topic/september-22-2025-kb5068221-os-build-26100-6588-out-of-band-b6d4bce9-2976-4b1d-979b-d41967aca840"
+  },
+  {
+    "Product": "Windows Server 2025",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2025-10-14",
+    "ReleaseType": "Standard",
+    "ReleaseId": "24H2",
+    "Build": "26100.6899",
+    "KBArticle": "KB5066835",
+    "KBUrl": "https://support.microsoft.com/topic/october-14-2025-kb5066835-os-build-26100-6899-6cdcc1c3-cfbf-41a3-8f0d-0c4a9d2b7d1e"
+  }
+]

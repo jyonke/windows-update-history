@@ -35,8 +35,14 @@ $TimeStamp = Get-Date -Format 'yyyy-MM-dd hh:mm:ss'
 Write-Output "$TimeStamp`: Gathering Windows Server Build Details"
 $ServerStaticDataFile = Join-Path $PSScriptRoot '\private\Microsoft_Windows_Server_Static_Builds.json'
 $OSBuilds = Get-OSBuilds -Product 'Windows Server' -Preview -OutofBand -StaticDataFile $ServerStaticDataFile
+$OSBuilds | Group-Object -Property Product | ForEach-Object {
+    $ProductName = ($_.Name -replace ' ', '_')
+    $FileName = "Microsoft_$ProductName.json"
+    $_.Group | ConvertTo-Json | Set-Content -Path (Join-Path $ExportFolder $FileName) -Force
+}
 $OSBuilds | Group-Object -Property ReleaseId | ForEach-Object {
     $FileName = "Microsoft_Windows_Server_$($_.Name).json"
     $_.Group | ConvertTo-Json | Set-Content -Path (Join-Path $ExportFolder $FileName) -Force
 } 
+
 $OSBuilds |  ConvertTo-Json | Set-Content -Path (Join-Path $ExportFolder 'Microsoft_Windows_Server.json') -Force

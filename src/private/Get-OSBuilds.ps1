@@ -83,6 +83,7 @@ function Get-OSBuilds {
         'Windows Server*' {
             $uri = 'https://learn.microsoft.com/en-us/windows/release-health/windows-server-release-info'
             $uriUpdateHistory = @(
+                'https://support.microsoft.com/en-us/topic/windows-server-2025-update-history-10f58da7-e57b-4a9d-9c16-9f1dcd72d7d7'
                 'https://support.microsoft.com/en-us/topic/windows-server-version-23h2-update-history-68c851ff-825a-4dbc-857b-51c5aa0ab248'
                 'https://support.microsoft.com/en-us/topic/windows-10-and-windows-server-2019-update-history-725fc2e1-4443-6831-a5ca-51ff5cbcb059'
                 'https://support.microsoft.com/en-us/topic/windows-10-and-windows-server-2016-update-history-4acfbc84-a290-1b54-536a-1c0430e9f3fd'
@@ -181,6 +182,7 @@ function Get-OSBuilds {
                 "17763" { [string]$OSProduct = 'Windows Server 2019' }
                 "20348" { [string]$OSProduct = 'Windows Server 2022' }
                 "25398" { [string]$OSProduct = 'Windows Server' }
+                "26100" { [string]$OSProduct = 'Windows Server 2025' }
                 default {
                     return
                 }
