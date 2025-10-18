@@ -38,7 +38,7 @@ function Get-OSBuilds {
         [string]
         $Product,
         [Parameter()]
-        [ValidateSet(10240, 10586, 14393, 15063 , 15254, 16299, 17134, 17763, 18362, 18363, 19041, 19042, 19043, 19044, 19045, 20348, 22000, 22621, 22631, 25398, 26100)]
+        [ValidateSet(10240, 10586, 14393, 15063 , 15254, 16299, 17134, 17763, 18362, 18363, 19041, 19042, 19043, 19044, 19045, 20348, 22000, 22621, 22631, 25398, 26100, 26200)]
         [string]
         $Build,
         [Parameter()]
@@ -93,7 +93,7 @@ function Get-OSBuilds {
             )
         }
 
-        Default {}
+        default {}
     }
     $htmlContent = Invoke-RestMethod $uri -ErrorAction Stop 
     $updateHistory = $uriUpdateHistory | ForEach-Object { Invoke-WebRequest -Uri $_ -UseBasicParsing -ErrorAction stop; Start-Sleep -Milliseconds 500 }
@@ -123,7 +123,7 @@ function Get-OSBuilds {
 
             # Extract column values (remove HTML)
             $columns = foreach ($match in $colMatches) {
-            ($match.Groups[1].Value -replace '<.*?>', '').Trim()
+                ($match.Groups[1].Value -replace '<.*?>', '').Trim()
             }
 
             # Extract the href from the raw HTML of the last <td>
@@ -181,7 +181,7 @@ function Get-OSBuilds {
                 "17763" { [string]$OSProduct = 'Windows Server 2019' }
                 "20348" { [string]$OSProduct = 'Windows Server 2022' }
                 "25398" { [string]$OSProduct = 'Windows Server' }
-                Default {
+                default {
                     return
                 }
             }    
@@ -210,7 +210,8 @@ function Get-OSBuilds {
             "22631" { [string]$ReleaseId = '23H2' }
             "25398" { [string]$ReleaseId = '23H2' }
             "26100" { [string]$ReleaseId = '24H2' }
-            Default {
+            "26200" { [string]$ReleaseId = '25H2' }
+            default {
                 Write-Warning "Build: $($ubr) not mapped"
             }
         }
