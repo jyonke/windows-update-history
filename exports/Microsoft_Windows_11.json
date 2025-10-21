@@ -2643,5 +2643,30 @@
     "Build": "26200.6899",
     "KBArticle": "KB5066835",
     "KBUrl": "https://support.microsoft.com/help/5066835"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2025-10-20",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "24H2",
+    "Build": "26100.6901",
+    "KBArticle": "KB5070773",
+    "KBUrl": "https://support.microsoft.com/help/5070773"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2025-10-20",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "25H2",
+    "Build": "26200.6901",
+    "KBArticle": "KB5070773",
+    "KBUrl": "https://support.microsoft.com/help/5070773"
   }
 ]
