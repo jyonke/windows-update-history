@@ -388,5 +388,18 @@
     "Build": "26100.6901",
     "KBArticle": "KB5070773",
     "KBUrl": "https://support.microsoft.com/help/5070773"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2025-10-23",
+    "ReleaseType": "Unknown",
+    "ReleaseId": "24H2",
+    "Build": "26100.6905",
+    "KBArticle": "KB5070881",
+    "KBUrl": "https://support.microsoft.com/help/5070881"
   }
 ]

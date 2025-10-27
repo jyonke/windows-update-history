@@ -1961,5 +1961,17 @@
     "Build": "17763.7919",
     "KBArticle": "KB5066586",
     "KBUrl": "https://support.microsoft.com/help/5066586"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2025-10-23",
+    "ReleaseType": "Unknown",
+    "ReleaseId": "1809",
+    "Build": "17763.7922",
+    "KBArticle": "KB5070883",
+    "KBUrl": "https://support.microsoft.com/help/5070883"
   }
 ]
