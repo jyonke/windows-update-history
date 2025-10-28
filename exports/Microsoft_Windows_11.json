@@ -2589,11 +2589,11 @@
       "General Availability Channel"
     ],
     "AvailabilityDate": "2025-09-30",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Unknown",
     "ReleaseId": "25H2",
     "Build": "26200.6584",
-    "KBArticle": "",
-    "KBUrl": ""
+    "KBArticle": "KB4321",
+    "KBUrl": "https://support.microsoft.com/help/4321"
   },
   {
     "Product": "Windows 11",
@@ -2601,11 +2601,11 @@
       "General Availability Channel"
     ],
     "AvailabilityDate": "2025-09-30",
-    "ReleaseType": "Unknown",
+    "ReleaseType": "Standard",
     "ReleaseId": "25H2",
     "Build": "26200.6584",
-    "KBArticle": "KB4321",
-    "KBUrl": "https://support.microsoft.com/help/4321"
+    "KBArticle": "",
+    "KBUrl": ""
   },
   {
     "Product": "Windows 11",
