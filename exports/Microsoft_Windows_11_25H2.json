@@ -34,5 +34,17 @@
     "Build": "26200.6901",
     "KBArticle": "KB5070773",
     "KBUrl": "https://support.microsoft.com/help/5070773"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2025-10-28",
+    "ReleaseType": "Preview",
+    "ReleaseId": "25H2",
+    "Build": "26200.7019",
+    "KBArticle": "KB5067036",
+    "KBUrl": "https://support.microsoft.com/help/5067036"
   }
 ]
