@@ -2122,5 +2122,17 @@
     "Build": "14393.8524",
     "KBArticle": "KB5070882",
     "KBUrl": "https://support.microsoft.com/help/5070882"
+  },
+  {
+    "Product": "Windows Server 2016",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2025-11-11",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1607",
+    "Build": "14393.8594",
+    "KBArticle": "KB5068864",
+    "KBUrl": "https://support.microsoft.com/help/5068864"
   }
 ]
