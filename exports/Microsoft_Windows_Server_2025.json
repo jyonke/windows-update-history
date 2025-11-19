@@ -238,5 +238,17 @@
     "Build": "26100.7171",
     "KBArticle": "KB5068861",
     "KBUrl": "https://support.microsoft.com/topic/november-11-2025-kb5068861-os-build-26100-7171-24e553d1-2338-433e-9cc3-61733148530c"
+  },
+  {
+    "Product": "Windows Server 2025",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2025-11-18",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "24H2",
+    "Build": "26100.7178",
+    "KBArticle": "KB5072359",
+    "KBUrl": "https://support.microsoft.com/topic/november-18-2025-kb5072359-os-build-26100-7178-out-of-band-4c7a1771-0a7d-4652-a5fa-c24b1828faf2"
   }
 ]
