@@ -5194,5 +5194,53 @@
     "Build": "26100.7178",
     "KBArticle": "KB5072359",
     "KBUrl": "https://support.microsoft.com/topic/november-18-2025-kb5072359-os-build-26100-7178-out-of-band-4c7a1771-0a7d-4652-a5fa-c24b1828faf2"
+  },
+  {
+    "Product": "Windows Server 2016",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2025-12-09",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1607",
+    "Build": "14393.8688",
+    "KBArticle": "KB5071543",
+    "KBUrl": "https://support.microsoft.com/help/5071543"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2025-12-09",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1809",
+    "Build": "17763.8146",
+    "KBArticle": "KB5071544",
+    "KBUrl": "https://support.microsoft.com/help/5071544"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2025-12-09",
+    "ReleaseType": "Standard",
+    "ReleaseId": "21H2",
+    "Build": "20348.4529",
+    "KBArticle": "KB5071547",
+    "KBUrl": "https://support.microsoft.com/help/5071547"
+  },
+  {
+    "Product": "Windows Server 2025",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2025-12-09",
+    "ReleaseType": "Standard",
+    "ReleaseId": "24H2",
+    "Build": "26100.7462",
+    "KBArticle": "KB5072033",
+    "KBUrl": "https://support.microsoft.com/help/5072033"
   }
 ]
