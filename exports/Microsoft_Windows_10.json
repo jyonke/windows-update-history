@@ -14431,5 +14431,55 @@
     "Build": "19045.6691",
     "KBArticle": "KB5071546",
     "KBUrl": "https://support.microsoft.com/help/5071546"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "CBB",
+      "CB",
+      "LTSB"
+    ],
+    "AvailabilityDate": "2025-12-18",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "1607",
+    "Build": "14393.8692",
+    "KBArticle": "KB5074974",
+    "KBUrl": "https://support.microsoft.com/help/5074974"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2025-12-18",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "1809",
+    "Build": "17763.8148",
+    "KBArticle": "KB5074975",
+    "KBUrl": "https://support.microsoft.com/help/5074975"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2025-12-18",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "21H2",
+    "Build": "19044.6693",
+    "KBArticle": "KB5074976",
+    "KBUrl": "https://support.microsoft.com/help/5074976"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2025-12-18",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "22H2",
+    "Build": "19045.6693",
+    "KBArticle": "KB5074976",
+    "KBUrl": "https://support.microsoft.com/help/5074976"
   }
 ]
