@@ -2509,5 +2509,19 @@
     "Build": "14393.8692",
     "KBArticle": "KB5074974",
     "KBUrl": "https://support.microsoft.com/help/5074974"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "CBB",
+      "CB",
+      "LTSB"
+    ],
+    "AvailabilityDate": "2026-01-13",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1607",
+    "Build": "14393.8783",
+    "KBArticle": "KB5073722",
+    "KBUrl": "https://support.microsoft.com/help/5073722"
   }
 ]
