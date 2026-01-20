@@ -934,5 +934,17 @@
     "Build": "19045.6809",
     "KBArticle": "KB5073724",
     "KBUrl": "https://support.microsoft.com/help/5073724"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-01-17",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "22H2",
+    "Build": "19045.6811",
+    "KBArticle": "KB5077796",
+    "KBUrl": "https://support.microsoft.com/help/5077796"
   }
 ]

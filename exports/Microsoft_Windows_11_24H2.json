@@ -479,5 +479,18 @@
     "Build": "26100.7623",
     "KBArticle": "KB5074109",
     "KBUrl": "https://support.microsoft.com/help/5074109"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-01-17",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "24H2",
+    "Build": "26100.7627",
+    "KBArticle": "KB5077744",
+    "KBUrl": "https://support.microsoft.com/help/5077744"
   }
 ]
