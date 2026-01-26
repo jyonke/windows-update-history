@@ -269,6 +269,18 @@
       "LTSC"
     ],
     "AvailabilityDate": "2026-01-13",
+    "ReleaseType": "Unknown",
+    "ReleaseId": "24H2",
+    "Build": "26100.7623",
+    "KBArticle": "KB5074109",
+    "KBUrl": "https://support.microsoft.com/help/5074109"
+  },
+  {
+    "Product": "Windows Server 2025",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-01-13",
     "ReleaseType": "Standard",
     "ReleaseId": "24H2",
     "Build": "26100.32230",
@@ -286,5 +298,17 @@
     "Build": "26100.32234",
     "KBArticle": "KB5077793",
     "KBUrl": "https://support.microsoft.com/help/5077793"
+  },
+  {
+    "Product": "Windows Server 2025",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-01-24",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "24H2",
+    "Build": "26100.32236",
+    "KBArticle": "KB5078135",
+    "KBUrl": "https://support.microsoft.com/help/5078135"
   }
 ]
