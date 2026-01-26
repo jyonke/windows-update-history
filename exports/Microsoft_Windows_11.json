@@ -2672,19 +2672,6 @@
   {
     "Product": "Windows 11",
     "ServicingOption": [
-      "LTSC",
-      "General Availability Channel"
-    ],
-    "AvailabilityDate": "2025-10-23",
-    "ReleaseType": "Unknown",
-    "ReleaseId": "24H2",
-    "Build": "26100.6905",
-    "KBArticle": "KB5070881",
-    "KBUrl": "https://support.microsoft.com/help/5070881"
-  },
-  {
-    "Product": "Windows 11",
-    "ServicingOption": [
       "General Availability Channel"
     ],
     "AvailabilityDate": "2025-10-28",
@@ -2755,19 +2742,6 @@
     "Build": "26200.7171",
     "KBArticle": "KB5068861",
     "KBUrl": "https://support.microsoft.com/help/5068861"
-  },
-  {
-    "Product": "Windows 11",
-    "ServicingOption": [
-      "LTSC",
-      "General Availability Channel"
-    ],
-    "AvailabilityDate": "2025-11-18",
-    "ReleaseType": "Unknown",
-    "ReleaseId": "24H2",
-    "Build": "26100.7178",
-    "KBArticle": "KB5072359",
-    "KBUrl": "https://support.microsoft.com/help/5072359"
   },
   {
     "Product": "Windows 11",
@@ -2871,19 +2845,6 @@
   {
     "Product": "Windows 11",
     "ServicingOption": [
-      "LTSC",
-      "General Availability Channel"
-    ],
-    "AvailabilityDate": "2026-01-13",
-    "ReleaseType": "Unknown",
-    "ReleaseId": "24H2",
-    "Build": "26100.32230",
-    "KBArticle": "KB5073379",
-    "KBUrl": "https://support.microsoft.com/help/5073379"
-  },
-  {
-    "Product": "Windows 11",
-    "ServicingOption": [
       "General Availability Channel"
     ],
     "AvailabilityDate": "2026-01-13",
@@ -2921,19 +2882,6 @@
   {
     "Product": "Windows 11",
     "ServicingOption": [
-      "LTSC",
-      "General Availability Channel"
-    ],
-    "AvailabilityDate": "2026-01-17",
-    "ReleaseType": "Unknown",
-    "ReleaseId": "24H2",
-    "Build": "26100.32234",
-    "KBArticle": "KB5077793",
-    "KBUrl": "https://support.microsoft.com/help/5077793"
-  },
-  {
-    "Product": "Windows 11",
-    "ServicingOption": [
       "General Availability Channel"
     ],
     "AvailabilityDate": "2026-01-17",
@@ -2967,19 +2915,6 @@
     "Build": "26100.7628",
     "KBArticle": "KB5078127",
     "KBUrl": "https://support.microsoft.com/help/5078127"
-  },
-  {
-    "Product": "Windows 11",
-    "ServicingOption": [
-      "LTSC",
-      "General Availability Channel"
-    ],
-    "AvailabilityDate": "2026-01-24",
-    "ReleaseType": "Unknown",
-    "ReleaseId": "24H2",
-    "Build": "26100.32236",
-    "KBArticle": "KB5078135",
-    "KBUrl": "https://support.microsoft.com/help/5078135"
   },
   {
     "Product": "Windows 11",

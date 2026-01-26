@@ -5309,18 +5309,6 @@
       "LTSC"
     ],
     "AvailabilityDate": "2026-01-13",
-    "ReleaseType": "Unknown",
-    "ReleaseId": "24H2",
-    "Build": "26100.7623",
-    "KBArticle": "KB5074109",
-    "KBUrl": "https://support.microsoft.com/help/5074109"
-  },
-  {
-    "Product": "Windows Server 2025",
-    "ServicingOption": [
-      "LTSC"
-    ],
-    "AvailabilityDate": "2026-01-13",
     "ReleaseType": "Standard",
     "ReleaseId": "24H2",
     "Build": "26100.32230",
