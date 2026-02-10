@@ -1,0 +1,26 @@
+[
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-02-10",
+    "ReleaseType": "Standard",
+    "ReleaseId": null,
+    "Build": "28000.1",
+    "KBArticle": "",
+    "KBUrl": ""
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-02-10",
+    "ReleaseType": "Standard",
+    "ReleaseId": null,
+    "Build": "28000.1575",
+    "KBArticle": "KB5077179",
+    "KBUrl": "https://support.microsoft.com/help/5077179"
+  }
+]
