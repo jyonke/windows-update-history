@@ -2672,6 +2672,19 @@
   {
     "Product": "Windows 11",
     "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2025-10-23",
+    "ReleaseType": "Unknown",
+    "ReleaseId": "24H2",
+    "Build": "26100.6905",
+    "KBArticle": "KB5070881",
+    "KBUrl": "https://support.microsoft.com/help/5070881"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
       "General Availability Channel"
     ],
     "AvailabilityDate": "2025-10-28",
@@ -2742,6 +2755,19 @@
     "Build": "26200.7171",
     "KBArticle": "KB5068861",
     "KBUrl": "https://support.microsoft.com/help/5068861"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2025-11-18",
+    "ReleaseType": "Unknown",
+    "ReleaseId": "24H2",
+    "Build": "26100.7178",
+    "KBArticle": "KB5072359",
+    "KBUrl": "https://support.microsoft.com/help/5072359"
   },
   {
     "Product": "Windows 11",
@@ -3013,5 +3039,42 @@
     "Build": "28000.1575",
     "KBArticle": "KB5077179",
     "KBUrl": "https://support.microsoft.com/help/5077179"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-02-24",
+    "ReleaseType": "Preview",
+    "ReleaseId": "24H2",
+    "Build": "26100.7922",
+    "KBArticle": "KB5077241",
+    "KBUrl": "https://support.microsoft.com/help/5077241"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-02-24",
+    "ReleaseType": "Preview",
+    "ReleaseId": "25H2",
+    "Build": "26200.7922",
+    "KBArticle": "KB5077241",
+    "KBUrl": "https://support.microsoft.com/help/5077241"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-02-24",
+    "ReleaseType": "Preview",
+    "ReleaseId": null,
+    "Build": "28000.1643",
+    "KBArticle": "KB5077239",
+    "KBUrl": "https://support.microsoft.com/help/5077239"
   }
 ]

@@ -142,5 +142,17 @@
     "Build": "26200.7840",
     "KBArticle": "KB5077181",
     "KBUrl": "https://support.microsoft.com/help/5077181"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-02-24",
+    "ReleaseType": "Preview",
+    "ReleaseId": "25H2",
+    "Build": "26200.7922",
+    "KBArticle": "KB5077241",
+    "KBUrl": "https://support.microsoft.com/help/5077241"
   }
 ]
