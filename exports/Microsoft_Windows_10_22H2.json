@@ -970,5 +970,17 @@
     "Build": "19045.6937",
     "KBArticle": "KB5075912",
     "KBUrl": "https://support.microsoft.com/help/5075912"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-03-10",
+    "ReleaseType": "Standard",
+    "ReleaseId": "22H2",
+    "Build": "19045.7058",
+    "KBArticle": "KB5078885",
+    "KBUrl": "https://support.microsoft.com/help/5078885"
   }
 ]

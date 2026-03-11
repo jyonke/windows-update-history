@@ -544,5 +544,18 @@
     "Build": "26100.7922",
     "KBArticle": "KB5077241",
     "KBUrl": "https://support.microsoft.com/help/5077241"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-03-10",
+    "ReleaseType": "Standard",
+    "ReleaseId": "24H2",
+    "Build": "26100.8037",
+    "KBArticle": "KB5079473",
+    "KBUrl": "https://support.microsoft.com/help/5079473"
   }
 ]

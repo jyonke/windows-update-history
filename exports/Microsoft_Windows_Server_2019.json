@@ -1930,5 +1930,17 @@
     "Build": "17763.8389",
     "KBArticle": "KB5075904",
     "KBUrl": "https://support.microsoft.com/help/5075904"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-03-10",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1809",
+    "Build": "17763.8511",
+    "KBArticle": "KB5078752",
+    "KBUrl": "https://support.microsoft.com/help/5078752"
   }
 ]

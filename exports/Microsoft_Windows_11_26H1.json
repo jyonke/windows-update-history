@@ -34,5 +34,17 @@
     "Build": "28000.1643",
     "KBArticle": "KB5077239",
     "KBUrl": "https://support.microsoft.com/help/5077239"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-03-10",
+    "ReleaseType": "Standard",
+    "ReleaseId": "26H1",
+    "Build": "28000.1719",
+    "KBArticle": "KB5079466",
+    "KBUrl": "https://support.microsoft.com/help/5079466"
   }
 ]

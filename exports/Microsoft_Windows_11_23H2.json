@@ -694,5 +694,17 @@
     "Build": "22631.6649",
     "KBArticle": "KB5075941",
     "KBUrl": "https://support.microsoft.com/help/5075941"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-03-10",
+    "ReleaseType": "Standard",
+    "ReleaseId": "23H2",
+    "Build": "22631.6783",
+    "KBArticle": "KB5078883",
+    "KBUrl": "https://support.microsoft.com/help/5078883"
   }
 ]
