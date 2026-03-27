@@ -166,5 +166,29 @@
     "Build": "26200.8037",
     "KBArticle": "KB5079473",
     "KBUrl": "https://support.microsoft.com/help/5079473"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-03-21",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "25H2",
+    "Build": "26200.8039",
+    "KBArticle": "KB5085516",
+    "KBUrl": "https://support.microsoft.com/help/5085516"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-03-26",
+    "ReleaseType": "Preview",
+    "ReleaseId": "25H2",
+    "Build": "26200.8116",
+    "KBArticle": "KB5079391",
+    "KBUrl": "https://support.microsoft.com/help/5079391"
   }
 ]
