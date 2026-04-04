@@ -190,5 +190,17 @@
     "Build": "26200.8116",
     "KBArticle": "KB5079391",
     "KBUrl": "https://support.microsoft.com/help/5079391"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-03-31",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "25H2",
+    "Build": "26200.8117",
+    "KBArticle": "KB5086672",
+    "KBUrl": "https://support.microsoft.com/help/5086672"
   }
 ]
