@@ -322,5 +322,17 @@
     "Build": "26100.32522",
     "KBArticle": "KB5078740",
     "KBUrl": "https://support.microsoft.com/help/5078740"
+  },
+  {
+    "Product": "Windows Server 2025",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-04-14",
+    "ReleaseType": "Standard",
+    "ReleaseId": "24H2",
+    "Build": "26100.32690",
+    "KBArticle": "KB5082063",
+    "KBUrl": "https://support.microsoft.com/help/5082063"
   }
 ]
