@@ -14753,5 +14753,31 @@
     "Build": "19045.7184",
     "KBArticle": "KB5082200",
     "KBUrl": "https://support.microsoft.com/help/5082200"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "CBB",
+      "CB",
+      "LTSB"
+    ],
+    "AvailabilityDate": "2026-04-19",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "1607",
+    "Build": "14393.9062",
+    "KBArticle": "KB5091572",
+    "KBUrl": "https://support.microsoft.com/help/5091572"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-04-19",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "1809",
+    "Build": "17763.8647",
+    "KBArticle": "KB5091573",
+    "KBUrl": "https://support.microsoft.com/help/5091573"
   }
 ]
