@@ -70,5 +70,17 @@
     "Build": "28000.1836",
     "KBArticle": "KB5083768",
     "KBUrl": "https://support.microsoft.com/help/5083768"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-04-30",
+    "ReleaseType": "Preview",
+    "ReleaseId": "26H1",
+    "Build": "28000.1896",
+    "KBArticle": "KB5083806",
+    "KBUrl": "https://support.microsoft.com/help/5083806"
   }
 ]
