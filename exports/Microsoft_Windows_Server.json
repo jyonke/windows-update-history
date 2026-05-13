@@ -5633,11 +5633,11 @@
       "LTSC"
     ],
     "AvailabilityDate": "2026-05-12",
-    "ReleaseType": "Unknown",
+    "ReleaseType": "Standard",
     "ReleaseId": "21H2",
     "Build": "20348.5139",
-    "KBArticle": "KB5087424",
-    "KBUrl": "https://support.microsoft.com/topic/may-12-2026-hotpatch-kb5087424-os-build-20348-5074-2984f4af-5751-411c-9a0b-78f05dc8d5d0"
+    "KBArticle": "KB5087545",
+    "KBUrl": "https://support.microsoft.com/topic/may-12-2026-kb5087545-os-build-20348-5139-6aed2a73-37f9-468c-8bdc-4bae674797cf"
   },
   {
     "Product": "Windows Server 2025",
