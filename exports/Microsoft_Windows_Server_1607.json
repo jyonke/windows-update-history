@@ -2218,5 +2218,29 @@
     "Build": "14393.9062",
     "KBArticle": "KB5091572",
     "KBUrl": "https://support.microsoft.com/help/5091572"
+  },
+  {
+    "Product": "Windows Server 2016",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2026-04-19",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "1607",
+    "Build": "14393.9062",
+    "KBArticle": "KB5091572",
+    "KBUrl": "https://support.microsoft.com/help/5091572"
+  },
+  {
+    "Product": "Windows Server 2016",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2026-05-12",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1607",
+    "Build": "14393.9140",
+    "KBArticle": "KB5087537",
+    "KBUrl": "https://support.microsoft.com/topic/may-12-2026-kb5087537-os-build-14393-9140-2ef98591-73f0-4517-9fa0-12764b51858f"
   }
 ]
