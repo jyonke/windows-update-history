@@ -238,5 +238,17 @@
     "Build": "26200.8457",
     "KBArticle": "KB5089549",
     "KBUrl": "https://support.microsoft.com/help/5089549"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-05-26",
+    "ReleaseType": "Preview",
+    "ReleaseId": "25H2",
+    "Build": "26200.8524",
+    "KBArticle": "KB5089573",
+    "KBUrl": "https://support.microsoft.com/help/5089573"
   }
 ]
