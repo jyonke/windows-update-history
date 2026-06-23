@@ -661,5 +661,18 @@
     "Build": "26100.8655",
     "KBArticle": "KB5094126",
     "KBUrl": "https://support.microsoft.com/help/5094126"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-06-23",
+    "ReleaseType": "Preview",
+    "ReleaseId": "24H2",
+    "Build": "26100.8737",
+    "KBArticle": "KB5095093",
+    "KBUrl": "https://support.microsoft.com/help/5095093"
   }
 ]
