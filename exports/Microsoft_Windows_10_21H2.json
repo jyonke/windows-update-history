@@ -1034,5 +1034,17 @@
     "Build": "19044.7417",
     "KBArticle": "KB5094127",
     "KBUrl": "https://support.microsoft.com/help/5094127"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-07-14",
+    "ReleaseType": "Standard",
+    "ReleaseId": "21H2",
+    "Build": "19044.7548",
+    "KBArticle": "KB5099539",
+    "KBUrl": "https://support.microsoft.com/help/5099539"
   }
 ]
