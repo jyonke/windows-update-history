@@ -6647,7 +6647,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2020-07-21",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Preview",
     "ReleaseId": "1809",
     "Build": "17763.1369",
     "KBArticle": "KB4559003",
@@ -6659,7 +6659,7 @@
       "Semi-Annual Channel"
     ],
     "AvailabilityDate": "2020-07-21",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Preview",
     "ReleaseId": "1903",
     "Build": "18362.997",
     "KBArticle": "KB4559004",
@@ -6671,7 +6671,7 @@
       "Semi-Annual Channel"
     ],
     "AvailabilityDate": "2020-07-21",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Preview",
     "ReleaseId": "1909",
     "Build": "18363.997",
     "KBArticle": "KB4559004",
@@ -6683,7 +6683,7 @@
       "Semi-Annual Channel"
     ],
     "AvailabilityDate": "2020-07-31",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Preview",
     "ReleaseId": "2004",
     "Build": "19041.423",
     "KBArticle": "KB4568831",
@@ -7654,7 +7654,7 @@
       "LTSB"
     ],
     "AvailabilityDate": "2021-02-09",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Unknown",
     "ReleaseId": "1507",
     "Build": "10240.18841",
     "KBArticle": "KB4601331",
@@ -7681,7 +7681,7 @@
       "Semi-Annual Channel (Targeted)"
     ],
     "AvailabilityDate": "2021-02-09",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Unknown",
     "ReleaseId": "1803",
     "Build": "17134.2026",
     "KBArticle": "KB4601354",
@@ -7695,7 +7695,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2021-02-09",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Unknown",
     "ReleaseId": "1809",
     "Build": "17763.1757",
     "KBArticle": "KB4601345",
@@ -7719,7 +7719,7 @@
       "Semi-Annual Channel"
     ],
     "AvailabilityDate": "2021-02-09",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Unknown",
     "ReleaseId": "2004",
     "Build": "19041.804",
     "KBArticle": "KB4601319",
@@ -7731,7 +7731,7 @@
       "Semi-Annual Channel"
     ],
     "AvailabilityDate": "2021-02-09",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Unknown",
     "ReleaseId": "20H2",
     "Build": "19042.804",
     "KBArticle": "KB4601319",

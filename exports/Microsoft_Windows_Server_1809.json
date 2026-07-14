@@ -569,7 +569,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2020-07-21",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Preview",
     "ReleaseId": "1809",
     "Build": "17763.1369",
     "KBArticle": "KB4559003",
@@ -725,7 +725,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2021-02-09",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Unknown",
     "ReleaseId": "1809",
     "Build": "17763.1757",
     "KBArticle": "KB4601345",
