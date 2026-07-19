@@ -687,5 +687,18 @@
     "Build": "26100.8875",
     "KBArticle": "KB5101650",
     "KBUrl": "https://support.microsoft.com/help/5101650"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-07-18",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "24H2",
+    "Build": "26100.8894",
+    "KBArticle": "KB5121767",
+    "KBUrl": "https://support.microsoft.com/help/5121767"
   }
 ]
