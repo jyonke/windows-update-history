@@ -14929,5 +14929,55 @@
     "Build": "19045.7548",
     "KBArticle": "KB5099539",
     "KBUrl": "https://support.microsoft.com/help/5099539"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "CBB",
+      "CB",
+      "LTSB"
+    ],
+    "AvailabilityDate": "2026-08-11",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1607",
+    "Build": "14393.9418",
+    "KBArticle": "KB5120418",
+    "KBUrl": "https://support.microsoft.com/help/5120418"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-08-11",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1809",
+    "Build": "17763.9121",
+    "KBArticle": "KB5120238",
+    "KBUrl": "https://support.microsoft.com/help/5120238"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-08-11",
+    "ReleaseType": "Standard",
+    "ReleaseId": "21H2",
+    "Build": "19044.7663",
+    "KBArticle": "KB5120249",
+    "KBUrl": "https://support.microsoft.com/help/5120249"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-08-11",
+    "ReleaseType": "Standard",
+    "ReleaseId": "22H2",
+    "Build": "19045.7663",
+    "KBArticle": "KB5120249",
+    "KBUrl": "https://support.microsoft.com/help/5120249"
   }
 ]
