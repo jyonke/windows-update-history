@@ -166,5 +166,17 @@
     "Build": "28000.2704",
     "KBArticle": "KB5121000",
     "KBUrl": "https://support.microsoft.com/help/5121000"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-08-27",
+    "ReleaseType": "Preview",
+    "ReleaseId": "26H1",
+    "Build": "28000.2804",
+    "KBArticle": "KB5120996",
+    "KBUrl": "https://support.microsoft.com/help/5120996"
   }
 ]

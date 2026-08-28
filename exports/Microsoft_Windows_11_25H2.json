@@ -322,5 +322,17 @@
     "Build": "26200.9168",
     "KBArticle": "KB5121003",
     "KBUrl": "https://support.microsoft.com/help/5121003"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-08-27",
+    "ReleaseType": "Preview",
+    "ReleaseId": "25H2",
+    "Build": "26200.9278",
+    "KBArticle": "KB5120998",
+    "KBUrl": "https://support.microsoft.com/help/5120998"
   }
 ]
