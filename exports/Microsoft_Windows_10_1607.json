@@ -2635,5 +2635,19 @@
     "Build": "14393.9418",
     "KBArticle": "KB5120418",
     "KBUrl": "https://support.microsoft.com/help/5120418"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "CBB",
+      "CB",
+      "LTSB"
+    ],
+    "AvailabilityDate": "2026-09-08",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1607",
+    "Build": "14393.9512",
+    "KBArticle": "KB5123099",
+    "KBUrl": "https://support.microsoft.com/help/5123099"
   }
 ]
