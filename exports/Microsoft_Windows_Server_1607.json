@@ -2278,5 +2278,17 @@
     "Build": "14393.9512",
     "KBArticle": "KB5123099",
     "KBUrl": "https://support.microsoft.com/help/5123099"
+  },
+  {
+    "Product": "Windows Server 2016",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2026-09-14",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "1607",
+    "Build": "14393.9514",
+    "KBArticle": "KB5129239",
+    "KBUrl": "https://support.microsoft.com/help/5129239"
   }
 ]

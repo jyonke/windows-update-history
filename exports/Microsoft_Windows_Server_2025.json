@@ -406,5 +406,17 @@
     "Build": "26100.33438",
     "KBArticle": "KB5122871",
     "KBUrl": "https://support.microsoft.com/help/5122871"
+  },
+  {
+    "Product": "Windows Server 2025",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-09-14",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "24H2",
+    "Build": "26100.33451",
+    "KBArticle": "KB5129235",
+    "KBUrl": "https://support.microsoft.com/help/5129235"
   }
 ]

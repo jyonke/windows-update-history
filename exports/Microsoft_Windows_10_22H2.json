@@ -1054,5 +1054,17 @@
     "Build": "19045.7725",
     "KBArticle": "KB5122878",
     "KBUrl": "https://support.microsoft.com/help/5122878"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-09-14",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "22H2",
+    "Build": "19045.7727",
+    "KBArticle": "KB5129236",
+    "KBUrl": "https://support.microsoft.com/help/5129236"
   }
 ]

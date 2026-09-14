@@ -2153,5 +2153,17 @@
     "Build": "17763.9245",
     "KBArticle": "KB5122876",
     "KBUrl": "https://support.microsoft.com/help/5122876"
+  },
+  {
+    "Product": "Windows 10",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-09-14",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "1809",
+    "Build": "17763.9247",
+    "KBArticle": "KB5129238",
+    "KBUrl": "https://support.microsoft.com/help/5129238"
   }
 ]
