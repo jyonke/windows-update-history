@@ -6,7 +6,7 @@
     ],
     "AvailabilityDate": "2026-09-29",
     "ReleaseType": "Standard",
-    "ReleaseId": null,
+    "ReleaseId": "26H2",
     "Build": "26300.9457",
     "KBArticle": "",
     "KBUrl": ""
@@ -18,7 +18,7 @@
     ],
     "AvailabilityDate": "2026-09-29",
     "ReleaseType": "Preview",
-    "ReleaseId": null,
+    "ReleaseId": "26H2",
     "Build": "26300.9550",
     "KBArticle": "KB5124010",
     "KBUrl": "https://support.microsoft.com/help/5124010"
