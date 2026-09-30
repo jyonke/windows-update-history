@@ -214,6 +214,7 @@ function Get-OSBuilds {
             "26100" { [string]$ReleaseId = '24H2' }
             "26200" { [string]$ReleaseId = '25H2' }
             "28000" { [string]$ReleaseId = '26H1' }
+            "26300" { [string]$ReleaseId = '26H2' }
             default {
                 Write-Warning "Build: $($ubr) not mapped"
             }
