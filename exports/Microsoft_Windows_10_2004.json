@@ -53,7 +53,7 @@
       "Semi-Annual Channel"
     ],
     "AvailabilityDate": "2020-07-31",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Preview",
     "ReleaseId": "2004",
     "Build": "19041.423",
     "KBArticle": "KB4568831",
@@ -209,7 +209,7 @@
       "Semi-Annual Channel"
     ],
     "AvailabilityDate": "2021-02-09",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Unknown",
     "ReleaseId": "2004",
     "Build": "19041.804",
     "KBArticle": "KB4601319",

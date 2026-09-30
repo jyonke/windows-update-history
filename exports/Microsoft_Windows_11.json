@@ -3076,5 +3076,755 @@
     "Build": "28000.1643",
     "KBArticle": "KB5077239",
     "KBUrl": "https://support.microsoft.com/help/5077239"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-03-10",
+    "ReleaseType": "Standard",
+    "ReleaseId": "23H2",
+    "Build": "22631.6783",
+    "KBArticle": "KB5078883",
+    "KBUrl": "https://support.microsoft.com/help/5078883"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-03-10",
+    "ReleaseType": "Standard",
+    "ReleaseId": "24H2",
+    "Build": "26100.8037",
+    "KBArticle": "KB5079473",
+    "KBUrl": "https://support.microsoft.com/help/5079473"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-03-10",
+    "ReleaseType": "Standard",
+    "ReleaseId": "25H2",
+    "Build": "26200.8037",
+    "KBArticle": "KB5079473",
+    "KBUrl": "https://support.microsoft.com/help/5079473"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-03-10",
+    "ReleaseType": "Standard",
+    "ReleaseId": "26H1",
+    "Build": "28000.1719",
+    "KBArticle": "KB5079466",
+    "KBUrl": "https://support.microsoft.com/help/5079466"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-03-21",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "24H2",
+    "Build": "26100.8039",
+    "KBArticle": "KB5085516",
+    "KBUrl": "https://support.microsoft.com/help/5085516"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-03-21",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "25H2",
+    "Build": "26200.8039",
+    "KBArticle": "KB5085516",
+    "KBUrl": "https://support.microsoft.com/help/5085516"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-03-26",
+    "ReleaseType": "Preview",
+    "ReleaseId": "24H2",
+    "Build": "26100.8116",
+    "KBArticle": "KB5079391",
+    "KBUrl": "https://support.microsoft.com/help/5079391"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-03-26",
+    "ReleaseType": "Preview",
+    "ReleaseId": "25H2",
+    "Build": "26200.8116",
+    "KBArticle": "KB5079391",
+    "KBUrl": "https://support.microsoft.com/help/5079391"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-03-26",
+    "ReleaseType": "Preview",
+    "ReleaseId": "26H1",
+    "Build": "28000.1764",
+    "KBArticle": "KB5079489",
+    "KBUrl": "https://support.microsoft.com/help/5079489"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-03-31",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "24H2",
+    "Build": "26100.8117",
+    "KBArticle": "KB5086672",
+    "KBUrl": "https://support.microsoft.com/help/5086672"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-03-31",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "25H2",
+    "Build": "26200.8117",
+    "KBArticle": "KB5086672",
+    "KBUrl": "https://support.microsoft.com/help/5086672"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-04-14",
+    "ReleaseType": "Standard",
+    "ReleaseId": "23H2",
+    "Build": "22631.6936",
+    "KBArticle": "KB5082052",
+    "KBUrl": "https://support.microsoft.com/help/5082052"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-04-14",
+    "ReleaseType": "Standard",
+    "ReleaseId": "24H2",
+    "Build": "26100.8246",
+    "KBArticle": "KB5083769",
+    "KBUrl": "https://support.microsoft.com/help/5083769"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-04-14",
+    "ReleaseType": "Standard",
+    "ReleaseId": "25H2",
+    "Build": "26200.8246",
+    "KBArticle": "KB5083769",
+    "KBUrl": "https://support.microsoft.com/help/5083769"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-04-14",
+    "ReleaseType": "Standard",
+    "ReleaseId": "26H1",
+    "Build": "28000.1836",
+    "KBArticle": "KB5083768",
+    "KBUrl": "https://support.microsoft.com/help/5083768"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-04-30",
+    "ReleaseType": "Preview",
+    "ReleaseId": "24H2",
+    "Build": "26100.8328",
+    "KBArticle": "KB5083631",
+    "KBUrl": "https://support.microsoft.com/help/5083631"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-04-30",
+    "ReleaseType": "Preview",
+    "ReleaseId": "25H2",
+    "Build": "26200.8328",
+    "KBArticle": "KB5083631",
+    "KBUrl": "https://support.microsoft.com/help/5083631"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-04-30",
+    "ReleaseType": "Preview",
+    "ReleaseId": "26H1",
+    "Build": "28000.1896",
+    "KBArticle": "KB5083806",
+    "KBUrl": "https://support.microsoft.com/help/5083806"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-05-12",
+    "ReleaseType": "Standard",
+    "ReleaseId": "23H2",
+    "Build": "22631.7079",
+    "KBArticle": "KB5087420",
+    "KBUrl": "https://support.microsoft.com/help/5087420"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-05-12",
+    "ReleaseType": "Standard",
+    "ReleaseId": "24H2",
+    "Build": "26100.8457",
+    "KBArticle": "KB5089549",
+    "KBUrl": "https://support.microsoft.com/help/5089549"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-05-12",
+    "ReleaseType": "Standard",
+    "ReleaseId": "25H2",
+    "Build": "26200.8457",
+    "KBArticle": "KB5089549",
+    "KBUrl": "https://support.microsoft.com/help/5089549"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-05-12",
+    "ReleaseType": "Standard",
+    "ReleaseId": "26H1",
+    "Build": "28000.2113",
+    "KBArticle": "KB5089548",
+    "KBUrl": "https://support.microsoft.com/help/5089548"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-05-26",
+    "ReleaseType": "Preview",
+    "ReleaseId": "24H2",
+    "Build": "26100.8524",
+    "KBArticle": "KB5089573",
+    "KBUrl": "https://support.microsoft.com/help/5089573"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-05-26",
+    "ReleaseType": "Preview",
+    "ReleaseId": "25H2",
+    "Build": "26200.8524",
+    "KBArticle": "KB5089573",
+    "KBUrl": "https://support.microsoft.com/help/5089573"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-05-26",
+    "ReleaseType": "Preview",
+    "ReleaseId": "26H1",
+    "Build": "28000.2179",
+    "KBArticle": "KB5089570",
+    "KBUrl": "https://support.microsoft.com/help/5089570"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-06-09",
+    "ReleaseType": "Standard",
+    "ReleaseId": "23H2",
+    "Build": "22631.7219",
+    "KBArticle": "KB5093998",
+    "KBUrl": "https://support.microsoft.com/help/5093998"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-06-09",
+    "ReleaseType": "Standard",
+    "ReleaseId": "24H2",
+    "Build": "26100.8655",
+    "KBArticle": "KB5094126",
+    "KBUrl": "https://support.microsoft.com/help/5094126"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-06-09",
+    "ReleaseType": "Standard",
+    "ReleaseId": "25H2",
+    "Build": "26200.8655",
+    "KBArticle": "KB5094126",
+    "KBUrl": "https://support.microsoft.com/help/5094126"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-06-09",
+    "ReleaseType": "Standard",
+    "ReleaseId": "26H1",
+    "Build": "28000.2269",
+    "KBArticle": "KB5095051",
+    "KBUrl": "https://support.microsoft.com/help/5095051"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-06-23",
+    "ReleaseType": "Preview",
+    "ReleaseId": "24H2",
+    "Build": "26100.8737",
+    "KBArticle": "KB5095093",
+    "KBUrl": "https://support.microsoft.com/help/5095093"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-06-23",
+    "ReleaseType": "Preview",
+    "ReleaseId": "25H2",
+    "Build": "26200.8737",
+    "KBArticle": "KB5095093",
+    "KBUrl": "https://support.microsoft.com/help/5095093"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-06-23",
+    "ReleaseType": "Preview",
+    "ReleaseId": "26H1",
+    "Build": "28000.2340",
+    "KBArticle": "KB5095091",
+    "KBUrl": "https://support.microsoft.com/help/5095091"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-07-14",
+    "ReleaseType": "Standard",
+    "ReleaseId": "23H2",
+    "Build": "22631.7376",
+    "KBArticle": "KB5099414",
+    "KBUrl": "https://support.microsoft.com/help/5099414"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-07-14",
+    "ReleaseType": "Standard",
+    "ReleaseId": "24H2",
+    "Build": "26100.8875",
+    "KBArticle": "KB5101650",
+    "KBUrl": "https://support.microsoft.com/help/5101650"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-07-14",
+    "ReleaseType": "Standard",
+    "ReleaseId": "25H2",
+    "Build": "26200.8875",
+    "KBArticle": "KB5101650",
+    "KBUrl": "https://support.microsoft.com/help/5101650"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-07-14",
+    "ReleaseType": "Standard",
+    "ReleaseId": "26H1",
+    "Build": "28000.2525",
+    "KBArticle": "KB5101649",
+    "KBUrl": "https://support.microsoft.com/help/5101649"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-07-18",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "24H2",
+    "Build": "26100.8894",
+    "KBArticle": "KB5121767",
+    "KBUrl": "https://support.microsoft.com/help/5121767"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-07-18",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "25H2",
+    "Build": "26200.8894",
+    "KBArticle": "KB5121767",
+    "KBUrl": "https://support.microsoft.com/help/5121767"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-07-28",
+    "ReleaseType": "Preview",
+    "ReleaseId": "24H2",
+    "Build": "26100.8973",
+    "KBArticle": "KB5101684",
+    "KBUrl": "https://support.microsoft.com/help/5101684"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-07-28",
+    "ReleaseType": "Preview",
+    "ReleaseId": "25H2",
+    "Build": "26200.8973",
+    "KBArticle": "KB5101684",
+    "KBUrl": "https://support.microsoft.com/help/5101684"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-07-28",
+    "ReleaseType": "Preview",
+    "ReleaseId": "26H1",
+    "Build": "28000.2608",
+    "KBArticle": "KB5101681",
+    "KBUrl": "https://support.microsoft.com/help/5101681"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-08-11",
+    "ReleaseType": "Standard",
+    "ReleaseId": "23H2",
+    "Build": "22631.7517",
+    "KBArticle": "KB5120240",
+    "KBUrl": "https://support.microsoft.com/help/5120240"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-08-11",
+    "ReleaseType": "Standard",
+    "ReleaseId": "24H2",
+    "Build": "26100.9168",
+    "KBArticle": "KB5121003",
+    "KBUrl": "https://support.microsoft.com/help/5121003"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-08-11",
+    "ReleaseType": "Standard",
+    "ReleaseId": "25H2",
+    "Build": "26200.9168",
+    "KBArticle": "KB5121003",
+    "KBUrl": "https://support.microsoft.com/help/5121003"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-08-11",
+    "ReleaseType": "Standard",
+    "ReleaseId": "26H1",
+    "Build": "28000.2704",
+    "KBArticle": "KB5121000",
+    "KBUrl": "https://support.microsoft.com/help/5121000"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-08-27",
+    "ReleaseType": "Preview",
+    "ReleaseId": "24H2",
+    "Build": "26100.9278",
+    "KBArticle": "KB5120998",
+    "KBUrl": "https://support.microsoft.com/help/5120998"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-08-27",
+    "ReleaseType": "Preview",
+    "ReleaseId": "25H2",
+    "Build": "26200.9278",
+    "KBArticle": "KB5120998",
+    "KBUrl": "https://support.microsoft.com/help/5120998"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-08-27",
+    "ReleaseType": "Preview",
+    "ReleaseId": "26H1",
+    "Build": "28000.2804",
+    "KBArticle": "KB5120996",
+    "KBUrl": "https://support.microsoft.com/help/5120996"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-09-08",
+    "ReleaseType": "Standard",
+    "ReleaseId": "23H2",
+    "Build": "22631.7582",
+    "KBArticle": "KB5122880",
+    "KBUrl": "https://support.microsoft.com/help/5122880"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-09-08",
+    "ReleaseType": "Standard",
+    "ReleaseId": "24H2",
+    "Build": "26100.9445",
+    "KBArticle": "KB5124008",
+    "KBUrl": "https://support.microsoft.com/help/5124008"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-09-08",
+    "ReleaseType": "Standard",
+    "ReleaseId": "25H2",
+    "Build": "26200.9445",
+    "KBArticle": "KB5124008",
+    "KBUrl": "https://support.microsoft.com/help/5124008"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-09-08",
+    "ReleaseType": "Standard",
+    "ReleaseId": "26H1",
+    "Build": "28000.2954",
+    "KBArticle": "KB5124012",
+    "KBUrl": "https://support.microsoft.com/help/5124012"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-09-14",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "23H2",
+    "Build": "22631.7584",
+    "KBArticle": "KB5129242",
+    "KBUrl": "https://support.microsoft.com/help/5129242"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-09-14",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "24H2",
+    "Build": "26100.9457",
+    "KBArticle": "KB5129195",
+    "KBUrl": "https://support.microsoft.com/help/5129195"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-09-14",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "25H2",
+    "Build": "26200.9457",
+    "KBArticle": "KB5129195",
+    "KBUrl": "https://support.microsoft.com/help/5129195"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-09-14",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "26H1",
+    "Build": "28000.2956",
+    "KBArticle": "KB5129194",
+    "KBUrl": "https://support.microsoft.com/help/5129194"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-09-22",
+    "ReleaseType": "Preview",
+    "ReleaseId": "24H2",
+    "Build": "26100.9550",
+    "KBArticle": "KB5124010",
+    "KBUrl": "https://support.microsoft.com/help/5124010"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-09-22",
+    "ReleaseType": "Preview",
+    "ReleaseId": "25H2",
+    "Build": "26200.9550",
+    "KBArticle": "KB5124010",
+    "KBUrl": "https://support.microsoft.com/help/5124010"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-09-22",
+    "ReleaseType": "Preview",
+    "ReleaseId": "26H1",
+    "Build": "28000.3086",
+    "KBArticle": "KB5124006",
+    "KBUrl": "https://support.microsoft.com/help/5124006"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-09-29",
+    "ReleaseType": "Standard",
+    "ReleaseId": null,
+    "Build": "26300.9457",
+    "KBArticle": "",
+    "KBUrl": ""
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-09-29",
+    "ReleaseType": "Preview",
+    "ReleaseId": null,
+    "Build": "26300.9550",
+    "KBArticle": "KB5124010",
+    "KBUrl": "https://support.microsoft.com/help/5124010"
   }
 ]

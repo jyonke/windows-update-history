@@ -1769,7 +1769,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2020-07-21",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Preview",
     "ReleaseId": "1809",
     "Build": "17763.1369",
     "KBArticle": "KB4559003",
@@ -2021,7 +2021,7 @@
       "LTSC"
     ],
     "AvailabilityDate": "2021-02-09",
-    "ReleaseType": "Standard",
+    "ReleaseType": "Unknown",
     "ReleaseId": "1809",
     "Build": "17763.1757",
     "KBArticle": "KB4601345",
@@ -5434,5 +5434,449 @@
     "Build": "26100.32370",
     "KBArticle": "KB5075899",
     "KBUrl": "https://support.microsoft.com/help/5075899"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-03-02",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "21H2",
+    "Build": "20348.4776",
+    "KBArticle": "KB5082314",
+    "KBUrl": "https://support.microsoft.com/help/5082314"
+  },
+  {
+    "Product": "Windows Server 2016",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2026-03-10",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1607",
+    "Build": "14393.8957",
+    "KBArticle": "KB5078938",
+    "KBUrl": "https://support.microsoft.com/help/5078938"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-03-10",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1809",
+    "Build": "17763.8511",
+    "KBArticle": "KB5078752",
+    "KBUrl": "https://support.microsoft.com/help/5078752"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-03-10",
+    "ReleaseType": "Standard",
+    "ReleaseId": "21H2",
+    "Build": "20348.4893",
+    "KBArticle": "KB5078766",
+    "KBUrl": "https://support.microsoft.com/help/5078766"
+  },
+  {
+    "Product": "Windows Server 2025",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-03-10",
+    "ReleaseType": "Standard",
+    "ReleaseId": "24H2",
+    "Build": "26100.32522",
+    "KBArticle": "KB5078740",
+    "KBUrl": "https://support.microsoft.com/help/5078740"
+  },
+  {
+    "Product": "Windows Server 2016",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2026-04-14",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1607",
+    "Build": "14393.9060",
+    "KBArticle": "KB5082198",
+    "KBUrl": "https://support.microsoft.com/help/5082198"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-04-14",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1809",
+    "Build": "17763.8644",
+    "KBArticle": "KB5082123",
+    "KBUrl": "https://support.microsoft.com/help/5082123"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-04-14",
+    "ReleaseType": "Standard",
+    "ReleaseId": "21H2",
+    "Build": "20348.5020",
+    "KBArticle": "KB5082142",
+    "KBUrl": "https://support.microsoft.com/help/5082142"
+  },
+  {
+    "Product": "Windows Server 2025",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-04-14",
+    "ReleaseType": "Standard",
+    "ReleaseId": "24H2",
+    "Build": "26100.32690",
+    "KBArticle": "KB5082063",
+    "KBUrl": "https://support.microsoft.com/help/5082063"
+  },
+  {
+    "Product": "Windows Server 2016",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2026-04-19",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "1607",
+    "Build": "14393.9062",
+    "KBArticle": "KB5091572",
+    "KBUrl": "https://support.microsoft.com/help/5091572"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-04-19",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "1809",
+    "Build": "17763.8647",
+    "KBArticle": "KB5091573",
+    "KBUrl": "https://support.microsoft.com/help/5091573"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-04-19",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "21H2",
+    "Build": "20348.5024",
+    "KBArticle": "KB5091575",
+    "KBUrl": "https://support.microsoft.com/help/5091575"
+  },
+  {
+    "Product": "Windows Server 2025",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-04-19",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "24H2",
+    "Build": "26100.32698",
+    "KBArticle": "KB5091157",
+    "KBUrl": "https://support.microsoft.com/help/5091157"
+  },
+  {
+    "Product": "Windows Server 2016",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2026-05-12",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1607",
+    "Build": "14393.9140",
+    "KBArticle": "KB5087537",
+    "KBUrl": "https://support.microsoft.com/help/5087537"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-05-12",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1809",
+    "Build": "17763.8755",
+    "KBArticle": "KB5087538",
+    "KBUrl": "https://support.microsoft.com/help/5087538"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-05-12",
+    "ReleaseType": "Standard",
+    "ReleaseId": "21H2",
+    "Build": "20348.5139",
+    "KBArticle": "KB5087545",
+    "KBUrl": "https://support.microsoft.com/help/5087545"
+  },
+  {
+    "Product": "Windows Server 2025",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-05-12",
+    "ReleaseType": "Standard",
+    "ReleaseId": "24H2",
+    "Build": "26100.32860",
+    "KBArticle": "KB5087539",
+    "KBUrl": "https://support.microsoft.com/help/5087539"
+  },
+  {
+    "Product": "Windows Server 2016",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2026-06-09",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1607",
+    "Build": "14393.9234",
+    "KBArticle": "KB5094122",
+    "KBUrl": "https://support.microsoft.com/help/5094122"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-06-09",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1809",
+    "Build": "17763.8880",
+    "KBArticle": "KB5094123",
+    "KBUrl": "https://support.microsoft.com/help/5094123"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-06-09",
+    "ReleaseType": "Standard",
+    "ReleaseId": "21H2",
+    "Build": "20348.5256",
+    "KBArticle": "KB5094128",
+    "KBUrl": "https://support.microsoft.com/help/5094128"
+  },
+  {
+    "Product": "Windows Server 2025",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-06-09",
+    "ReleaseType": "Standard",
+    "ReleaseId": "24H2",
+    "Build": "26100.32995",
+    "KBArticle": "KB5094125",
+    "KBUrl": "https://support.microsoft.com/help/5094125"
+  },
+  {
+    "Product": "Windows Server 2016",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2026-07-14",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1607",
+    "Build": "14393.9339",
+    "KBArticle": "KB5099535",
+    "KBUrl": "https://support.microsoft.com/help/5099535"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-07-14",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1809",
+    "Build": "17763.9020",
+    "KBArticle": "KB5099538",
+    "KBUrl": "https://support.microsoft.com/help/5099538"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-07-14",
+    "ReleaseType": "Standard",
+    "ReleaseId": "21H2",
+    "Build": "20348.5386",
+    "KBArticle": "KB5099540",
+    "KBUrl": "https://support.microsoft.com/help/5099540"
+  },
+  {
+    "Product": "Windows Server 2025",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-07-14",
+    "ReleaseType": "Standard",
+    "ReleaseId": "24H2",
+    "Build": "26100.33158",
+    "KBArticle": "KB5099536",
+    "KBUrl": "https://support.microsoft.com/help/5099536"
+  },
+  {
+    "Product": "Windows Server 2016",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2026-08-11",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1607",
+    "Build": "14393.9418",
+    "KBArticle": "KB5120418",
+    "KBUrl": "https://support.microsoft.com/help/5120418"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-08-11",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1809",
+    "Build": "17763.9121",
+    "KBArticle": "KB5120238",
+    "KBUrl": "https://support.microsoft.com/help/5120238"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-08-11",
+    "ReleaseType": "Standard",
+    "ReleaseId": "21H2",
+    "Build": "20348.5499",
+    "KBArticle": "KB5120242",
+    "KBUrl": "https://support.microsoft.com/help/5120242"
+  },
+  {
+    "Product": "Windows Server 2025",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-08-11",
+    "ReleaseType": "Standard",
+    "ReleaseId": "24H2",
+    "Build": "26100.33296",
+    "KBArticle": "KB5120233",
+    "KBUrl": "https://support.microsoft.com/help/5120233"
+  },
+  {
+    "Product": "Windows Server 2016",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2026-09-08",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1607",
+    "Build": "14393.9512",
+    "KBArticle": "KB5123099",
+    "KBUrl": "https://support.microsoft.com/help/5123099"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-09-08",
+    "ReleaseType": "Standard",
+    "ReleaseId": "1809",
+    "Build": "17763.9245",
+    "KBArticle": "KB5122876",
+    "KBUrl": "https://support.microsoft.com/help/5122876"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-09-08",
+    "ReleaseType": "Standard",
+    "ReleaseId": "21H2",
+    "Build": "20348.5622",
+    "KBArticle": "KB5122882",
+    "KBUrl": "https://support.microsoft.com/help/5122882"
+  },
+  {
+    "Product": "Windows Server 2025",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-09-08",
+    "ReleaseType": "Standard",
+    "ReleaseId": "24H2",
+    "Build": "26100.33438",
+    "KBArticle": "KB5122871",
+    "KBUrl": "https://support.microsoft.com/help/5122871"
+  },
+  {
+    "Product": "Windows Server 2016",
+    "ServicingOption": [
+      "LTSB"
+    ],
+    "AvailabilityDate": "2026-09-14",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "1607",
+    "Build": "14393.9514",
+    "KBArticle": "KB5129239",
+    "KBUrl": "https://support.microsoft.com/help/5129239"
+  },
+  {
+    "Product": "Windows Server 2019",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-09-14",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "1809",
+    "Build": "17763.9247",
+    "KBArticle": "KB5129238",
+    "KBUrl": "https://support.microsoft.com/help/5129238"
+  },
+  {
+    "Product": "Windows Server 2022",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-09-14",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "21H2",
+    "Build": "20348.5631",
+    "KBArticle": "KB5129237",
+    "KBUrl": "https://support.microsoft.com/help/5129237"
+  },
+  {
+    "Product": "Windows Server 2025",
+    "ServicingOption": [
+      "LTSC"
+    ],
+    "AvailabilityDate": "2026-09-14",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "24H2",
+    "Build": "26100.33451",
+    "KBArticle": "KB5129235",
+    "KBUrl": "https://support.microsoft.com/help/5129235"
   }
 ]
