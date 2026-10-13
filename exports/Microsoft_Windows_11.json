@@ -3809,18 +3809,6 @@
       "General Availability Channel"
     ],
     "AvailabilityDate": "2026-09-29",
-    "ReleaseType": "Out-of-band",
-    "ReleaseId": "26H2",
-    "Build": "26300.9457",
-    "KBArticle": "KB5129195",
-    "KBUrl": "https://support.microsoft.com/help/5129195"
-  },
-  {
-    "Product": "Windows 11",
-    "ServicingOption": [
-      "General Availability Channel"
-    ],
-    "AvailabilityDate": "2026-09-29",
     "ReleaseType": "Standard",
     "ReleaseId": "26H2",
     "Build": "26300.9457",
@@ -3832,60 +3820,11 @@
     "ServicingOption": [
       "General Availability Channel"
     ],
-    "AvailabilityDate": "2026-10-13",
-    "ReleaseType": "Standard",
-    "ReleaseId": "23H2",
-    "Build": "22631.7652",
-    "KBArticle": "KB5126653",
-    "KBUrl": "https://support.microsoft.com/help/5126653"
-  },
-  {
-    "Product": "Windows 11",
-    "ServicingOption": [
-      "LTSC",
-      "General Availability Channel"
-    ],
-    "AvailabilityDate": "2026-10-13",
-    "ReleaseType": "Standard",
-    "ReleaseId": "24H2",
-    "Build": "26100.9711",
-    "KBArticle": "KB5127648",
-    "KBUrl": "https://support.microsoft.com/help/5127648"
-  },
-  {
-    "Product": "Windows 11",
-    "ServicingOption": [
-      "General Availability Channel"
-    ],
-    "AvailabilityDate": "2026-10-13",
-    "ReleaseType": "Standard",
-    "ReleaseId": "25H2",
-    "Build": "26200.9711",
-    "KBArticle": "KB5127648",
-    "KBUrl": "https://support.microsoft.com/help/5127648"
-  },
-  {
-    "Product": "Windows 11",
-    "ServicingOption": [
-      "General Availability Channel"
-    ],
-    "AvailabilityDate": "2026-10-13",
-    "ReleaseType": "Standard",
+    "AvailabilityDate": "2026-09-29",
+    "ReleaseType": "Preview",
     "ReleaseId": "26H2",
-    "Build": "26300.9711",
-    "KBArticle": "KB5127648",
-    "KBUrl": "https://support.microsoft.com/help/5127648"
-  },
-  {
-    "Product": "Windows 11",
-    "ServicingOption": [
-      "General Availability Channel"
-    ],
-    "AvailabilityDate": "2026-10-13",
-    "ReleaseType": "Standard",
-    "ReleaseId": "26H1",
-    "Build": "28000.3231",
-    "KBArticle": "KB5127646",
-    "KBUrl": "https://support.microsoft.com/help/5127646"
+    "Build": "26300.9550",
+    "KBArticle": "KB5124010",
+    "KBUrl": "https://support.microsoft.com/help/5124010"
   }
 ]
