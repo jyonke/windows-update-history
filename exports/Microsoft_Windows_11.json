@@ -3820,18 +3820,6 @@
     "ServicingOption": [
       "General Availability Channel"
     ],
-    "AvailabilityDate": "2026-09-29",
-    "ReleaseType": "Preview",
-    "ReleaseId": "26H2",
-    "Build": "26300.9550",
-    "KBArticle": "KB5124010",
-    "KBUrl": "https://support.microsoft.com/help/5124010"
-  },
-  {
-    "Product": "Windows 11",
-    "ServicingOption": [
-      "General Availability Channel"
-    ],
     "AvailabilityDate": "2026-10-13",
     "ReleaseType": "Standard",
     "ReleaseId": "23H2",
@@ -3887,5 +3875,66 @@
     "Build": "28000.3231",
     "KBArticle": "KB5127646",
     "KBUrl": "https://support.microsoft.com/help/5127646"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-10-26",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "23H2",
+    "Build": "22631.7654",
+    "KBArticle": "KB5134130",
+    "KBUrl": "https://support.microsoft.com/help/5134130"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "LTSC",
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-10-26",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "24H2",
+    "Build": "26100.9725",
+    "KBArticle": "KB5134133",
+    "KBUrl": "https://support.microsoft.com/help/5134133"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-10-26",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "25H2",
+    "Build": "26200.9725",
+    "KBArticle": "KB5134133",
+    "KBUrl": "https://support.microsoft.com/help/5134133"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-10-26",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "26H2",
+    "Build": "26300.9725",
+    "KBArticle": "KB5134133",
+    "KBUrl": "https://support.microsoft.com/help/5134133"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-10-26",
+    "ReleaseType": "Out-of-band",
+    "ReleaseId": "26H1",
+    "Build": "28000.3237",
+    "KBArticle": "KB5134134",
+    "KBUrl": "https://support.microsoft.com/help/5134134"
   }
 ]
