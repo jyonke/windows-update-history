@@ -238,5 +238,17 @@
     "Build": "28000.3237",
     "KBArticle": "KB5134134",
     "KBUrl": "https://support.microsoft.com/help/5134134"
+  },
+  {
+    "Product": "Windows 11",
+    "ServicingOption": [
+      "General Availability Channel"
+    ],
+    "AvailabilityDate": "2026-10-28",
+    "ReleaseType": "Preview",
+    "ReleaseId": "26H1",
+    "Build": "28000.3365",
+    "KBArticle": "KB5127653",
+    "KBUrl": "https://support.microsoft.com/help/5127653"
   }
 ]
